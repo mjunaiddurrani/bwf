@@ -828,26 +828,31 @@
                                         <div class="row">
                                             <div class="">
                                                 <div class="ban-form">
-                                                    <form class="cmxform" id="bannerform" method="POST" action="https://bookwritingfounders.com/webpages/bannerFormController.php">
+                                                    <form class="cmxform" id="bannerform" method="POST" action="/leads/">
+                                                        <input type="hidden" id="tag" name="tag" value="banner-form">
+                                                        <input type="hidden" id="priceVal" name="price" value="null">
+                                                        <input type="hidden" name="news" value="1">
+                                                        <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                                                        <input type="hidden" name="brand" value="bookwritingfounders">
                                                         <div class="row">
                                                             <div class="col-lg-12">
                                                                 <div class="fldset">
-                                                                    <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                                                                    <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-12">
                                                                 <div class="fldset">
-                                                                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                                                                    <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-12">
                                                                 <div class="fldset">
-                                                                    <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
+                                                                    <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-12">
                                                                 <div class="fldset massage-field">
-                                                                    <textarea placeholder="Message" name="Message"></textarea>
+                                                                    <textarea placeholder="Message" name="brief"></textarea>
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-12">
@@ -1006,52 +1011,34 @@
                                     <div class="form-box-main clearfix">
                                         <h2>We would love to hear from you</h2>
 
-                                        <form class="cmxform" id="contactForm" method="POST" action="https://bookwritingfounders.com/webpages/serviceFormController.php" enctype="multipart/form-data">
+                                        <form class="cmxform" id="contactForm" method="POST" action="/leads/" enctype="multipart/form-data">
+                                            <input type="hidden" id="tag" name="tag" value="footer-top">
+                                            <input type="hidden" id="priceVal" name="price" value="null">
+                                            <input type="hidden" name="news" value="1">
+                                            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                                            <input type="hidden" name="brand" value="bookwritingfounders">
                                             <div class="row">
                                                 <div class="col-md-6">
                                                     <label class="field-txt">Name <span>*</span></label>
-                                                    <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                                                    <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                                                 </div>
                                                 <div class="col-md-6">
                                                     <label class="field-txt">Email <span>*</span></label>
-                                                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                                                    <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                                                 </div>
-                                                <div class="col-md-6">
-                                                    <label class="field-txt">Phone Number<span>*</span></label>
-                                                    <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
-                                                </div>
-                                                <div class="col-md-6">
-                                                    <div class="slct">
-                                                        <label class="field-txt">Select Service <span>*</span></label>
-                                                        <select id="packages" name="Package" class="valid" aria-invalid="false">
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                                                    </div>
-                                                </div>
-
-
                                                 <div class="col-md-12">
-                                                    <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                                                    <input type="file" name="wordfile" id="fileToUpload">
+                                                    <label class="field-txt">Phone Number<span>*</span></label>
+                                                    <input id="phone-country" name="phone" type="number" placeholder="Phone Number" required/>
                                                 </div>
+                                        
 
+
+                                            
 
 
                                                 <div class="col-md-12">
                                                     <label class="field-txt">Additional Comments <span>*</span></label>
-                                                    <textarea name="Comment" placeholder="Enter message here" /></textarea>
+                                                    <textarea name="brief" placeholder="Enter message here" /></textarea>
                                                 </div>
                                                 <div class="col-md-12">
                                                     <input class="btn-theme" type="submit" value="Submit" />
