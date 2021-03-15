@@ -46,7 +46,7 @@
         <div class="ghst-writng-content">
            <h1>Movie-quality book trailers that fit your budget starting</h1>
            <p>Our award-winning designers will create a book trailer precisely tailored to your book and genre.</p>
-           <a href="../order.html" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -136,7 +136,7 @@
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="..//order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -215,7 +215,7 @@
         <div class="thierd-sec-content">
           <h3>Video Trailer Reached More Audience</h3>
           <p>Book reviews, blog posts, and press releases can get the word out about your book—but they’re all the more effective when packaged with a short, attractive video that grabs the interest of potential readers. Book trailers also offer something more: data shows that using video on your website and social media exponentially expands your audience reach.</p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -266,7 +266,7 @@
               <div class="textwrap">
                 <h3>A book trailer is any video – at all – that promotes a book, an author, or a series of books.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -285,7 +285,7 @@
               <div class="textwrap">
                 <h3>Book trailers are a long-term investment, throughout the shelf-life of a book.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -382,7 +382,7 @@
 
         </ul>
         <div class="">
-          <a href="../order.html" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
+          <a href="..//order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
           <a href="tel:+18889768388 " class="btn-theme-outline blackbtn">+1-888-976-8388 </a>
         </div>
       </div>

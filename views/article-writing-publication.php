@@ -46,7 +46,7 @@
         <div class="ghst-writng-content">
            <h1>Research and Scientific Publication Support Services</h1>
            <p>As researchers, you make huge strides in advancing essential knowledge. Your achievements can save lives and improve the way we live. If you’re ready to share your knowledge with the world, this is the best opportunity for publishing your research – and for seeing it shared globally</p>
-           <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+           <a href="..//order/" class="btn-theme">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -134,7 +134,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="..//order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -447,7 +447,7 @@ to hire professional bookwriting.
             <li><strong>Impact –</strong> impact metrics based on citations received by articles. </li>
           </ul>
           <p>The average impact of all the articles in a journal is often used as a proxy for the impact of a specific article – especially when the article hasn’t yet had time to accumulate its own citations. It’s important to take this kind of proxy metric into consideration</p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -470,7 +470,7 @@ to hire professional bookwriting.
             <li>Add titles or subheadings (with keywords) to the different sections of your article.</li>
             <li>Make sure you place links to your article from relevant websites e.g. your institute’s website, Wikipedia, LinkedIn, blogs and social media</li>
           </ul>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -621,7 +621,7 @@ to hire professional bookwriting.
                <li>Complete submission support</li>
                <li>Review and resubmissions</li>
              </ul>
-             <a href="../order.html" class="btn-theme">Let's Get Started</a>
+             <a href="..//order/" class="btn-theme">Let's Get Started</a>
           </div>
         </div>
       </div>
@@ -640,7 +640,7 @@ to hire professional bookwriting.
                 <li>Exposure to International Conference Sponsorship Program</li>
                 <li>Your profiles online presence that increases credibility, exposure and rankings of your paper and you as a researcher.</li>
              </ul>
-             <a href="../order.html" class="btn-theme">Let's Get Started</a>
+             <a href="..//order/" class="btn-theme">Let's Get Started</a>
           </div>
         </div>
       </div>

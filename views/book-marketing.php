@@ -48,7 +48,7 @@
         <div class="ghst-writng-content">
            <h1>Experience to take your book to the next level</h1>
            <p>Now that your book is complete, the real challenges of publishing must be met head on. We work closely with authors and publishers to create and execute highly effective pre- and post-publication marketing and distribution.</p>
-           <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+           <a href="..//order/" class="btn-theme">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -138,7 +138,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="..//order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -217,7 +217,7 @@ to hire professional bookwriting.
         <div class="thierd-sec-content">
           <h3>We help you develop an overall marketing strategy through our one-day in-house workshop</h3>
           <p>Promote your book the right way, and take your book from the back of the shelf to bestseller. We’ve partnered with the experts so you can empower yourself with actionable book marketing techniques to drive awareness to your book and author platform throughout your career.</p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -271,7 +271,7 @@ to hire professional bookwriting.
               <div class="textwrap">
                 <p>Identifying your target audience and where these people hang out (online and in real life).</p>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -290,7 +290,7 @@ to hire professional bookwriting.
               <div class="textwrap">
                 <p>Converting that traffic into paying customers (i.e. readers who purchase your books).</p>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -392,7 +392,7 @@ to hire professional bookwriting.
 
         </ul>
         <div class="">
-          <a href="../order.html" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
+          <a href="..//order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
           <a href="tel:+18889768388 " class="btn-theme-outline blackbtn">+1-888-976-8388 </a>
         </div>
       </div>

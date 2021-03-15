@@ -228,7 +228,7 @@
                             </li>
                             <li>
                                 <span>Got a plot idea?</span>
-                                <a href="order.html" class="pur-bg">Let’s Get Started</a>
+                                <a href="/order/" class="pur-bg">Let’s Get Started</a>
                             </li>
                         </ul>
                     </div>
@@ -782,7 +782,7 @@
                             <li>
                                 <div class="chtnow">
                                     <a href="javascript:;" class="btn-theme2" onclick="setButtonURL();" target="_self">chat now</a>
-                                    <a href="order.html" target="blank" class="btn-theme-outline1 btngetstarted">Avail 20% Discount</a>
+                                    <a href="/order/" target="blank" class="btn-theme-outline1 btngetstarted">Avail 20% Discount</a>
                                 </div>
                             </li>
                         </ul>
@@ -808,7 +808,7 @@
 
                         </ul>
                         <div class="text-left">
-                            <p class="pbpx-0 fc-black text-left">Need help? <a href="order.html" class="btn-theme">Let's get started.</a></p>
+                            <p class="pbpx-0 fc-black text-left">Need help? <a href="/order/" class="btn-theme">Let's get started.</a></p>
                         </div>
 
                     </div>

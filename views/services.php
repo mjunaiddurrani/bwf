@@ -202,7 +202,7 @@
         <div class="Ghost-book-writing-content">
            <h1>Our bookwriting services are designed to help you achieve your publishing goals</h1>
            <p>From the initial planning stages to the moment you crack open the first page of your book, we will be your very own dedicated bookmaster, editor, professional consultant, and industry expert.</p>
-           <a href="order.html" class="btn-theme">Let’s Get Started</a>
+           <a href="/order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -483,7 +483,7 @@
             </figure>
             <h3>Various Specialized Genres</h3>
             <p>Our expert and experienced bookwriting have mastered the art of bookwriting and specialize in multiple genres. Whether it is a piece of fiction, an autobiography or a business publication – we promise exceptional quality and unparalleled service.</p>
-            <a href="order.html" class="btn-theme">Let’s Get Started</a>
+            <a href="/order/" class="btn-theme">Let’s Get Started</a>
           </li>
           <li>
             <figure>
@@ -491,7 +491,7 @@
             </figure>
             <h3>Personalized Service</h3>
             <p>Based on your requirements and the category/genre of writing, we assign an experienced writer to your project. We take care of all of your instructions, formulate a scheme of work, and complete it within the estimated time.</p>
-            <a href="order.html" class="btn-theme">Let’s Get Started</a>
+            <a href="/order/" class="btn-theme">Let’s Get Started</a>
           </li>
           <li>
             <figure>
@@ -500,7 +500,7 @@
             <h3>Client Communication</h3>
             <p>For us, each client is special, and each project is unique. We keep a special emphasis on client communication and keep you in the loop throughout the process – this way, we deliver what you expect and achieve 100% client satisfaction.</p>
             <!-- <p class="app-store"> <a href="javascript:;"><img src="assets/images/services/btn-appstore-black.png" class="img-fluid"></a> <a href="javascript:;"><img src="assets/images/services/btn-playstore-black.png" class="img-fluid"></a> </p> -->
-            <a href="order.html" class="btn-theme">Let’s Get Started</a>
+            <a href="/order/" class="btn-theme">Let’s Get Started</a>
           </li>
         </ul>
       </div>

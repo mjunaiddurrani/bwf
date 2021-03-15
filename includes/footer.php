@@ -83,7 +83,7 @@
                     <div class="row">
                         <div class="col-sm-7">
                             <!-- <p class="copyright">&copy;  bookwritingfounders <span id="year"></span>. All rights reserved.</p> -->
-                            <p class="copyright"><strong style="color:#fff;">© 2021 - All Rights Reserved, Octa Group of Technologies, LLC DBA</strong> <br/></p>
+                            <p class="copyright"><strong style="color:#fff;">© 2021 - All Rights Reserved, Book Writing Founders</strong> <br/></p>
                         </div>
                         <div class="col-sm-5">
                             <ul class="footer-nav2">
@@ -266,7 +266,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -313,7 +313,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -357,7 +357,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -411,7 +411,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -454,7 +454,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -502,7 +502,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -555,7 +555,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -602,7 +602,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 
@@ -641,7 +641,7 @@
                         <h3>Become an author to a best seller</h3>
                         <p>We are here for you. Hire one of our bookwriting and make your dream book come to life.</p>
                         <div class="">
-                            <a href="order.html">Let’s Start Writing A Book With Us</a>
+                            <a href="/order/">Let’s Start Writing A Book With Us</a>
                         </div>
                     </div>
 

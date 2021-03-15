@@ -48,7 +48,7 @@
         <div class="ghst-writng-content">
            <h1>Professional Ebook writing Services </h1>
            <p>Our ebook writing services are perhaps the easiest way to publish your own ebook. Our planning process is quick and painless with minimal involvement from you.  </p>
-           <a href="../order.html" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -140,7 +140,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="..//order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -220,7 +220,7 @@ to hire professional bookwriting.
           <h3>The Formula for Planning, Writing, & Designing A Custom Ebook</h3>
           <p>We will help bring out your best ideas for our writers to run with. You will have the option for a 1-hour interview so you can discuss the plans for your ebook with your writer in Real-time. This is especially helpful if you have a tough time expressing ideas on paper, or if you simply need to bounce ideas off on one of our expert ebook writers.<br><br>
 Once your writer is ready to go, he or she will begin to pen your content to your specifications—and ultimately enhance it to make it read like your perfect work of art. </p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -270,7 +270,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
               <div class="textwrap">
                 <h3>Connect yourself with a writer efficient in your desired genre. Book your one-on-one interview right now.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -289,7 +289,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
               <div class="textwrap">
                 <h3>Besides content, we take care of copywriting, editing and design.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -392,7 +392,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
 
         </ul>
         <div class="">
-          <a href="../order.html" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
+          <a href="..//order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
           <a href="tel:+18889768388 " class="btn-theme-outline blackbtn">+1-888-976-8388 </a>
         </div>
       </div>

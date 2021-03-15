@@ -44,7 +44,7 @@
         <div class="ghst-writng-content">
            <h1>100% error free Proofreading services</h1>
            <p>Our proofreaders have a keen eye for details. No typo, no error, and no mistake can escape their perusing lens.</p>
-           <a href="../order.html" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+442033187180" class="btn-theme-outline whitebtn">+44-203-318-7180</a>
            <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -216,7 +216,7 @@ to hire professional bookwriting.
         <div class="thierd-sec-content">
           <h3>We have industry's best proofreaders on board</h3>
           <p>We have a team of professional, qualified, native English speaking proofreaders on board.  We charge a flat rate per thousand words and depending on the length of the manuscripts, return the edited and proofread draft within two weeks max.</p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -270,7 +270,7 @@ to hire professional bookwriting.
               <div class="textwrap">
                 <h3>For Free Consultancy Regarding Book Writing Founders and Protection.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -294,7 +294,7 @@ to hire professional bookwriting.
                   <li>Web design and Internet SEO</li>
                 </ul>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">

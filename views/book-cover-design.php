@@ -36,7 +36,7 @@
         <div class="ghst-writng-content">
            <h1>Get a beautifully designed custom book cover starting at $449</h1>
            <p>Don’t sell your book short! Readers naturally reach for attractive, stylish covers, and our book cover designs get your book where it needs to be—in readers’ hands.</p>
-           <a href="../order.html" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -127,7 +127,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="..//order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -205,7 +205,7 @@ to hire professional bookwriting.
         <div class="thierd-sec-content">
           <h3>We help authors stand out</h3>
           <p>As a writer, you’re using words to tell a story. For the cover of your book, our award-winning designers create distinctive visuals and striking images that tell that same story, captivating readers from the moment they see your book.</p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -261,7 +261,7 @@ to hire professional bookwriting.
               <div class="textwrap">
                 <h3>Click ‘ORDER BOOK COVER’ and choose a package: Custom Book Cover Design or Book + Print   Cover Design.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -282,7 +282,7 @@ to hire professional bookwriting.
                 <h3>PAY YOUR INVOICE</h3>
                 <p>We will email you an invoice that is payable by Paypal or credit card.</p>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
