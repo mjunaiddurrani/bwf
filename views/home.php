@@ -149,28 +149,31 @@
                         <div class=" col-lg-12 col-xl-12 text-center">
                             <div class="home-banner-content hme-bner-cntn">
                                 <div class="analyzeform col-lg-12">
-                                    <form class="" id="banform" method="POST" action="https://bookwritingfounders.com/webpages/bannerFormController.php" novalidate="novalidate">
+                                    <form class="" id="banform" method="POST" action="/leads/" novalidate="novalidate">
+                                        <input type="hidden" id="tag" name="tag" value="banner-form">
+                                        <input type="hidden" id="priceVal" name="price" value="null">
+                                        <input type="hidden" name="news" value="1">
+                                        <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                                        <input type="hidden" name="brand" value="bookwritingfounders">
+                                        <input type="hidden" name="brief" value="brief field is unavailable">
+
                                         <div class="row">
                                             <div class="wrap">
                                                 <div class="dtf">
-                                                    <input id="fname" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
+                                                    <input id="fname" name="name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
                                                 </div>
                                                 <div class="dtf">
-                                                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required="">
+                                                    <input id="cemail" type="email" name="email" placeholder="Enter email here" required="">
                                                 </div>
                                                 <div class="dtf">
-                                                    <input id="phone-coun" name="Number" required="" type="number" rangelength="[2,15]" placeholder="Enter phone here">
+                                                    <input id="phone-coun" name="phone" required="" type="number" rangelength="[2,15]" placeholder="Enter phone here">
                                                 </div>
                                                 <div class="dtf text-left">
                                                     <script type="text/javascript">
                                                         document.getElementById('location').value = window.location.href;
                                                     </script>
                                                     <input class="submit" type="submit" value="Contact Team">
-                                                    <input type="hidden" name="hiddencapcha" value="">
-                                                    <input type="hidden" name="ctry" value="">
-                                                    <input type="hidden" name="pc" value="">
-                                                    <input type="hidden" name="cip">
-                                                    <input type="hidden" id="location" name="locationURL" value="http://bookwritingfounders.com/" />
+                                                  
                                                 </div>
                                             </div>
                                         </div>
