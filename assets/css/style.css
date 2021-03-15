@@ -1395,7 +1395,7 @@ footer .social-full { border-top: 1px solid rgba(0,0,0,.06); border-bottom: 1px 
     text-align: left !important;
 }
 .homwBtmform .home-banner-content {top: 0;}
-.slider-wrapper {position: relative;overflow-x: hidden;     margin-top: 131px;}
+.slider-wrapper {position: relative;overflow-x: hidden;     margin-top: 170px;}
 .black{margin-top:0px;}
 
 .bannerformnew {position: absolute;bottom: 20px;z-index: 9;width: 100%;}
@@ -2616,7 +2616,7 @@ h2, .h2{font-size: var(--font-size-h2);}
 
 
 
-/*bookmasters css*/
+/*bookwriting css*/
 
 .header-main.fixed .main-menu{margin: 35px 0 0;}
 
@@ -5266,7 +5266,7 @@ p.app-store {
 
 /*==============================GHOST-WRITING-PAGE-START==============================*/
 .main-ghst-writng-first-sec{
-       margin-top: 131px;
+       margin-top: 170px;
        background-size: cover;
        width: 100%;
        position: relative;
@@ -5875,7 +5875,7 @@ color: #091e42;
 
 
 .main-pricing-sec{
-    margin-top: 131px;
+    margin-top: 200px;
 }
 .custom-qoute {
     margin-top: 30px;
@@ -6738,10 +6738,10 @@ p.small{font-size: 14px;color: #000;text-align: center;display: block;}
     height: 100px;
 }
 
-.bookmasters-page .main-ghst-writng-second-sec{
+.bookwriting-page .main-ghst-writng-second-sec{
     background-color: #ffffff;
 }
-.bookmasters-page .clientele-sec{
+.bookwriting-page .clientele-sec{
   background-color: #F4F5F7;
 }
 .terms_cond_inner h5{
@@ -7328,19 +7328,19 @@ body.order-page.iti-mobile .form-box-main form {
 .collaboration-sec .wrapper {
     padding-top: 0px;
 }
-.bookmasters-page .collaboration-sec figure {
+.bookwriting-page .collaboration-sec figure {
     margin-top: 40px;
 }
-.bookmasters-page .collaboration-sec {
+.bookwriting-page .collaboration-sec {
     padding: 30px 0;
 }
 .strt-bg{
     padding-bottom: 30px;
 }
-.bookmasters-page .testimonials-slider .slick-next {
+.bookwriting-page .testimonials-slider .slick-next {
     top: 425px;
 }
-.bookmasters-page .testimonials-slider .slick-prev {
+.bookwriting-page .testimonials-slider .slick-prev {
     top: 425px;
 }
 .slick-next, .slick-prev{
@@ -7487,10 +7487,10 @@ body.order-page.iti-mobile .form-box-main form {
 section.main-ghst-writng-sixth-sec {
     margin-bottom: 15px;
 }
-.bookmasters-page .testimonials-slider .slick-next {
+.bookwriting-page .testimonials-slider .slick-next {
     top: 390px;
 }
-.bookmasters-page .testimonials-slider .slick-prev {
+.bookwriting-page .testimonials-slider .slick-prev {
     top: 390px;
 }
 .ultimate-slider .slick-next {
@@ -7587,7 +7587,7 @@ section.main-ghst-writng-sixth-sec {
 section.main-sft-sec {
     padding-bottom: 60px;
 }
-.bookmasters-page .collaboration-sec{
+.bookwriting-page .collaboration-sec{
    padding: 30px 0;
 }
 .myprocess  {
@@ -7684,7 +7684,7 @@ section.main-sft-sec {
 .main-ghst-writng-second-sec {
     padding-top: 30px;
 }
-.bookmasters-page .collaboration-sec figure{
+.bookwriting-page .collaboration-sec figure{
     margin: 50px 0 0 0;
 }
 .main-strt-cta-sec{

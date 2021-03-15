@@ -1,34 +1,68 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Mar 2021 13:19:37 at https://thebookmasters.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thebookmasters.com/ -O1 "C:\My Web Sites\thebookmaster" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-13:21:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://images.dmca.com/Badges/DMCABadgeHelper.min.js (from https://thebookmasters.com/)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/css/fonts/slick.eot (from https://thebookmasters.com/assets/css/m-style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/css/fonts/slick.eot? (from https://thebookmasters.com/assets/css/m-style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/css/fonts/slick.woff (from https://thebookmasters.com/assets/css/m-style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/css/fonts/slick.ttf (from https://thebookmasters.com/assets/css/m-style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/css/fonts/slick.svg (from https://thebookmasters.com/assets/css/m-style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/img/pattern.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/why-book-bg.jpg (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/benefit-hd-bg.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/slick-arrows-slider.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/fancybox/close-custom.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/car-focus.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/iphonex.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/cta-fold.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/services-icons.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/chat-banner.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/img/sale.png (from https://thebookmasters.com/assets/css/style.css)
-13:21:59	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets/images/culture.png (from https://thebookmasters.com/assets/css/style.css)
-13:22:00	Error: 	"Not Found" (404) at link https://thebookmasters.com/our-services/book-video-trailer (from https://thebookmasters.com/services)
-13:22:00	Error: 	"Not Found" (404) at link https://thebookmasters.com/our-services/assets/images/popup.png (from https://thebookmasters.com/our-services/ghost-writing)
-13:22:02	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets//images/services/tabs/CFE531C2.png (from https://thebookmasters.com/assets//images/services/tabs/journal-submission.svg)
-13:22:02	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets//images/services/tabs/CFE531C6.png (from https://thebookmasters.com/assets//images/services/tabs/journal-submission.svg)
-13:22:02	Error: 	"Not Found" (404) at link https://thebookmasters.com/assets//images/services/tabs/CFE531C1.png (from https://thebookmasters.com/assets//images/services/tabs/journal-submission.svg)
-
-HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 25 seconds : 269 links scanned, 245 files written (53707153 bytes overall) [52660219 bytes received at 363173 bytes/sec], 1460154 bytes transferred using HTTP compression in 40 files, ratio 20%, 10.1 requests per connection
-(22 errors, 1 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Mar 2021 13:19:37 at https://bookwritingfounders.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bookwritingfounders.com/ -O1 "C:\My Web Sites\bookwritingfounders" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+13:21:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://images.dmca.com/Badges/DMCABadgeHelper.min.js (from https://bookwritingfounders.com/)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/css/fonts/slick.eot (from https://bookwritingfounders.com/assets/css/m-style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/css/fonts/slick.eot? (from https://bookwritingfounders.com/assets/css/m-style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/css/fonts/slick.woff (from https://bookwritingfounders.com/assets/css/m-style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/css/fonts/slick.ttf (from https://bookwritingfounders.com/assets/css/m-style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.comonts/slick.svg (from https://bookwritingfounders.com/assets/css/m-style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/img/pattern.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/why-book-bg.jpg (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/benefit-hd-bg.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/slick-arrows-slider.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/fancybox/close-custom.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/car-focus.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/iphonex.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/cta-fold.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/services-icons.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/chat-banner.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/img/sale.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/culture.png (from https://bookwritingfounders.com/assets/css/style.css)
+
+13:22:00	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/our-services/book-video-trailer (from https://bookwritingfounders.com/services)
+
+13:22:00	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/our-services/assets/images/popup.png (from https://bookwritingfounders.com/our-services/ghost-writing)
+
+13:22:02	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets//images/services/tabs/CFE531C2.png (from https://bookwritingfounders.com/assets//images/services/tabs/journal-submission.svg)
+
+13:22:02	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets//images/services/tabs/CFE531C6.png (from https://bookwritingfounders.com/assets//images/services/tabs/journal-submission.svg)
+
+13:22:02	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets//images/services/tabs/CFE531C1.png (from https://bookwritingfounders.com/assets//images/services/tabs/journal-submission.svg)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 25 seconds : 269 links scanned, 245 files written (53707153 bytes overall) [52660219 bytes received at 363173 bytes/sec], 1460154 bytes transferred using HTTP compression in 40 files, ratio 20%, 10.1 requests per connection
+
+(22 errors, 1 warnings, 0 messages)
+

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from thebookmasters.com/order?pack=16 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 Mar 2021 08:22:00 GMT -->
+<!-- Mirrored from bookwritingfounders.com/order?pack=16 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 Mar 2021 08:22:00 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <title>Order Form</title>
@@ -14,30 +14,13 @@
 
 
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
-<link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
-<link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Niramit:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i|Titillium+Web:200,200i,300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
-<link rel='stylesheet' id='main-style-css'  href='../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Khula:300,400,600,700,800&amp;display=swap" rel="stylesheet">
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
 
-<meta name="google-site-verification" content="w0rB5hCICEIxymPxnJ1S5VjUqYznGI5uKKPe_SBIXig" />
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7TBW3SMHZ2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-7TBW3SMHZ2');
-</script>
+    <?php include_once('includes/head.php');?>
+
+
+   
 
 
 </head>
@@ -55,14 +38,14 @@
     <div class="row">
       <div class="col-lg-4 ord-box1">
         <div class="logo">
-            <a href="index.html">
+            <a href="/">
               <img class="img-fluid black" src="assets/images/logo-dark.svg" alt="*" />
             </a>
           </div>
       </div>
       <div class="col-lg-8  ord-box2">
         <div class="text-right">
-          <a href="index.html"><span class="icon-x-square"></span></a>
+          <a href="/"><span class="icon-x-square"></span></a>
         </div>
       </div>
     </div>
@@ -81,7 +64,7 @@
                 <div class="col-lg-8 offset-lg-2   inner-content mtpx-100 text-left">
                   <div class="form-box-main clearfix">
                     <h2>We would love to hear from you</h2>
-                    <form class="cmxform" id="contactForm"  method="POST" action="https://thebookmasters.com/webpages/contactFormController.php"  enctype="multipart/form-data">
+                    <form class="cmxform" id="contactForm"  method="POST" action="https://bookwritingfounders.com/webpages/contactFormController.php"  enctype="multipart/form-data">
                       <div class="row">
                         <div class="col-md-6">
                           <label class="field-txt">Name <span>*</span></label>
@@ -274,13 +257,9 @@
 
 
 
-<script type="text/javascript">
-  $( document ).ready(function() {
-    
-});
-</script>
+
 
 </body>
 
-<!-- Mirrored from thebookmasters.com/order?pack=16 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 Mar 2021 08:22:00 GMT -->
+<!-- Mirrored from bookwritingfounders.com/order?pack=16 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 Mar 2021 08:22:00 GMT -->
 </html>
