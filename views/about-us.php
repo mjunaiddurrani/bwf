@@ -82,7 +82,7 @@
               </figure>
             </div>
             <div class="alts-box2">
-              <p>Book Master <br/>Writing</p>
+              <p>Book Writing Founder <br/>Writing</p>
             </div>
           </div>
         </a>

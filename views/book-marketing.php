@@ -265,7 +265,7 @@ to hire professional bookwriting.
       <div class="col-lg-12">
         <div class="boxeswrap">
           <h2>Strategically Market to Increase Book Sales</h2>
-          <p>Even if your book is the next Great British Novel, it won’t be a success if it doesn’t get into the collective conscious of the public. This is why you need Book Master marketing tactics.  </p>
+          <p>Even if your book is the next Great British Novel, it won’t be a success if it doesn’t get into the collective conscious of the public. This is why you need Book Writing Founder marketing tactics.  </p>
           <ul>
             <li>
               <div class="textwrap">

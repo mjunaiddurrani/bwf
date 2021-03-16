@@ -43,7 +43,7 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="ghst-writng-content">
-           <h1>The Book Master Publishing Program is the premier professional publishing program.</h1>
+           <h1>The Book Writing Founder Publishing Program is the premier professional publishing program.</h1>
            <p>Whether you want to self-publish or go the old fashioned way, we at Book Writing Founders will take your book to the height you have dreamt of. </p>
            <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
@@ -336,45 +336,6 @@ Our Publishing book promotion professional will research and develop a promotion
 </section>
 
 
-<!-- 
-<section class="myprocess main-ghst-sec">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="wdt-80">Book Writing Founders Your Way</h3>
-        <p class="wdt-80">Our excellence in bookwriting stems from our unique and client-centric approach.</p>
-        <ul class="book-slider">
-          <li>
-            <figure>
-              <img src="../assets/images/services/updated-layouts-collab.png">
-            </figure>
-            <h3>Various Specialized Genres</h3>
-            <p>Our expert and experienced bookwriting have mastered the art of bookwriting and specialize in multiple genres. Whether it is a piece of fiction, an autobiography or a business publication – we promise exceptional quality and unparalleled service.</p>
-            <a href="http://bookwritingfounders.com/order" class="btn-theme">Let’s Get Started</a>
-          </li>
-          <li>
-            <figure>
-              <img src="../assets/images/services/updated-layouts-platform.png">
-            </figure>
-            <h3>Personalized Service</h3>
-            <p>Based on your requirements and the category/genre of writing, we assign an experienced writer to your project. We take care of all of your instructions, formulate a scheme of work, and complete it within the estimated <span>time.</span></p>
-            <a href="http://bookwritingfounders.com/order" class="btn-theme">Let’s Get Started</a>
-          </li>
-          <li>
-            <figure>
-              <img src="../assets/images/services/updated-layouts-sync.png">
-            </figure>
-            <h3>Client Communication</h3>
-            <p>For us, each client is special, and each project is unique. We keep a special emphasis on client communication and keep you in the loop throughout the process – this way, we deliver what you expect and achieve 100% client satisfaction.</p>
-            <a href="http://bookwritingfounders.com/order" class="btn-theme">Let’s Get Started</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section> -->
-
-
 
 
 <div class="strt-bg">
@@ -441,7 +402,7 @@ Our Publishing book promotion professional will research and develop a promotion
       <div class="col-lg-12">
         <div class="git wdt-80">
           <h3>Your success reflects our hard work.</h3>
-          <p>We invest all our time and energy in making your manuscript worthy and ensure that it has passed on to trusted people in the industry. We carry out extensive research and establish necessary contacts for you so that your publishing requirements are very well taken care of. So gear up and hire a literary agent today with Book Master publishing program!  </p>
+          <p>We invest all our time and energy in making your manuscript worthy and ensure that it has passed on to trusted people in the industry. We carry out extensive research and establish necessary contacts for you so that your publishing requirements are very well taken care of. So gear up and hire a literary agent today with Book Writing Founder publishing program!  </p>
         </div>
       </div>
     </div>
@@ -507,7 +468,7 @@ Our Publishing book promotion professional will research and develop a promotion
           </div>
           <div class="git-box2">
             <h3>AUTHOR Profiling</h3>
-            <p>Our Book masters will craft an engaging author bio and book description to ensure your book is interesting and appealing to your ideal readers. An author website will be creating along with a Wikipedia page to make you a house hold name.</p>
+            <p>Our Book writers will craft an engaging author bio and book description to ensure your book is interesting and appealing to your ideal readers. An author website will be creating along with a Wikipedia page to make you a house hold name.</p>
           </div>
         </div>
       </div>
