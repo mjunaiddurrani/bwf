@@ -64,25 +64,30 @@
                 <div class="col-lg-8 offset-lg-2   inner-content mtpx-100 text-left">
                   <div class="form-box-main clearfix">
                     <h2>We would love to hear from you</h2>
-                    <form class="cmxform" id="contactForm"  method="POST" action="https://bookwritingfounders.com/webpages/contactFormController.php"  enctype="multipart/form-data">
+                    <form class="cmxform" id="contactForm"  method="POST" action="/leads/"  enctype="multipart/form-data">
+                          <input type="hidden" id="tag" name="tag" value="footer-top">
+                          <input type="hidden" id="priceVal" name="price" value="null">
+                          <input type="hidden" name="news" value="1">
+                          <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                          <input type="hidden" name="brand" value="bookwritingfounders">
                       <div class="row">
                         <div class="col-md-12">
                           <label class="field-txt">Name <span>*</span></label>
-                          <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                          <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                         </div>
                         <div class="col-md-12">
                           <label class="field-txt">Email <span>*</span></label>
-                          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                         </div>
                         <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
-                          <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
+                          <input id="phone-country" name="phone" type="number" placeholder="Phone Number" required/>
                         </div>
                       
                         
                         <div class="col-md-12">
                           <label class="field-txt">Additional Comments <span>*</span></label>
-                          <textarea name="Comment" placeholder="Enter message here" /></textarea>
+                          <textarea name="brief" placeholder="Enter message here" /></textarea>
                         </div>
                         <div class="col-md-12">
                           <input class="btn-theme" type="submit" value="Submit" />

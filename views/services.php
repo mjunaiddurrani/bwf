@@ -99,7 +99,6 @@
           <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
           <li><a class="inner-pad" href="/ebook-writing/">Ebook Writing</a></li>
           <li><a class="inner-pad" href="/book-marketing/">Book Marketing</a></li>
-          <li><a class="inner-pad" href="/copyrights-protection/">Copyrights Protection</a></li>
           <li><a class="inner-pad" href="/author-website/">Author Website</a></li>
           <li><a class="inner-pad" href="/professional-audio-book/">Professional Audio Book</a></li>
           <li><a class="inner-pad" href="/Book-Video-Trailer/">Book Video Trailer</a></li>
@@ -285,7 +284,7 @@
           </div>
         </a>
       </div>
-      <div class="col-lg-3 col-md-3 col-sm-12">
+      <!-- <div class="col-lg-3 col-md-3 col-sm-12">
         <a href="/copyrights-protection/">
           <div class="main-atls">
             <div class="alts-box1">
@@ -299,7 +298,7 @@
             </div>
           </div>
         </a>
-      </div>
+      </div> -->
      
       
       <div class="col-lg-3 col-md-3 col-sm-12">
@@ -474,76 +473,6 @@
   </section>
 </div> -->
 
-
-
-<div class="services-banner">
-  
-
-<section class="myprocess main-ghst-sec">
-
-
-        <div class="container ">
-          <div class="row">
-            <div class=" col-lg-12 col-xl-12 text-center">
-              <div class="home-banner-content">
-                <div class="col-lg-8 offset-lg-2   inner-content mtpx-100 text-left">
-                  <div class="form-box-main clearfix">
-                    <h2>We would love to hear from you</h2>
-                   
-                    <form class="cmxform" id="contactForm"  method="POST" action="https://bookwritingfounders.com/webpages/serviceFormController.php"  enctype="multipart/form-data">
-                      <div class="row">
-                        <div class="col-md-6">
-                          <label class="field-txt">Name <span>*</span></label>
-                          <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
-                        </div>
-                        <div class="col-md-6">
-                          <label class="field-txt">Email <span>*</span></label>
-                          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
-                        </div>
-                        <div class="col-md-12">
-                          <label class="field-txt">Phone Number<span>*</span></label>
-                          <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
-                        </div>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <div class="col-md-12">
-                          <label class="field-txt">Additional Comments <span>*</span></label>
-                          <textarea name="Comment" placeholder="Enter message here" /></textarea>
-                        </div>
-                        <div class="col-md-12">
-                            <input class="btn-theme" type="submit" value="Submit" />
-                            <input type="hidden" name="hiddencapcha" value="">
-                            <input type="hidden" name="ctry" value="">
-                            <input type="hidden" name="pc" value="">
-                            <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="services/" />
-                        </div>
-                      </div>
-                    </form>
-                  </div>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-      
-
-      
-  </section>
-    <!-- <div class="slider-progress">
-      <div class="progress"></div>
-    </div> -->
-
-
-
-
-
-</div>
 
 
 <!-- <footer class="footer-main">

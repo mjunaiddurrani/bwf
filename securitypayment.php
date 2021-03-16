@@ -96,11 +96,11 @@ ini_set('display_errors', 1);
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>TheWebFounder</title>
+  <title>BookWritingFounder</title>
     <meta name="description" content=""> 
    
  
-   <?php include_once('include/styles.php');?>
+   <?php include_once('includes/styles.php');?>
    
 <style>
 	.inner_bg{
@@ -252,7 +252,7 @@ ini_set('display_errors', 1);
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000">Complete Your Payment</h2>
+                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color: white;">Complete Your Payment</h2>
                 </div>
             </div>
         </div>
@@ -269,7 +269,7 @@ ini_set('display_errors', 1);
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<h2 class="card-heading" style="color:black;">Invoice from TheWebFounder</h2>
+							<h2 class="card-heading" style="color:black;">Invoice from BookWritingFounder</h2>
 							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
 					

@@ -16,18 +16,23 @@
                         <img src="assets/images/popup-img.jpg" alt="">
                     </figure>
                     <P>Don't miss out on special discount offer</P>
-                    <form id="popupfrm" class="cmxform" method="POST" action="https://bookwritingfounders.com/webpages/bannerFormController.php">
+                    <form id="popupfrm" class="cmxform" method="POST" action="/leads/">
+                        <input type="hidden" id="tag" name="tag" value="footer-top">
+                        <input type="hidden" id="priceVal" name="price" value="null">
+                        <input type="hidden" name="news" value="1">
+                        <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                        <input type="hidden" name="brand" value="bookwritingfounders">
 
                         <div class="fldst">
-                            <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name *" required />
+                            <input id="username" name="name" minlength="2" type="text" placeholder="Full Name *" required />
                         </div>
 
                         <div class="fldst fldstrght">
-                            <input id="cemail" type="Email" name="Email" placeholder="Email Address *" required>
+                            <input id="cemail" type="Email" name="email" placeholder="Email Address *" required>
                         </div>
 
                         <div class="fldst">
-                            <input id="phone-coun" name="Number" required="" type="number" rangelength="[2,15]" placeholder="Phone No *">
+                            <input id="phone-coun" name="phone" required="" type="number" rangelength="[2,15]" placeholder="Phone No *">
                             <script type="text/javascript">
                                 document.getElementById('location').value = window.location.href;
                             </script>
@@ -39,7 +44,7 @@
                         </div>
 
                         <div class="fldst">
-                            <textarea name="Message" placeholder="Enter a brief description of your Book Project"></textarea>
+                            <textarea name="brief" placeholder="Enter a brief description of your Book Project"></textarea>
 
                         </div>
 
@@ -109,7 +114,7 @@
                             <div class="cntct">
                                 <ul>
                                     <li><a href="tel:+18889768388 "><i class="fa fa-phone" aria-hidden="true"></i>+1-888-976-8388 </a></li>
-                                    <li><a href="mailto:info@bookwritingfounders.com"><i class="fa fa-mail" aria-hidden="true"></i>info@bookwritingfounders.com</a></li>
+                                    <li><a href="mailto:query@bookwritingfounders.com"><i class="fa fa-mail" aria-hidden="true"></i>query@bookwritingfounders.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -226,26 +231,31 @@
                     <div class="container">
                         <div class="row">
                             <div class="ban-form">
-                                <form class="cmxform" id="bannerform" method="POST" action="https://bookwritingfounders.com/webpages/bannerFormController.php">
+                                <form class="cmxform" id="bannerform" method="POST" action="/leads/">
+                                    <input type="hidden" id="tag" name="tag" value="footer-top">
+                                    <input type="hidden" id="priceVal" name="price" value="null">
+                                    <input type="hidden" name="news" value="1">
+                                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                                    <input type="hidden" name="brand" value="bookwritingfounders">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="fldset">
-                                                <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                                                <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="fldset">
-                                                <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                                                <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="fldset">
-                                                <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
+                                                <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="fldset">
-                                                <textarea name="Message" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                                                <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
                                             </div>
                                         </div>
 

@@ -162,21 +162,6 @@
           </div>
         </a>
       </div>
-      <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="/copyrights-protection/">
-          <div class="main-atls">
-            <div class="alts-box1">
-              <figure>
-                <img class="nmrl-img" src="assets/images/services/copyright-protection.svg" alt=""/>
-                <img class="hver-img" src="assets/images/services/copyright-protection-hover.svg" alt=""/>
-              </figure>
-            </div>
-            <div class="alts-box2">
-              <p>Copyrights <br/>Protection</p>
-            </div>
-          </div>
-        </a>
-      </div>
      
       
       <div class="col-lg-3 col-md-3 col-sm-12">
