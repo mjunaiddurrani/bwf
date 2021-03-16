@@ -4722,7 +4722,7 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 .introduction-sec .wrapper h3{
     color: #091e42;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 23px;
     text-transform: uppercase;
 }
 .introduction-sec .wrapper h3 span{
@@ -8585,7 +8585,7 @@ ul.badges li img{
 /*=========================================egg-popup======================================================*/
 
 
-@media(max-width:1113px){
+@media(max-width:1268px){
     .introduction-sec{
         background:none;
         background-color: #cfd7e2;
