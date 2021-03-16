@@ -69,7 +69,7 @@
                         <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
                         <li><a class="inner-pad" href="/ebook-writing/">Ebook Writing</a></li>
                         <li><a class="inner-pad" href="/book-marketing/">Book Marketing</a></li>
-                        <li><a class="inner-pad" href="/copyrights-protection/">Copyrights Protection</a></li>
+                        <li><a class="inner-pad" href="/book-cover-design/">Book Cover Design</a></li>
                         <li><a class="inner-pad" href="/author-website/">Author Website</a></li>
                         <li><a class="inner-pad" href="/professional-audio-book/">Professional Audio Book</a></li>
                         <li><a class="inner-pad" href="/Book-Video-Trailer/">Book Video Trailer</a></li>
@@ -171,14 +171,14 @@
                                     <li class=""><a href="/ebook-writing/">Ebook Writing</a></li>
                                     <li class=""><a href="/article-writing-publication/">Article Writing & Publication</a></li>
                                     <li class=""><a href="/Book-Video-Trailer/">Book Video Trailer</a></li>
-                                    <li class=""><a href="/copyrights-protection/">Copyrights Protection</a></li>
+                                    <li class=""><a href="/book-cover-design/">Book Cover Design</a></li>
                                     <div class="has-submenu"><a href="javascript:;" class="menuside menuside2">More <i class="fa fa-plus "></i></a>
                                         <div class="dropdown">
                                             <ul>
 
                                                 <li class=""><a href="/author-website/">Author Website</a></li>
                                                 <li class=""><a href="/book-marketing/">Book Marketing</a></li>
-                                                <li class=""><a href="/book-cover-design/">Book Cover Design</a></li>
+
                                                 <li class=""><a href="/custom-book-illustration/">Custom Book Illustration</a></li>
                                                 <li class=""><a href="/professional-audio-book/">Professional Audio Book</a></li>
                                         </div>
