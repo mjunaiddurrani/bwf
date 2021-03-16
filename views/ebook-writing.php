@@ -353,7 +353,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
         <div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2">
           <div class="strt-cta wdt-80">
             <h3>EBook Writing Service That Will Get You Published in no Time</h3>
-            <p>With our Book Masters service, you can stay assured that your e-books would be read, loved, and shared, and of course authored by you.</p>
+            <p>With our Book Writing Founder service, you can stay assured that your e-books would be read, loved, and shared, and of course authored by you.</p>
             <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Become an author to a best seller</a>
           </div>
         </div>
@@ -369,7 +369,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
       <div class="col-lg-4">
         <div class="paright">
           <h2>WHAT YOU GET WITH EVERY EBOOK?</h2>
-          <p>our skilled Book masters will incorporate a combination of charts, colours, graphics, and call outs to support the e-book’s theme, and help you <strong>dramatically improve the content of your e-book.</strong></p>
+          <p>our skilled Book writers will incorporate a combination of charts, colours, graphics, and call outs to support the e-book’s theme, and help you <strong>dramatically improve the content of your e-book.</strong></p>
         </div>
       </div>      
 
@@ -616,7 +616,7 @@ best-in-class eBooks.</h3>
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div class="tls-sft">
           <h3>Easy to Get Started</h3>
-          <p class="quick-ser">We make it easy to tell your writer what you want. When you hire ebook writers on our platform, you’re entering into a Book Masters relationship with them. Just start the chat and hit go!</p>
+          <p class="quick-ser">We make it easy to tell your writer what you want. When you hire ebook writers on our platform, you’re entering into a Book Writing Founder relationship with them. Just start the chat and hit go!</p>
           <a href="custom-book-illustration.html" class="btn-theme">Learn more</a>
         </div>
       </div>

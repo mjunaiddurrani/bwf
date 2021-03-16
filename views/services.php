@@ -201,7 +201,7 @@
       <div class="col-lg-6 offset-lg-1 col-md-5 offset-md-1 col-sm-12">
         <div class="Ghost-book-writing-content">
            <h1>Our bookwriting services are designed to help you achieve your publishing goals</h1>
-           <p>From the initial planning stages to the moment you crack open the first page of your book, we will be your very own dedicated bookmaster, editor, professional consultant, and industry expert.</p>
+           <p>From the initial planning stages to the moment you crack open the first page of your book, we will be your very own dedicated bookwriter, editor, professional consultant, and industry expert.</p>
            <a href="/order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
@@ -256,7 +256,7 @@
               </figure>
             </div>
             <div class="alts-box2">
-              <p>Book Master <br/>Writing</p>
+              <p>Book Writing Founder <br/>Writing</p>
             </div>
           </div>
         </a>

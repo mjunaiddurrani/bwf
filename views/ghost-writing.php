@@ -28,7 +28,7 @@
 
 
 </head>
-<body class="book masters-page">
+<body class="book writers-page">
 
 
 
@@ -45,8 +45,8 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="ghst-writng-content">
-           <h1>Providing Exceptional book masters Services</h1>
-           <p>Become an author of a Best seller. Hire a Book master to bring your idea to life. </p>
+           <h1>Providing Exceptional book writers Services</h1>
+           <p>Become an author of a Best seller. Hire a Book Writing Founder to bring your idea to life. </p>
            <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
@@ -115,7 +115,7 @@
         <li>
           <p>
            Book Writing Founders is your <strong>ultimate resource</strong>
-to hire professional book masters.
+to hire professional book writers.
 
           </p>
         </li>
@@ -219,7 +219,7 @@ to hire professional book masters.
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="thierd-sec-content">
           <h3> Are you struggling to give words to your thoughts? </h3>
-          <p>To write a book there is only one sensible place to start, and that’s with the very idea of your book – the thing you want to write about. No matter what your genre – a strong premise is essential to selling a book. How, then, do you get your amazing book ideas? The answer is that you probably already have them. Your killer idea may be germinating in your head right now. Hire one of our Book master and they can help you develop it into a plot. </p>
+          <p>To write a book there is only one sensible place to start, and that’s with the very idea of your book – the thing you want to write about. No matter what your genre – a strong premise is essential to selling a book. How, then, do you get your amazing book ideas? The answer is that you probably already have them. Your killer idea may be germinating in your head right now. Hire one of our Book Writing Founder and they can help you develop it into a plot. </p>
           <a href="..//order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
@@ -232,7 +232,7 @@ to hire professional book masters.
   <div class="container">
     <div class="">
       <h2>Our Recent Releases</h2>
-      <p>Your one-stop shop offering all book masters, editing, and publishing solutions</p>
+      <p>Your one-stop shop offering all book writers, editing, and publishing solutions</p>
       <div class="row portfolio-slider">
         <div class="col-md-2"><img src="../assets/images/books/1.jpg"></div>
         <div class="col-md-2"><img src="../assets/images/books/3.jpg"></div>
@@ -261,12 +261,12 @@ to hire professional book masters.
     <div class="row">
       <div class="col-lg-12">
         <div class="boxeswrap">
-          <h2>Book Masters SERVICES - This is Where We Transform</h2>
+          <h2>Book Writing Founder SERVICES - This is Where We Transform</h2>
           <p>We can help you become a published Author in less time. Our skilled writers are waiting to start your next masterpiece! </p>
           <ul>
             <li>
               <div class="textwrap">
-                <h3>CUSTOMIZED book masters OFFERS</h3>
+                <h3>CUSTOMIZED book writers OFFERS</h3>
                 <p>We consult you before proceeding in each of our steps.</p>
                 <a href="..//order/" class="btn-theme">Let's Get Started </a>
               </div>
@@ -276,8 +276,8 @@ to hire professional book masters.
             </li>
             <li class="centerbox">
               <div class="textwrap">
-                <h3>ALL-IN-ONE BOOK-MASTER SERVICES</h3>
-                <p>We provide book masters services based on all in one packages from drafting, writing, and formatting to proofreading and publishing.</p>
+                <h3>ALL-IN-ONE BOOK-WRITER SERVICES</h3>
+                <p>We provide book writers services based on all in one packages from drafting, writing, and formatting to proofreading and publishing.</p>
                 <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Let us guide you</a>
               </div>
               <figure>
@@ -311,14 +311,14 @@ to hire professional book masters.
     <div class="row">
       <div class="col-lg-12">
         <h3 class="wdt-80">Book Writing Founders Your Way</h3>
-        <p class="wdt-80">Our excellence in book masters stems from our unique and client-centric approach.</p>
+        <p class="wdt-80">Our excellence in book writers stems from our unique and client-centric approach.</p>
         <ul class="book-slider">
           <li>
             <figure>
               <img src="../assets/images/services/updated-layouts-collab.png">
             </figure>
             <h3>Various Specialized Genres</h3>
-            <p>Our expert and experienced book masters have mastered the art of book masters and specialize in multiple genres. Whether it is a piece of fiction, an autobiography or a business publication – we promise exceptional quality and unparalleled service.</p>
+            <p>Our expert and experienced book writers have mastered the art of book writers and specialize in multiple genres. Whether it is a piece of fiction, an autobiography or a business publication – we promise exceptional quality and unparalleled service.</p>
             <a href="http://bookwritingfounders.com/order" class="btn-theme">Let’s Get Started</a>
           </li>
           <li>
@@ -354,7 +354,7 @@ to hire professional book masters.
         <div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2" >
           <div class="strt-cta wdt-80">
             <h3>Can't wait for your manuscript to get published?</h3>
-            <p>We are here for you. Hire one of our book masters and make your dream book come to life.</p>
+            <p>We are here for you. Hire one of our book writers and make your dream book come to life.</p>
             <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Become an author to a best seller</a>
           </div>
         </div>
@@ -369,13 +369,13 @@ to hire professional book masters.
       <div class="col-lg-4">
         <div class="paright">
           <h2>The bridge between ideas and audiences </h2>
-          <p>Book Writing Founders is your gateway to a successful future- a future in which you have always envisioned yourself as a renowned published author. With the best book masters for hire, let’s get started already!</p>
+          <p>Book Writing Founders is your gateway to a successful future- a future in which you have always envisioned yourself as a renowned published author. With the best book writers for hire, let’s get started already!</p>
         </div>
       </div>      
 
 
       <div class="col-lg-8">
-        <h5 class="h5tile">OUR book masters SERVICES PACKAGE INCLUDES:</h5>
+        <h5 class="h5tile">OUR book writers SERVICES PACKAGE INCLUDES:</h5>
         <ul>
 
           <li>Research and thorough Analysis about your idea</li>
@@ -412,7 +412,7 @@ to hire professional book masters.
       <div class="col-lg-12">
         <div class="git wdt-80">
           <h3> Why choose Book Writing Founders </h3>
-          <p>We bring your idea to life in the form of a diligently written and published book. Among our team of Book masters are individuals who have worked at some of the most esteemed publishing houses such as Bloomsbury, HarperCollins, Pearson, and Penguin Random House specializing in various genres. </p>
+          <p>We bring your idea to life in the form of a diligently written and published book. Among our team of Book writers are individuals who have worked at some of the most esteemed publishing houses such as Bloomsbury, HarperCollins, Pearson, and Penguin Random House specializing in various genres. </p>
         </div>
       </div>
     </div>
@@ -478,7 +478,7 @@ to hire professional book masters.
           </div>
           <div class="git-box2">
             <h3>Academic & Professional books</h3>
-            <p>Our professional book masters are skilled, experienced and adapt the fundamentals, rules, & intricacies of book writing with authentic research and unmatchable expertise. </p>
+            <p>Our professional book writers are skilled, experienced and adapt the fundamentals, rules, & intricacies of book writing with authentic research and unmatchable expertise. </p>
           </div>
         </div>
       </div>
