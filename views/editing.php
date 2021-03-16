@@ -120,7 +120,7 @@
         <li>
           <p>
            Book Writing Founders is your <strong>ultimate resource</strong>
-to hire professional bookwriting.
+to hire professional book writers..
 
           </p>
         </li>
