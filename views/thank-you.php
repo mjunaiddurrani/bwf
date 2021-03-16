@@ -56,7 +56,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <?php include_once('includes/scripts.php');?>
-
+<?php 
+       	if(isset($_REQUEST['successMsg'])){
+          if ($_REQUEST['status']==1) {
+              echo "<script>Swal.fire({
+                  position: 'top-end',
+                  icon: 'success',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          } else {
+              echo "<script>Swal.fire({
+                  position: 'top-end',
+                  icon: 'warning',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          }
+          
+         
+      }
+      ?>
     
 </body>
 
