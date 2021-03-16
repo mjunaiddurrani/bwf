@@ -93,26 +93,26 @@
       <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
         <ul class="firstlevel unstyled">
-          <li><a href="services.html">Our Services</a></li>
-          <li><a class="inner-pad" href="our-services/ghost-writing.html">Book Writing Founders</a></li>
-          <li><a class="inner-pad" href="our-services/editing.html">Editing</a></li>
-          <li><a class="inner-pad" href="our-services/book-publishing.html">Book Publishing</a></li>
-          <li><a class="inner-pad" href="our-services/ebook-writing.html">Ebook Writing</a></li>
-          <li><a class="inner-pad" href="our-services/book-marketing.html">Book Marketing</a></li>
-          <li><a class="inner-pad" href="our-services/copyrights-protection.html">Copyrights Protection</a></li>
-          <li><a class="inner-pad" href="our-services/author-website.html">Author Website</a></li>
-          <li><a class="inner-pad" href="our-services/professional-audio-book.html">Professional Audio Book</a></li>
-          <li><a class="inner-pad" href="our-services/Book-Video-Trailer.html">Book Video Trailer</a></li>
-          <li><a class="inner-pad" href="our-services/book-cover-design.html">Book Cover Design</a></li>
-          <li><a class="inner-pad" href="our-services/custom-book-illustration.html">Custom Book Illustration</a></li>
-          <li><a class="inner-pad" href="our-services/article-writing-publication.html">Article Writing & Publication</a></li>
+          <li><a href="/services/">Our Services</a></li>
+          <li><a class="inner-pad" href="/ghost-writing/">Book Writing Founders</a></li>
+          <li><a class="inner-pad" href="/editing/">Editing</a></li>
+          <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
+          <li><a class="inner-pad" href="/ebook-writing/">Ebook Writing</a></li>
+          <li><a class="inner-pad" href="/book-marketing/">Book Marketing</a></li>
+          <li><a class="inner-pad" href="/copyrights-protection/">Copyrights Protection</a></li>
+          <li><a class="inner-pad" href="/author-website/">Author Website</a></li>
+          <li><a class="inner-pad" href="/professional-audio-book/">Professional Audio Book</a></li>
+          <li><a class="inner-pad" href="/Book-Video-Trailer/">Book Video Trailer</a></li>
+          <li><a class="inner-pad" href="/book-cover-design/">Book Cover Design</a></li>
+          <li><a class="inner-pad" href="/custom-book-illustration/">Custom Book Illustration</a></li>
+          <li><a class="inner-pad" href="/article-writing-publication/">Article Writing & Publication</a></li>
         </ul>
       </li>
-      <li><a href="about-us.html">About</a></li>
+      <li><a href="about-us/">About</a></li>
       <!--<li><a href="http://bookwritingfounders.com/trusted-reviews">Reviews</a></li>-->
       <!-- <li><a href="http://bookwritingfounders.com/samples">Samples</a></li> -->
-      <li><a href="pricing.html">Pricing</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="pricing/">Pricing</a></li>
+      <li><a href="contact/">Contact</a></li>
     </ul>
 
     
@@ -129,57 +129,6 @@
 
 
 
-
-
-
-     
-      <div class="banner-form">
-        <h3>Chat With Us to <br><Strong>Avail 20% Discount</Strong></h3>
-        <div class="banform">
-          <div class="container">
-            <div class="row">
-                <div class="ban-form">
-                  <form class="cmxform" id="bannerform"  method="POST" action="https://bookwritingfounders.com/webpages/bannerFormController.php">
-                    <div class="row">
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
-                        </div>
-                      </div>
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
-                        </div>
-                      </div>
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
-                        </div>
-                      </div>
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <textarea name="Message" id="" rows="7" placeholder="Talk About Your Project"></textarea>
-                        </div>
-                      </div>
-                      
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input name="submit" type="submit" placeholder="Connect With Us" required />
-                            <input type="hidden" name="hiddencapcha" value="">
-                            <input type="hidden" name="ctry" value="">
-                            <input type="hidden" name="pc" value="">
-                            <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="services.html" />
-                        </div>
-                      </div>
-                    </div>
-                  </form>
-                </div>
-            </div>
-          </div>
-        </div>  
-    </div>
-    </div>
 
 
 
@@ -201,8 +150,8 @@
       <div class="col-lg-6 offset-lg-1 col-md-5 offset-md-1 col-sm-12">
         <div class="Ghost-book-writing-content">
            <h1>Our bookwriting services are designed to help you achieve your publishing goals</h1>
-           <p>From the initial planning stages to the moment you crack open the first page of your book, we will be your very own dedicated bookmaster, editor, professional consultant, and industry expert.</p>
-           <a href="order.html" class="btn-theme">Let’s Get Started</a>
+           <p>From the initial planning stages to the moment you crack open the first page of your book, we will be your very own dedicated bookwriter, editor, professional consultant, and industry expert.</p>
+           <a href="/order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -217,7 +166,7 @@
         <div class="team-content">
           <h3>This is what we do, <b class="small-a">a</b>nd we’re good at it</h3>
           <p>Our impressive client list is a testament to our expertise and dedication to our authors, and we want to provide you with the same excellent service. Our bookwriting services include everything you need to transform your concepts and ideas into a well-written, published book.</p>
-          <a href="javascript:;" class="btn-theme">Start doing →</a>
+          <a href="javascript:;" onclick="setButtonURL();" class="btn-theme-outline">Start Doing</a>
         </div>
       </div>
       <div class="col-lg-7 col-md-7 col-sm-12">
@@ -247,7 +196,7 @@
     </div>
     <div class="row services-slider">
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/ghost-writing.html">
+        <a href="/ghost-writing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -256,13 +205,13 @@
               </figure>
             </div>
             <div class="alts-box2">
-              <p>Book Master <br/>Writing</p>
+              <p>Book Writing Founder <br/>Writing</p>
             </div>
           </div>
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/editing.html">
+        <a href="/editing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -277,7 +226,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/proofreading.html">
+        <a href="/proofreading/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -292,7 +241,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-publishing.html">
+        <a href="/book-publishing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -307,7 +256,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/ebook-writing.html">
+        <a href="/ebook-writing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -322,7 +271,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-marketing.html">
+        <a href="/book-marketing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -337,7 +286,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/copyrights-protection.html">
+        <a href="/copyrights-protection/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -354,7 +303,7 @@
      
       
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/author-website.html">
+        <a href="/author-website/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -369,7 +318,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/professional-audio-book.html">
+        <a href="/professional-audio-book/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -384,7 +333,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-video-trailer-2.html">
+        <a href="/Book-Video-Trailer/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -399,7 +348,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-cover-design.html">
+        <a href="/book-cover-design/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -414,7 +363,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/custom-book-illustration.html">
+        <a href="/custom-book-illustration/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -429,7 +378,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/article-writing-publication.html">
+        <a href="/article-writing-publication/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -483,7 +432,7 @@
             </figure>
             <h3>Various Specialized Genres</h3>
             <p>Our expert and experienced bookwriting have mastered the art of bookwriting and specialize in multiple genres. Whether it is a piece of fiction, an autobiography or a business publication – we promise exceptional quality and unparalleled service.</p>
-            <a href="order.html" class="btn-theme">Let’s Get Started</a>
+            <a href="/order/" class="btn-theme">Let’s Get Started</a>
           </li>
           <li>
             <figure>
@@ -491,7 +440,7 @@
             </figure>
             <h3>Personalized Service</h3>
             <p>Based on your requirements and the category/genre of writing, we assign an experienced writer to your project. We take care of all of your instructions, formulate a scheme of work, and complete it within the estimated time.</p>
-            <a href="order.html" class="btn-theme">Let’s Get Started</a>
+            <a href="/order/" class="btn-theme">Let’s Get Started</a>
           </li>
           <li>
             <figure>
@@ -500,7 +449,7 @@
             <h3>Client Communication</h3>
             <p>For us, each client is special, and each project is unique. We keep a special emphasis on client communication and keep you in the loop throughout the process – this way, we deliver what you expect and achieve 100% client satisfaction.</p>
             <!-- <p class="app-store"> <a href="javascript:;"><img src="assets/images/services/btn-appstore-black.png" class="img-fluid"></a> <a href="javascript:;"><img src="assets/images/services/btn-playstore-black.png" class="img-fluid"></a> </p> -->
-            <a href="order.html" class="btn-theme">Let’s Get Started</a>
+            <a href="/order/" class="btn-theme">Let’s Get Started</a>
           </li>
         </ul>
       </div>
@@ -551,36 +500,14 @@
                           <label class="field-txt">Email <span>*</span></label>
                           <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
                         </div>
-                        <div class="col-md-6">
-                          <div class="slct">
-                            <label class="field-txt">Select Service <span>*</span></label>
-                            <select id="packages" name="Package" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                          </div>
-                        </div>
                         
                         
-                        <div class="col-md-12">
-                          <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                        </div>
+                        
+                        
                         
                         
                         
@@ -594,7 +521,7 @@
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="services.html" />
+                            <input type="hidden" id="location" name="locationURL" value="services/" />
                         </div>
                       </div>
                     </form>

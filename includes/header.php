@@ -56,20 +56,20 @@
         </div>
     </div>
     <div class="mobile-nav">
-        <a href="/" class="logo-main"> <img src="/assets/images/logo-light.svg" alt="*" /></a>
+        <a href="/" class="logo-main"> <img src="/assets/images/logo.svg" alt="*" /></a>
         <nav>
 
             <ul class="unstyled mainnav pbpx-15">
                 <li><a href="/home/">Home</a></li>
                 <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
                     <ul class="firstlevel unstyled">
-                        <li><a href="services.html">Our Services</a></li>
+                        <li><a href="/services/">Our Services</a></li>
                         <li><a class="inner-pad" href="/ghost-writing/">Book Writing Founders</a></li>
                         <li><a class="inner-pad" href="/editing/">Editing</a></li>
                         <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
                         <li><a class="inner-pad" href="/ebook-writing/">Ebook Writing</a></li>
                         <li><a class="inner-pad" href="/book-marketing/">Book Marketing</a></li>
-                        <li><a class="inner-pad" href="/copyrights-protection/">Copyrights Protection</a></li>
+                        <li><a class="inner-pad" href="/book-cover-design/">Book Cover Design</a></li>
                         <li><a class="inner-pad" href="/author-website/">Author Website</a></li>
                         <li><a class="inner-pad" href="/professional-audio-book/">Professional Audio Book</a></li>
                         <li><a class="inner-pad" href="/Book-Video-Trailer/">Book Video Trailer</a></li>
@@ -125,7 +125,7 @@
 
                             <div class="secondlogo">
                                 <a href="/">
-                                    <img class="img-fluid" src="assets/images/logo-dark.svg" alt="*" />
+                                    <img class="img-fluid" src="assets/images/logo.svg" alt="*" />
                                 </a>
                             </div>
                             <ul class="othermenu forpgactive">
@@ -171,14 +171,14 @@
                                     <li class=""><a href="/ebook-writing/">Ebook Writing</a></li>
                                     <li class=""><a href="/article-writing-publication/">Article Writing & Publication</a></li>
                                     <li class=""><a href="/Book-Video-Trailer/">Book Video Trailer</a></li>
-                                    <li class=""><a href="/copyrights-protection/">Copyrights Protection</a></li>
+                                    <li class=""><a href="/book-cover-design/">Book Cover Design</a></li>
                                     <div class="has-submenu"><a href="javascript:;" class="menuside menuside2">More <i class="fa fa-plus "></i></a>
                                         <div class="dropdown">
                                             <ul>
 
                                                 <li class=""><a href="/author-website/">Author Website</a></li>
                                                 <li class=""><a href="/book-marketing/">Book Marketing</a></li>
-                                                <li class=""><a href="/book-cover-design/">Book Cover Design</a></li>
+
                                                 <li class=""><a href="/custom-book-illustration/">Custom Book Illustration</a></li>
                                                 <li class=""><a href="/professional-audio-book/">Professional Audio Book</a></li>
                                         </div>

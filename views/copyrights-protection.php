@@ -46,7 +46,7 @@
         <div class="ghst-writng-content">
            <h1>You've worked hard to create it. Now copyright it.</h1>
            <p>Turn Trademark Engine into your Copyright Engine and protect your book, trailer, cover design, and your story.</p>
-           <a href="../order.html" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="../order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -138,7 +138,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="../order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -218,7 +218,7 @@ to hire professional bookwriting.
         <div class="thierd-sec-content">
           <h3>Because it protects your work</h3>
           <p>To protect your work (a copyright term of art for your book, article, software program, website, or other creation) you should file it. To sue someone for infringement, you have to register the work. Registering soon after you create your work can preserve your right to statutory damages and attorneys' fees if you have to go to court.</p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -273,7 +273,7 @@ to hire professional bookwriting.
               <div class="textwrap">
                 <h3>Get “exclusive” rights protecting your original “works of authorship.”</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -292,7 +292,7 @@ to hire professional bookwriting.
               <div class="textwrap">
                 <p>We place your name where it belongs, right next to the copyright symbol on the first page of your published book. As the copyright owner, you also own the foreign rights to your book.</p>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -388,7 +388,7 @@ to hire professional bookwriting.
           <li>Copyright protection means that these rights remain yours and no-one else’s unless you choose otherwise (by selling them to a publisher, for instance).</li>
         </ul>
         <div class="">
-          <a href="../order.html" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
+          <a href="../order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
           <a href="tel:+18889768388 " class="btn-theme-outline blackbtn">+1-888-976-8388 </a>
         </div>
       </div>
@@ -436,36 +436,14 @@ to hire professional bookwriting.
                           <label class="field-txt">Email <span>*</span></label>
                           <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
                         </div>
-                        <div class="col-md-6">
-                          <div class="slct">
-                            <label class="field-txt">Select Service <span>*</span></label>
-                            <select id="packages" name="Package" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                          </div>
-                        </div>
                         
                         
-                        <div class="col-md-12">
-                          <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                        </div>
+                        
+                        
                         
                         
                         
@@ -479,7 +457,7 @@ to hire professional bookwriting.
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="copyrights-protection.html" />
+                            <input type="hidden" id="location" name="locationURL" value="copyrights-protection/" />
                         </div>
                       </div>
                     </form>

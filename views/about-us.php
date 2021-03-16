@@ -73,7 +73,7 @@
     </div>
     <div class="row services-slider">
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/ghost-writing.html">
+        <a href="/ghost-writing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -82,13 +82,13 @@
               </figure>
             </div>
             <div class="alts-box2">
-              <p>Book Master <br/>Writing</p>
+              <p>Book Writing Founder <br/>Writing</p>
             </div>
           </div>
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/editing.html">
+        <a href="/editing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -103,7 +103,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/proofreading.html">
+        <a href="/proofreading/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -118,7 +118,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-publishing.html">
+        <a href="/book-publishing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -133,7 +133,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/ebook-writing.html">
+        <a href="/ebook-writing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -148,7 +148,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-marketing.html">
+        <a href="/book-marketing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -163,7 +163,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/copyrights-protection.html">
+        <a href="/copyrights-protection/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -180,7 +180,7 @@
      
       
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/author-website.html">
+        <a href="/author-website/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -195,7 +195,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/professional-audio-book.html">
+        <a href="/professional-audio-book/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -210,7 +210,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-video-trailer-2.html">
+        <a href="/Book-Video-Trailer/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -225,7 +225,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/book-cover-design.html">
+        <a href="/book-cover-design/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -240,7 +240,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/custom-book-illustration.html">
+        <a href="/custom-book-illustration/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
@@ -255,7 +255,7 @@
         </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="our-services/article-writing-publication.html">
+        <a href="/article-writing-publication/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>

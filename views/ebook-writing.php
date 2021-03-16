@@ -48,7 +48,7 @@
         <div class="ghst-writng-content">
            <h1>Professional Ebook writing Services </h1>
            <p>Our ebook writing services are perhaps the easiest way to publish your own ebook. Our planning process is quick and painless with minimal involvement from you.  </p>
-           <a href="../order.html" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="../order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -140,7 +140,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="../order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -220,7 +220,7 @@ to hire professional bookwriting.
           <h3>The Formula for Planning, Writing, & Designing A Custom Ebook</h3>
           <p>We will help bring out your best ideas for our writers to run with. You will have the option for a 1-hour interview so you can discuss the plans for your ebook with your writer in Real-time. This is especially helpful if you have a tough time expressing ideas on paper, or if you simply need to bounce ideas off on one of our expert ebook writers.<br><br>
 Once your writer is ready to go, he or she will begin to pen your content to your specifications—and ultimately enhance it to make it read like your perfect work of art. </p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -270,7 +270,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
               <div class="textwrap">
                 <h3>Connect yourself with a writer efficient in your desired genre. Book your one-on-one interview right now.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -289,7 +289,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
               <div class="textwrap">
                 <h3>Besides content, we take care of copywriting, editing and design.</h3>
                 
-                <a href="../order.html" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -353,7 +353,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
         <div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2">
           <div class="strt-cta wdt-80">
             <h3>EBook Writing Service That Will Get You Published in no Time</h3>
-            <p>With our Book Masters service, you can stay assured that your e-books would be read, loved, and shared, and of course authored by you.</p>
+            <p>With our Book Writing Founder service, you can stay assured that your e-books would be read, loved, and shared, and of course authored by you.</p>
             <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Become an author to a best seller</a>
           </div>
         </div>
@@ -369,7 +369,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
       <div class="col-lg-4">
         <div class="paright">
           <h2>WHAT YOU GET WITH EVERY EBOOK?</h2>
-          <p>our skilled Book masters will incorporate a combination of charts, colours, graphics, and call outs to support the e-book’s theme, and help you <strong>dramatically improve the content of your e-book.</strong></p>
+          <p>our skilled Book writers will incorporate a combination of charts, colours, graphics, and call outs to support the e-book’s theme, and help you <strong>dramatically improve the content of your e-book.</strong></p>
         </div>
       </div>      
 
@@ -392,7 +392,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
 
         </ul>
         <div class="">
-          <a href="../order.html" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
+          <a href="../order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
           <a href="tel:+18889768388 " class="btn-theme-outline blackbtn">+1-888-976-8388 </a>
         </div>
       </div>
@@ -538,36 +538,14 @@ best-in-class eBooks.</h3>
                           <label class="field-txt">Email <span>*</span></label>
                           <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
                         </div>
-                        <div class="col-md-6">
-                          <div class="slct">
-                            <label class="field-txt">Select Service <span>*</span></label>
-                            <select id="packages" name="Package" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                          </div>
-                        </div>
                         
                         
-                        <div class="col-md-12">
-                          <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                        </div>
+                        
+                        
                         
                         
                         
@@ -581,7 +559,7 @@ best-in-class eBooks.</h3>
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="ebook-writing.html" />
+                            <input type="hidden" id="location" name="locationURL" value="ebook-writing/" />
                         </div>
                       </div>
                     </form>
@@ -616,22 +594,22 @@ best-in-class eBooks.</h3>
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div class="tls-sft">
           <h3>Easy to Get Started</h3>
-          <p class="quick-ser">We make it easy to tell your writer what you want. When you hire ebook writers on our platform, you’re entering into a Book Masters relationship with them. Just start the chat and hit go!</p>
-          <a href="custom-book-illustration.html" class="btn-theme">Learn more</a>
+          <p class="quick-ser">We make it easy to tell your writer what you want. When you hire ebook writers on our platform, you’re entering into a Book Writing Founder relationship with them. Just start the chat and hit go!</p>
+          <a href="custom-book-illustration/" class="btn-theme">Learn more</a>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div class="tls-sft">
           <h3>Quick Turnaround Time</h3>
           <p class="quick-ser">Writers work quickly and keep writing until your eBook is finished and approved by you.</p>
-          <a href="book-cover-design.html" class="btn-theme">Learn more</a>
+          <a href="book-cover-design/" class="btn-theme">Learn more</a>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div class="tls-sft">
           <h3>Get Help with Your Outline</h3>
           <p class="quick-ser">If you have a plan for your eBook, great! Submit it and we’ll start writing. With our eBook writing service you can connect with a expert and let them take the knowledge you share with them, add it to their own, and craft an eBook that will truly establish you as authorities in your space.</p>
-          <a href="Book-Video-Trailer.html" class="btn-theme">Learn more</a>
+          <a href="Book-Video-Trailer/" class="btn-theme">Learn more</a>
         </div>
       </div>
     </div>

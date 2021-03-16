@@ -84,26 +84,26 @@
       <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
         <ul class="firstlevel unstyled">
-          <li><a href="services.html">Our Services</a></li>
-          <li><a class="inner-pad" href="our-services/ghost-writing.html">Book Writing Founders</a></li>
-          <li><a class="inner-pad" href="our-services/editing.html">Editing</a></li>
-          <li><a class="inner-pad" href="our-services/book-publishing.html">Book Publishing</a></li>
-          <li><a class="inner-pad" href="our-services/ebook-writing.html">Ebook Writing</a></li>
-          <li><a class="inner-pad" href="our-services/book-marketing.html">Book Marketing</a></li>
-          <li><a class="inner-pad" href="our-services/copyrights-protection.html">Copyrights Protection</a></li>
-          <li><a class="inner-pad" href="our-services/author-website.html">Author Website</a></li>
-          <li><a class="inner-pad" href="our-services/professional-audio-book.html">Professional Audio Book</a></li>
-          <li><a class="inner-pad" href="our-services/Book-Video-Trailer.html">Book Video Trailer</a></li>
-          <li><a class="inner-pad" href="our-services/book-cover-design.html">Book Cover Design</a></li>
-          <li><a class="inner-pad" href="our-services/custom-book-illustration.html">Custom Book Illustration</a></li>
-          <li><a class="inner-pad" href="our-services/article-writing-publication.html">Article Writing & Publication</a></li>
+          <li><a href="services/">Our Services</a></li>
+          <li><a class="inner-pad" href="/ghost-writing/">Book Writing Founders</a></li>
+          <li><a class="inner-pad" href="/editing/">Editing</a></li>
+          <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
+          <li><a class="inner-pad" href="/ebook-writing/">Ebook Writing</a></li>
+          <li><a class="inner-pad" href="/book-marketing/">Book Marketing</a></li>
+          <li><a class="inner-pad" href="/copyrights-protection/">Copyrights Protection</a></li>
+          <li><a class="inner-pad" href="/author-website/">Author Website</a></li>
+          <li><a class="inner-pad" href="/professional-audio-book/">Professional Audio Book</a></li>
+          <li><a class="inner-pad" href="/Book-Video-Trailer/">Book Video Trailer</a></li>
+          <li><a class="inner-pad" href="/book-cover-design/">Book Cover Design</a></li>
+          <li><a class="inner-pad" href="/custom-book-illustration/">Custom Book Illustration</a></li>
+          <li><a class="inner-pad" href="/article-writing-publication/">Article Writing & Publication</a></li>
         </ul>
       </li>
-      <li><a href="about-us.html">About</a></li>
+      <li><a href="about-us/">About</a></li>
       <!--<li><a href="http://bookwritingfounders.com/trusted-reviews">Reviews</a></li>-->
       <!-- <li><a href="http://bookwritingfounders.com/samples">Samples</a></li> -->
-      <li><a href="pricing.html">Pricing</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="pricing/">Pricing</a></li>
+      <li><a href="contact/">Contact</a></li>
     </ul>
 
     
@@ -160,7 +160,7 @@
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="faq.html" />
+                            <input type="hidden" id="location" name="locationURL" value="faq/" />
                         </div>
                       </div>
                     </div>
@@ -210,17 +210,17 @@
           </div>
           <div class="quest-section"> <a class="quest-title" href="#accordion-5">How involved would I need to be in the process? </a>
             <div id="accordion-5" class="quest-content">
-              <p>Your level of involvement is entirely up to you. You can opt to work closely with your bookmaster, or simply provide them with basic information and let them do the rest of the work. This is your book, which means that you have final say on the content and it’s your decision how and when you give your input and approval. We’ll work with you to customize the process so that it fits your schedule and preferred working style. Although in an autobiography/memoir it is highly recommended to work side by side with your bookmaster. </p>
+              <p>Your level of involvement is entirely up to you. You can opt to work closely with your bookwriter, or simply provide them with basic information and let them do the rest of the work. This is your book, which means that you have final say on the content and it’s your decision how and when you give your input and approval. We’ll work with you to customize the process so that it fits your schedule and preferred working style. Although in an autobiography/memoir it is highly recommended to work side by side with your bookwriter. </p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-6">Can I meet and discuss my book with the bookmaster face to face?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-6">Can I meet and discuss my book with the bookwriter face to face?</a>
             <div id="accordion-6" class="quest-content">
               <p>We do not entertain walk-in customers, we are an online business and the process is convenient with telephonic interviews and chat sessions. Meeting with the clients would affect the productivity of the team and delay the time.  However under uncertain situation we meet clients if the order amount exceeds £30,000, to meet the special needs of the customer.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-7">How long does Book Masters process normally take?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-7">How long does Book Writing Founder process normally take?</a>
             <div id="accordion-7" class="quest-content">
-              <p>The duration of the bookwriting process is partly up to you—the author! Depending on your schedule and desired level of involvement, your bookmaster will develop material for you to review and approve on a weekly or biweekly basis.</p>
+              <p>The duration of the bookwriting process is partly up to you—the author! Depending on your schedule and desired level of involvement, your bookwriter will develop material for you to review and approve on a weekly or biweekly basis.</p>
             </div>
           </div>
           <div class="quest-section"> <a class="quest-title" href="#accordion-8">How are writers screened to make sure they qualify for this network?</a>
@@ -238,12 +238,12 @@
               <p>Our consultants are available to discuss all aspects of your project with you, including planning, preparation, concept generation, organization, costs, development, style, tone, writing, editing, formatting, publishing, and more! Our consulting process is flexible and customizable to your needs and preferences. Consultation sessions generally take place by phone or Chat.<br/><br/>Once you’re happy with the content of your book, we can help you determine which publishing options work best for you and make your published book a reality! </p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-11">Is Book Masters ethical? </a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-11">Is Book Writing Founder ethical? </a>
             <div id="accordion-11" class="quest-content">
               <p>Absolutely! The most important elements in writing a book are the ideas—and as the author and initiator of your book, the ideas are all yours. Even if you don’t consider yourself a writer or are too busy to develop a publishable book, your voice still deserves to be heard. The bookwriting process is simply a means to get your wisdom, methods, story, or ideas on to paper.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-12">Do I have to give the bookmaster any credit or co-authorship? </a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-12">Do I have to give the bookwriter any credit or co-authorship? </a>
             <div id="accordion-12" class="quest-content">
               <p>No! That is why it is called bookwriting—no one will know you had help with the writing process unless you choose to tell them. Our services are 100% confidential. The story we help you to tell will always be your story. You are 100% the author of your book. We do not retain any rights or ownership of your book whatsoever. Even if your book earns a million dollars, you will never owe us any credit or extra compensation unless you choose to do so. Be skeptical of other bookwriting services that may require such promises from you. While credit is appreciated, it is never required. </p>
             </div>

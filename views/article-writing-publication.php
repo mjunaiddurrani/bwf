@@ -46,7 +46,7 @@
         <div class="ghst-writng-content">
            <h1>Research and Scientific Publication Support Services</h1>
            <p>As researchers, you make huge strides in advancing essential knowledge. Your achievements can save lives and improve the way we live. If you’re ready to share your knowledge with the world, this is the best opportunity for publishing your research – and for seeing it shared globally</p>
-           <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+           <a href="../order/" class="btn-theme">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -134,7 +134,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="../order.html" class="pur-bg">Let’s Get Started</a>
+          <a href="../order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -447,7 +447,7 @@ to hire professional bookwriting.
             <li><strong>Impact –</strong> impact metrics based on citations received by articles. </li>
           </ul>
           <p>The average impact of all the articles in a journal is often used as a proxy for the impact of a specific article – especially when the article hasn’t yet had time to accumulate its own citations. It’s important to take this kind of proxy metric into consideration</p>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -470,7 +470,7 @@ to hire professional bookwriting.
             <li>Add titles or subheadings (with keywords) to the different sections of your article.</li>
             <li>Make sure you place links to your article from relevant websites e.g. your institute’s website, Wikipedia, LinkedIn, blogs and social media</li>
           </ul>
-          <a href="../order.html" class="btn-theme">Let’s Get Started</a>
+          <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -514,7 +514,7 @@ to hire professional bookwriting.
                 <li>TAT: 3 weeks</li>
               </ul>
               <h4>$999.00</h4>
-              <a href="../orderdab3.html?pack=14" class="btn-main">Order Now</a>
+              <a href="/order/" class="btn-main">Order Now</a>
               <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
@@ -540,7 +540,7 @@ to hire professional bookwriting.
                 <li>TAT: 3 weeks</li>
               </ul>
               <h4>$1,699.00</h4>
-              <a href="../order9187.html?pack=15" class="btn-main">Order Now</a>
+              <a href="/order/" class="btn-main">Order Now</a>
               <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
@@ -570,7 +570,7 @@ to hire professional bookwriting.
                 <li>TAT: 4 weeks </li>
               </ul>
               <h4>$2,499.00</h4>
-              <a href="../order1cf8.html?pack=16" class="btn-main">Order Now</a>
+              <a href="/order/" class="btn-main">Order Now</a>
               <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
@@ -621,7 +621,7 @@ to hire professional bookwriting.
                <li>Complete submission support</li>
                <li>Review and resubmissions</li>
              </ul>
-             <a href="../order.html" class="btn-theme">Let's Get Started</a>
+             <a href="../order/" class="btn-theme">Let's Get Started</a>
           </div>
         </div>
       </div>
@@ -640,7 +640,7 @@ to hire professional bookwriting.
                 <li>Exposure to International Conference Sponsorship Program</li>
                 <li>Your profiles online presence that increases credibility, exposure and rankings of your paper and you as a researcher.</li>
              </ul>
-             <a href="../order.html" class="btn-theme">Let's Get Started</a>
+             <a href="../order/" class="btn-theme">Let's Get Started</a>
           </div>
         </div>
       </div>
@@ -791,36 +791,14 @@ to hire professional bookwriting.
                           <label class="field-txt">Email <span>*</span></label>
                           <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
                         </div>
-                        <div class="col-md-6">
-                          <div class="slct">
-                            <label class="field-txt">Select Service <span>*</span></label>
-                            <select id="packages" name="Package" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                          </div>
-                        </div>
                         
                         
-                        <div class="col-md-12">
-                          <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                        </div>
+                        
+                        
                         
                         
                         
@@ -834,7 +812,7 @@ to hire professional bookwriting.
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="article-writing-publication.html" />
+                            <input type="hidden" id="location" name="locationURL" value="article-writing-publication/" />
                         </div>
                       </div>
                     </form>
@@ -870,7 +848,7 @@ to hire professional bookwriting.
           <span>editing</span>
           <h3>We Provide Professional Editing Services</h3>
           <p class="quick-ser">The right editing services can increase the chances of getting the recognition your book deserves.</p>
-          <a href="editing.html" class="btn-theme">Learn more</a>
+          <a href="editing/" class="btn-theme">Learn more</a>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12">
@@ -878,7 +856,7 @@ to hire professional bookwriting.
           <span>proofreading</span>
           <h3>100% Error Free Proofreading Services</h3>
           <p class="quick-ser">Our proofreaders have a keen eye for details. No typo, no error, and no mistake can escape their perusing lens.</p>
-          <a href="proofreading.html" class="btn-theme">Learn more</a>
+          <a href="proofreading/" class="btn-theme">Learn more</a>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12">
@@ -886,7 +864,7 @@ to hire professional bookwriting.
           <span>book publishing</span>
           <h3>We Help You To Get Published</h3>
           <p class="quick-ser">Book Writing Founders have a solution for all those aspiring authors to get their works published professionally and earn the reputation they deserve for it.</p>
-          <a href="book-publishing.html" class="btn-theme">Learn more</a>
+          <a href="book-publishing/" class="btn-theme">Learn more</a>
         </div>
       </div>
     </div>

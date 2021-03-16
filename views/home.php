@@ -128,7 +128,7 @@
                                 <div class=" col-lg-12 col-md-12 col-sm-12">
                                     <div class="home-banner-content">
                                         <h1>Make your comic universe a reality with a Graphic Novel.</h1>
-                                        <p class="subtitle"> A comic book tells the story through words, which the artist then turns into pictures. The Book master is the visionary of the team, creating the basic world, characters, and plot.</p>
+                                        <p class="subtitle"> A comic book tells the story through words, which the artist then turns into pictures. The Book Writing Founder is the visionary of the team, creating the basic world, characters, and plot.</p>
                                         <!--   <a href="http://bookwritingfounders.com/order" class="btn-theme">Let’s Get Started</a> -->
                                     </div>
                                 </div>
@@ -231,7 +231,7 @@
                             </li>
                             <li>
                                 <span>Got a plot idea?</span>
-                                <a href="order.html" class="pur-bg">Let’s Get Started</a>
+                                <a href="/order/" class="pur-bg">Let’s Get Started</a>
                             </li>
                         </ul>
                     </div>
@@ -319,7 +319,7 @@
                         <div class="box">
                             <img src="assets/images/img-1.jpg">
                             <h2>Book Writing Founders</h2>
-                            <p>Become an author of a best-seller. Hire Book Masters Now!
+                            <p>Become an author of a best-seller. Hire Book Writing Founder Now!
 
                             </p>
                         </div>
@@ -398,7 +398,7 @@
                         <div class="box">
                             <img src="assets/images/img-4.jpg">
                             <h2>Book Publishing</h2>
-                            <p>Book Masters provides a one-stop solution to every aspiring author.
+                            <p>Book Writing Founder provides a one-stop solution to every aspiring author.
 
                             </p>
                         </div>
@@ -428,7 +428,7 @@
                         <div class="box">
                             <img src="assets/images/img-5.jpg">
                             <h2>Ebook Writing</h2>
-                            <p>Book Masters provides exceptional eBook writing services.
+                            <p>Book Writing Founder provides exceptional eBook writing services.
                             </p>
                         </div>
                         <div class="homepage-programs--entry">
@@ -785,7 +785,7 @@
                             <li>
                                 <div class="chtnow">
                                     <a href="javascript:;" class="btn-theme2" onclick="setButtonURL();" target="_self">chat now</a>
-                                    <a href="order.html" target="blank" class="btn-theme-outline1 btngetstarted">Avail 20% Discount</a>
+                                    <a href="/order/" target="blank" class="btn-theme-outline1 btngetstarted">Avail 20% Discount</a>
                                 </div>
                             </li>
                         </ul>
@@ -811,7 +811,7 @@
 
                         </ul>
                         <div class="text-left">
-                            <p class="pbpx-0 fc-black text-left">Need help? <a href="order.html" class="btn-theme">Let's get started.</a></p>
+                            <p class="pbpx-0 fc-black text-left">Need help? <a href="/order/" class="btn-theme">Let's get started.</a></p>
                         </div>
 
                     </div>

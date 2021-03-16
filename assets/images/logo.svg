@@ -1,0 +1,71 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161.25 54.16">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 20.09px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #347990;
+     
+ }
+
+
+path#eyeleft{
+      animation-duration:1.5s;
+    animation-name:animateeyes;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+}
+
+path#eyeright{
+      animation-duration:1.5s;
+    animation-name:animateeyes;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+}
+
+
+@keyframes animateeyes {
+
+    from {
+       opacity:1;
+    }
+    to {
+
+   opacity:0;
+    }
+}
+
+      .cls-2 {
+        font-size: 8.5px;
+        font-family: Poppins-Light, Poppins;
+        font-weight: 500;
+        letter-spacing: 0.2em;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        fill: #333;
+      }
+
+      .cls-4 {
+        fill: #1e4454;
+      }
+    </style>
+  </defs>
+  <title>logo</title>
+  <text class="cls-1" transform="translate(29 40.69)">Founders</text>
+  <text class="cls-2" transform="translate(29.52 50.07)">Your Dream-Published</text>
+  <text class="cls-3" transform="translate(28.81 23.22)">Book Writing</text>
+  <path class="cls-4" d="M25.89,25.19a6.44,6.44,0,0,1-5.73-3.49,6.46,6.46,0,0,1-11.41.13v6.35H31.56V21.83a6.44,6.44,0,0,1-5.67,3.36" transform="translate(-8.75 -7.63)"/>
+  <path class="cls-5" d="M14.42,12.28a6.47,6.47,0,0,1,5.74,3.49,6.45,6.45,0,0,1,10.81-1,2.66,2.66,0,0,0,.59-1.65H29.88a11.37,11.37,0,0,0-19.45,0H8.75a2.66,2.66,0,0,0,.59,1.65,6.44,6.44,0,0,1,5.08-2.48" transform="translate(-8.75 -7.63)"/>
+  <path id="eyeright" class="cls-5" d="M17.1,18.74a2.68,2.68,0,1,1-2.68-2.69,2.68,2.68,0,0,1,2.68,2.69" transform="translate(-8.75 -7.63)"/>
+  <path class="cls-6" d="M21.46,22.06l-1-1a.41.41,0,0,0-.59,0l-1,1a.41.41,0,0,0-.07.48l1,1.85a.41.41,0,0,0,.72,0l1-1.85a.41.41,0,0,0-.06-.48" transform="translate(-8.75 -7.63)"/>
+  <path class="cls-5" d="M8.75,48.33l3.86-3a2.34,2.34,0,0,0,.92-1.86V29.84H8.75Z" transform="translate(-8.75 -7.63)"/>
+  <path class="cls-4" d="M15.23,42.31a2.36,2.36,0,0,0,2.35,2.36h5.15a2.36,2.36,0,0,0,2.35-2.36V29.84H15.23Z" transform="translate(-8.75 -7.63)"/>
+  <path class="cls-5" d="M26.78,29.84V43.51a2.34,2.34,0,0,0,.92,1.86l3.86,3V29.84Z" transform="translate(-8.75 -7.63)"/>
+  <path id="eyeleft" class="cls-5" d="M28.57,18.74a2.68,2.68,0,1,1-2.68-2.69,2.68,2.68,0,0,1,2.68,2.69" transform="translate(-8.75 -7.63)"/>
+  <path class="cls-6" d="M30.15,50.63A1.12,1.12,0,0,0,30,49l-3.82-2.78a3.57,3.57,0,0,0-2.09-.68H16.21a3.18,3.18,0,0,0-1.79.55l-3.88,2.63a1.13,1.13,0,0,0-.15,1.76l9.25,8.9a1.18,1.18,0,0,0,1.63,0Z" transform="translate(-8.75 -7.63)"/>
+</svg>

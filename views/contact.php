@@ -52,7 +52,7 @@
           </figure>
           <p>Learn more about our book writing, editing and other services</p>
           <a class="team-lnk" href="javascript:;">Find helpful resources</a>
-          <a href="faq.html" class="btn-theme-outline">View FAQ's</a>
+          <a href="faq/" class="btn-theme-outline">View FAQ's</a>
           
         </div>
       </div>
