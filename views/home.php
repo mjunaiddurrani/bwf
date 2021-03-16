@@ -128,7 +128,7 @@
                                 <div class=" col-lg-12 col-md-12 col-sm-12">
                                     <div class="home-banner-content">
                                         <h1>Make your comic universe a reality with a Graphic Novel.</h1>
-                                        <p class="subtitle"> A comic book tells the story through words, which the artist then turns into pictures. The Book Writing Founder is the visionary of the team, creating the basic world, characters, and plot.</p>
+                                        <p class="subtitle"> A comic book tells the story through words, which the artist then turns into pictures. The Book Writing Founders is the visionary of the team, creating the basic world, characters, and plot.</p>
                                         <!--   <a href="http://bookwritingfounders.com/order" class="btn-theme">Let’s Get Started</a> -->
                                     </div>
                                 </div>
@@ -319,7 +319,7 @@
                         <div class="box">
                             <img src="assets/images/img-1.jpg">
                             <h2>Book Writing Founders</h2>
-                            <p>Become an author of a best-seller. Hire Book Writing Founder Now!
+                            <p>Become an author of a best-seller. Hire Book Writing Founders Now!
 
                             </p>
                         </div>
@@ -398,7 +398,7 @@
                         <div class="box">
                             <img src="assets/images/img-4.jpg">
                             <h2>Book Publishing</h2>
-                            <p>Book Writing Founder provides a one-stop solution to every aspiring author.
+                            <p>Book Writing Founders provides a one-stop solution to every aspiring author.
 
                             </p>
                         </div>
@@ -428,7 +428,7 @@
                         <div class="box">
                             <img src="assets/images/img-5.jpg">
                             <h2>Ebook Writing</h2>
-                            <p>Book Writing Founder provides exceptional eBook writing services.
+                            <p>Book Writing Founders provides exceptional eBook writing services.
                             </p>
                         </div>
                         <div class="homepage-programs--entry">

@@ -224,7 +224,7 @@ to hire professional book writers.
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="thierd-sec-content">
           <h3> Are you struggling to give words to your thoughts? </h3>
-          <p>To write a book there is only one sensible place to start, and that’s with the very idea of your book – the thing you want to write about. No matter what your genre – a strong premise is essential to selling a book. How, then, do you get your amazing book ideas? The answer is that you probably already have them. Your killer idea may be germinating in your head right now. Hire one of our Book Writing Founder and they can help you develop it into a plot. </p>
+          <p>To write a book there is only one sensible place to start, and that’s with the very idea of your book – the thing you want to write about. No matter what your genre – a strong premise is essential to selling a book. How, then, do you get your amazing book ideas? The answer is that you probably already have them. Your killer idea may be germinating in your head right now. Hire one of our Book Writing Founders and they can help you develop it into a plot. </p>
           <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
@@ -266,7 +266,7 @@ to hire professional book writers.
     <div class="row">
       <div class="col-lg-12">
         <div class="boxeswrap">
-          <h2>Book Writing Founder SERVICES - This is Where We Transform</h2>
+          <h2>Book Writing Founders SERVICES - This is Where We Transform</h2>
           <p>We can help you become a published Author in less time. Our skilled writers are waiting to start your next masterpiece! </p>
           <ul>
             <li>

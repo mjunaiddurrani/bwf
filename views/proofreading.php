@@ -279,7 +279,7 @@ to hire professional book writers.
             <li class="centerbox">
               <div class="textwrap">
                 <h3>Not sure which type of book you need?</h3>
-                <p>FREE Copyright Book Writing Founder consultancy.</p>
+                <p>FREE Copyright Book Writing Founders consultancy.</p>
                 <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Let us guide you</a>
               </div>
               <figure>

@@ -204,7 +204,7 @@
               </figure>
             </div>
             <div class="alts-box2">
-              <p>Book Writing Founder <br/>Writing</p>
+              <p>Book Writing Founders <br/>Writing</p>
             </div>
           </div>
         </a>

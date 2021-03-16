@@ -82,7 +82,7 @@
               </figure>
             </div>
             <div class="alts-box2">
-              <p>Book Writing Founder <br/>Writing</p>
+              <p>Book Writing Founders </p>
             </div>
           </div>
         </a>
@@ -292,7 +292,7 @@
       <div class="row">
         <div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2">
           <div class="strt-cta">
-            <h3>Your one-stop shop offering all bookwriting, editing, <b class="small-a">a</b>nd publishing solutions</h3>
+            <h3>Your one-stop shop offering all bookwriting, editing, and publishing solutions</h3>
             <p>Want to write your own book? Book Writing Founders is the way to go!</p>
             <p>We believe that anyone with a compelling story, innovative concept, or empowering message deserves the opportunity to share it in the form of a well-written book.</p>
             <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Let’s start writing a book with us</a>

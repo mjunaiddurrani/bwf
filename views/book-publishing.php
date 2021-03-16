@@ -43,7 +43,7 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="ghst-writng-content">
-           <h1>The Book Writing Founder Publishing Program is the premier professional publishing program.</h1>
+           <h1>The Book Writing Founders Publishing Program is the premier professional publishing program.</h1>
            <p>Whether you want to self-publish or go the old fashioned way, we at Book Writing Founders will take your book to the height you have dreamt of. </p>
            <a href="../order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
@@ -407,7 +407,7 @@ Our Publishing book promotion professional will research and develop a promotion
       <div class="col-lg-12">
         <div class="git wdt-80">
           <h3>Your success reflects our hard work.</h3>
-          <p>We invest all our time and energy in making your manuscript worthy and ensure that it has passed on to trusted people in the industry. We carry out extensive research and establish necessary contacts for you so that your publishing requirements are very well taken care of. So gear up and hire a literary agent today with Book Writing Founder publishing program!  </p>
+          <p>We invest all our time and energy in making your manuscript worthy and ensure that it has passed on to trusted people in the industry. We carry out extensive research and establish necessary contacts for you so that your publishing requirements are very well taken care of. So gear up and hire a literary agent today with Book Writing Founders publishing program!  </p>
         </div>
       </div>
     </div>

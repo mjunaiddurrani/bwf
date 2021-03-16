@@ -70,7 +70,7 @@
               <p>We do not entertain walk-in customers, we are an online business and the process is convenient with telephonic interviews and chat sessions. Meeting with the clients would affect the productivity of the team and delay the time.  However under uncertain situation we meet clients if the order amount exceeds £30,000, to meet the special needs of the customer.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-7">How long does Book Writing Founder process normally take?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-7">How long does Book Writing Founders process normally take?</a>
             <div id="accordion-7" class="quest-content">
               <p>The duration of the bookwriting process is partly up to you—the author! Depending on your schedule and desired level of involvement, your bookwriter will develop material for you to review and approve on a weekly or biweekly basis.</p>
             </div>
@@ -90,7 +90,7 @@
               <p>Our consultants are available to discuss all aspects of your project with you, including planning, preparation, concept generation, organization, costs, development, style, tone, writing, editing, formatting, publishing, and more! Our consulting process is flexible and customizable to your needs and preferences. Consultation sessions generally take place by phone or Chat.<br/><br/>Once you’re happy with the content of your book, we can help you determine which publishing options work best for you and make your published book a reality! </p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-11">Is Book Writing Founder ethical? </a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-11">Is Book Writing Founders ethical? </a>
             <div id="accordion-11" class="quest-content">
               <p>Absolutely! The most important elements in writing a book are the ideas—and as the author and initiator of your book, the ideas are all yours. Even if you don’t consider yourself a writer or are too busy to develop a publishable book, your voice still deserves to be heard. The bookwriting process is simply a means to get your wisdom, methods, story, or ideas on to paper.</p>
             </div>
