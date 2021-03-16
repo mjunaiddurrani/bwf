@@ -371,7 +371,7 @@ to hire professional bookwriting.
       <div class="col-lg-4">
         <div class="paright">
           <h2>Why should I trust the Book Writing Founders marketers?</h2>
-          <p>As with any other professional on TBM, all our book marketers are thoroughly vetted and their qualifications verified. </p>
+          <p>As with any other professional on BWF, all our book marketers are thoroughly vetted and their qualifications verified. </p>
         </div>
       </div>      
 

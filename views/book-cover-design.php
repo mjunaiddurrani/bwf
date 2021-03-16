@@ -438,7 +438,7 @@ to hire professional bookwriting.
       <div class="col-lg-7">
         <div class="wrapper">
           <h3><span>Bespoke Cover designs </span>Get a Cover that Represents Your Work</h3>
-          <p>TBM has the best book cover designers—especially for the trickier covers which call for more creative, out of the box solutions.</p>
+          <p>BWF has the best book cover designers—especially for the trickier covers which call for more creative, out of the box solutions.</p>
           <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Let’s start writing a book with us</a>
         </div>
       </div>

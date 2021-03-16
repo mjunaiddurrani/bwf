@@ -468,7 +468,7 @@ Our Publishing book promotion professional will research and develop a promotion
           </div>
           <div class="git-box2">
             <h3>DISTRIBUTION AND ROYALTY SETUP</h3>
-            <p>TBM will set up all your distributor and retailer accounts in your name on all major platforms, including Amazon. This means you will own all your own content </p>
+            <p>BWF will set up all your distributor and retailer accounts in your name on all major platforms, including Amazon. This means you will own all your own content </p>
           </div>
         </div>
       </div>

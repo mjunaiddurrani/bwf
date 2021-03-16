@@ -56,7 +56,7 @@
                                 <div class=" col-lg-12 col-md-12 col-sm-12">
                                     <div class="home-banner-content">
                                         <h1>Find The New York Times Bestsellers and Other Fantastic Fiction</h1>
-                                        <p class="subtitle">From Thrilling mysteries and whirlwind romances to enthralling fantasy worlds and inspiring coming-of-age stories, the best fiction books transport readers to other worlds. TBM’s authors come from a diverse range
+                                        <p class="subtitle">From Thrilling mysteries and whirlwind romances to enthralling fantasy worlds and inspiring coming-of-age stories, the best fiction books transport readers to other worlds. BWF’s authors come from a diverse range
                                             of socioeconomic, religious, racial, and geographic backgrounds, and all share the incredible talent of fiction writing.</p>
                                         <!--   <a href="http://bookwritingfounders.com/order" class="btn-theme">Let’s Get Started</a> -->
                                     </div>
@@ -1030,10 +1030,6 @@
                                                     <label class="field-txt">Phone Number<span>*</span></label>
                                                     <input id="phone-country" name="phone" type="number" placeholder="Phone Number" required/>
                                                 </div>
-                                        
-
-
-                                            
 
 
                                                 <div class="col-md-12">

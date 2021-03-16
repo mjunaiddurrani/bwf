@@ -366,7 +366,7 @@ to hire professional bookwriting.
           </div>
           <div class="git-box2">
             <h3>Creating Your Author Website</h3>
-            <p>Whether you are just beginning your writing career or you are a successful novelist with dozens of books under your belt, TBM is a great solution for creating your author website. </p>
+            <p>Whether you are just beginning your writing career or you are a successful novelist with dozens of books under your belt, BWF is a great solution for creating your author website. </p>
           </div>
         </div>
       </div>

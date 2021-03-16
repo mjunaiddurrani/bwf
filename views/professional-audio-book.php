@@ -215,7 +215,7 @@ to hire professional bookwriting.
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="thierd-sec-content">
           <h3>Want To Narrate Your Own Book?</h3>
-          <p>Audiobook are a wonderful shared reading experience and a shared story gives everyone in the family something to talk about. We provide the ISBN for your audiobook and create the image for your online, downloadable, and CD sales. With TBM Audiobook you are never asked for an exclusive agreement, meaning you are free to sell your own audiobook from your website or at events.</p>
+          <p>Audiobook are a wonderful shared reading experience and a shared story gives everyone in the family something to talk about. We provide the ISBN for your audiobook and create the image for your online, downloadable, and CD sales. With BWF Audiobook you are never asked for an exclusive agreement, meaning you are free to sell your own audiobook from your website or at events.</p>
           <a href="../order.html" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
