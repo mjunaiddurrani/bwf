@@ -8,7 +8,7 @@
 
                             <div class="fologo">
                                 <figure>
-                                    <a href="/"><img src="assets/images/logo-light.svg"></a>
+                                    <a href="/"><img src="assets/images/logo-f.svg"></a>
                                 </figure>
                             </div>
                             <ul class="addressnav">
@@ -37,7 +37,7 @@
                                     <li><a href="/faq/">FAQ,s</a></li>
                                     <li><a href="/pricing/">Pricing</a></li>
                                     <li><a href="/contact/">Contact</a></li>
-                                    <li><a href="/order/" style="color:#02d463;font-weight:700;">Let's Get Started</a></li>
+                                    <li><a href="/order/" style="color:#217091;font-weight:700;">Let's Get Started</a></li>
                                 </ul>
                             </div>
                         </div>
