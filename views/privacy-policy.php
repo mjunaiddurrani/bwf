@@ -85,7 +85,7 @@
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
         <ul class="firstlevel unstyled">
           <li><a href="services/">Our Services</a></li>
-          <li><a class="inner-pad" href="/ghost-writing/">Book Writing Founders</a></li>
+          <li><a class="inner-pad" href="/book-writing/">Book Writing Founders</a></li>
           <li><a class="inner-pad" href="/editing/">Editing</a></li>
           <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
           <li><a class="inner-pad" href="/ebook-writing/">Ebook Writing</a></li>

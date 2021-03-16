@@ -73,7 +73,7 @@
     </div>
     <div class="row services-slider">
       <div class="col-lg-3 col-md-3 col-sm-12">
-        <a href="/ghost-writing/">
+        <a href="/book-writing/">
           <div class="main-atls">
             <div class="alts-box1">
               <figure>
