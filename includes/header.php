@@ -61,7 +61,7 @@
         </div>
     </div>
     <div class="mobile-nav">
-        <a href="/" class="logo-main"> <img src="/assets/images/logo.svg" alt="*" /></a>
+        <a href="/" class="logo-main"> <img src="/assets/images/logo.gif" alt="*" /></a>
         <nav>
 
             <ul class="unstyled mainnav pbpx-15">
@@ -130,7 +130,7 @@
 
                             <div class="secondlogo">
                                 <a href="/">
-                                    <img class="img-fluid" src="assets/images/logo.svg" alt="*" />
+                                    <img class="img-fluid" src="assets/images/logo.gif" alt="*" />
                                 </a>
                             </div>
                             <ul class="othermenu forpgactive">

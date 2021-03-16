@@ -191,25 +191,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6 col-md-6 col-sm-12">
-            <div class="prc_boxess">
-              <div class="smallboxes">
-                <div class="icn-box-ser">
-                  <figure>
-                    <img src="assets/images/services/copyright-protection.svg" alt=""/>
-                  </figure>
-                </div>
-                <div class="small-serces">
-                  <h4>Copyrights Certificate</h4>
-                  <p>Become a certified published author and gain your well-deserved position among the best authors in the world.</p>
-                </div>
-                <div class="plus-pri">
-                  <p>$999.00</p>
-                  <a href="/order/" class="btn-main">Order Now</a>
-                </div>
-              </div>
-            </div>
-          </div>
+        
           
         </div>
       </div>

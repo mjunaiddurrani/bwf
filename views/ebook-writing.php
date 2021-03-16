@@ -119,7 +119,7 @@
         <li>
           <p>
            Book Writing Founders is your <strong>ultimate resource</strong>
-to hire professional book writers..
+to hire professional book writers.
 
           </p>
         </li>
@@ -292,7 +292,7 @@ Once your writer is ready to go, he or she will begin to pen your content to you
             </li>
             <li>
               <div class="textwrap">
-                <h3>Besides content, we take care of copywriting, editing and design.</h3>
+                <h3>Besides content, we take care of writing, editing and design.</h3>
                 
                 <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>

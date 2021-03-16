@@ -110,7 +110,7 @@
         <li>
           <p>
            Book Writing Founders is your <strong>ultimate resource</strong>
-to hire professional book writers..
+to hire professional book writers.
 
           </p>
         </li>
@@ -411,7 +411,7 @@ to hire professional book writers..
     <div class="row">
       <div class="col-lg-12">
         <div class="git wdt-80">
-          <h3>Book Writing Founders is your ultimate resource to hire professional book writers.</h3>
+          <h3>Book Writing Founders is your ultimate resource to hire professional book writers./h3>
           <p>We bring your idea to life in the form of a diligently written and published book. We have a team of professional bookwriting on board specializing in various genres.</p>
         </div>
       </div>

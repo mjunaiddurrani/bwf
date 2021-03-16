@@ -46,7 +46,7 @@
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="ghst-writng-content">
            <h1>Providing Exceptional book writers Services</h1>
-           <p>Become an author of a Best seller. Hire a Book Writing Founder to bring your idea to life. </p>
+           <p>Become an author of a Best seller. Hire Book Writing Founders to bring your idea to life. </p>
            <a href="../order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
@@ -483,7 +483,7 @@ to hire professional book writers.
           </div>
           <div class="git-box2">
             <h3>Academic & Professional books</h3>
-            <p>Our professional book writers are skilled, experienced and adapt the fundamentals, rules, & intricacies of book writing with authentic research and unmatchable expertise. </p>
+            <p>Our professional book writers.re skilled, experienced and adapt the fundamentals, rules, & intricacies of book writing with authentic research and unmatchable expertise. </p>
           </div>
         </div>
       </div>
