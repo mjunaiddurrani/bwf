@@ -21,32 +21,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <?php include_once('includes/header.php');?>
 
 
-<section class="top-home myhome" style="background-color:#217091;">
-
-<div class="container-fluid center">
-<div class="row justify-content-end">
-  <div class="col-md-10">
-    <div class="myslider">
-
-  <div class="item" >
-        <div class=" height-dog-2">
-            <div class="content" id="test">
-                <h1 class="title for-anim-1">
-                <span><i><?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?></i></span>
-
-                </h1>
-          
-            </div>
+<section class="main-ghst-writng-first-sec sec-padding-60" style="background-color:#3892b0;">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8 col-md-8 col-sm-12">
+        <div class="ghst-writng-content">
+        <h1 class="text-white mb-4 font-medium mt-5"><?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?></h1>
         </div>
+      </div>
+       <div class="col-lg-6 col-md-6 col-sm-12 serForm">
+        
+      </div>
     </div>
+
     
-   
-</div>
   </div>
-</div>
-
-
-</div>
+  <!-- <svg xmlns="http://www.w3.org/2000/svg" class="curve-container__curve curve-one" viewBox="0 0 1440 68" enable-background="new 0 0 1440 68"><path d="m1622.3 1937.7c0 0-410.7 169.1-913.4 75.5-502.7-93.6-977.7 56.3-977.7 56.3v440h1891.1v-571.8" fill="#F4F5F7" transform="translate(0-1977)"></path></svg> -->
 </section>
 <?php include_once('includes/footer.php');?>
 </div>
