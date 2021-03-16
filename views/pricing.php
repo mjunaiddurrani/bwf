@@ -53,7 +53,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$499.00</p>
-                  <a href="order5ac2.html?pack=5" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$3,999.00</p>
-                  <a href="orderc92d.html?pack=6" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$999.00</p>
-                  <a href="orderaf2d.html?pack=7" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -110,7 +110,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$799.00</p>
-                  <a href="order512d.html?pack=8" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -129,7 +129,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$5,999.00</p>
-                  <a href="order88b5.html?pack=9" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -148,7 +148,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$299.00</p>
-                  <a href="orderf484.html?pack=10" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -167,7 +167,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$1,499.00</p>
-                  <a href="order35dd.html?pack=11" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -186,7 +186,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$2,499.00</p>
-                  <a href="order9842.html?pack=12" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>
@@ -205,7 +205,7 @@
                 </div>
                 <div class="plus-pri">
                   <p>$999.00</p>
-                  <a href="order0743.html?pack=13" class="btn-main">Order Now</a>
+                  <a href="/order/" class="btn-main">Order Now</a>
                 </div>
               </div>
             </div>

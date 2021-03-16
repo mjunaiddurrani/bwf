@@ -84,26 +84,26 @@
       <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
         <ul class="firstlevel unstyled">
-          <li><a href="services.html">Our Services</a></li>
-          <li><a class="inner-pad" href="our-services/ghost-writing.html">Book Writing Founders</a></li>
-          <li><a class="inner-pad" href="our-services/editing.html">Editing</a></li>
-          <li><a class="inner-pad" href="our-services/book-publishing.html">Book Publishing</a></li>
-          <li><a class="inner-pad" href="our-services/ebook-writing.html">Ebook Writing</a></li>
-          <li><a class="inner-pad" href="our-services/book-marketing.html">Book Marketing</a></li>
-          <li><a class="inner-pad" href="our-services/copyrights-protection.html">Copyrights Protection</a></li>
-          <li><a class="inner-pad" href="our-services/author-website.html">Author Website</a></li>
-          <li><a class="inner-pad" href="our-services/professional-audio-book.html">Professional Audio Book</a></li>
-          <li><a class="inner-pad" href="our-services/Book-Video-Trailer.html">Book Video Trailer</a></li>
-          <li><a class="inner-pad" href="our-services/book-cover-design.html">Book Cover Design</a></li>
-          <li><a class="inner-pad" href="our-services/custom-book-illustration.html">Custom Book Illustration</a></li>
-          <li><a class="inner-pad" href="our-services/article-writing-publication.html">Article Writing & Publication</a></li>
+          <li><a href="services/">Our Services</a></li>
+          <li><a class="inner-pad" href="/ghost-writing/">Book Writing Founders</a></li>
+          <li><a class="inner-pad" href="/editing/">Editing</a></li>
+          <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
+          <li><a class="inner-pad" href="/ebook-writing/">Ebook Writing</a></li>
+          <li><a class="inner-pad" href="/book-marketing/">Book Marketing</a></li>
+          <li><a class="inner-pad" href="/copyrights-protection/">Copyrights Protection</a></li>
+          <li><a class="inner-pad" href="/author-website/">Author Website</a></li>
+          <li><a class="inner-pad" href="/professional-audio-book/">Professional Audio Book</a></li>
+          <li><a class="inner-pad" href="/Book-Video-Trailer/">Book Video Trailer</a></li>
+          <li><a class="inner-pad" href="/book-cover-design/">Book Cover Design</a></li>
+          <li><a class="inner-pad" href="/custom-book-illustration/">Custom Book Illustration</a></li>
+          <li><a class="inner-pad" href="/article-writing-publication/">Article Writing & Publication</a></li>
         </ul>
       </li>
-      <li><a href="about-us.html">About</a></li>
+      <li><a href="about-us/">About</a></li>
       <!--<li><a href="http://bookwritingfounders.com/trusted-reviews">Reviews</a></li>-->
       <!-- <li><a href="http://bookwritingfounders.com/samples">Samples</a></li> -->
-      <li><a href="pricing.html">Pricing</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="pricing/">Pricing</a></li>
+      <li><a href="contact/">Contact</a></li>
     </ul>
 
     
@@ -160,7 +160,7 @@
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="faq.html" />
+                            <input type="hidden" id="location" name="locationURL" value="faq/" />
                         </div>
                       </div>
                     </div>

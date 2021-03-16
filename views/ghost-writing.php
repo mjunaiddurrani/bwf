@@ -47,7 +47,7 @@
         <div class="ghst-writng-content">
            <h1>Providing Exceptional book writers Services</h1>
            <p>Become an author of a Best seller. Hire a Book Writing Founder to bring your idea to life. </p>
-           <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="../order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -220,7 +220,7 @@ to hire professional book writers.
         <div class="thierd-sec-content">
           <h3> Are you struggling to give words to your thoughts? </h3>
           <p>To write a book there is only one sensible place to start, and that’s with the very idea of your book – the thing you want to write about. No matter what your genre – a strong premise is essential to selling a book. How, then, do you get your amazing book ideas? The answer is that you probably already have them. Your killer idea may be germinating in your head right now. Hire one of our Book Writing Founder and they can help you develop it into a plot. </p>
-          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
+          <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -268,7 +268,7 @@ to hire professional book writers.
               <div class="textwrap">
                 <h3>CUSTOMIZED book writers OFFERS</h3>
                 <p>We consult you before proceeding in each of our steps.</p>
-                <a href="..//order/" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -288,7 +288,7 @@ to hire professional book writers.
               <div class="textwrap">
                <h3>SPECIALIST SERVICES</h3>
                 <p>Collaborating with the most prolific writers and editors around the world to create words that standout</p>
-                <a href="..//order/" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -396,7 +396,7 @@ to hire professional book writers.
 
         </ul>
         <div class="">
-          <a href="..//order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
+          <a href="../order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
           <a href="tel:+18889768388 " class="btn-theme-outline blackbtn">+1-888-976-8388 </a>
         </div>
       </div>
@@ -539,36 +539,14 @@ to hire professional book writers.
                           <label class="field-txt">Email <span>*</span></label>
                           <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
                         </div>
-                        <div class="col-md-6">
-                          <div class="slct">
-                            <label class="field-txt">Select Service <span>*</span></label>
-                            <select id="packages" name="Package" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                          </div>
-                        </div>
                         
                         
-                        <div class="col-md-12">
-                          <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                        </div>
+                        
+                        
                         
                         
                         
@@ -582,7 +560,7 @@ to hire professional book writers.
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="ghost-writing.html" />
+                            <input type="hidden" id="location" name="locationURL" value="ghost-writing/" />
                         </div>
                       </div>
                     </form>

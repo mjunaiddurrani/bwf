@@ -36,7 +36,7 @@
         <div class="ghst-writng-content">
            <h1>Get a beautifully designed custom book cover starting at $449</h1>
            <p>Don’t sell your book short! Readers naturally reach for attractive, stylish covers, and our book cover designs get your book where it needs to be—in readers’ hands.</p>
-           <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="../order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -127,7 +127,7 @@ to hire professional bookwriting.
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="..//order/" class="pur-bg">Let’s Get Started</a>
+          <a href="../order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -205,7 +205,7 @@ to hire professional bookwriting.
         <div class="thierd-sec-content">
           <h3>We help authors stand out</h3>
           <p>As a writer, you’re using words to tell a story. For the cover of your book, our award-winning designers create distinctive visuals and striking images that tell that same story, captivating readers from the moment they see your book.</p>
-          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
+          <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -261,7 +261,7 @@ to hire professional bookwriting.
               <div class="textwrap">
                 <h3>Click ‘ORDER BOOK COVER’ and choose a package: Custom Book Cover Design or Book + Print   Cover Design.</h3>
                 
-                <a href="..//order/" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -282,7 +282,7 @@ to hire professional bookwriting.
                 <h3>PAY YOUR INVOICE</h3>
                 <p>We will email you an invoice that is payable by Paypal or credit card.</p>
                 
-                <a href="..//order/" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -346,7 +346,7 @@ to hire professional bookwriting.
                         <li>3D Mockup on Devices</li>
                       </ul>
                       <h4>$449.00</h4>
-                      <a href="../orderdab3.html?pack=14" class="btn-main">Order Now</a>
+                      <a href="/order/" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                   </div>
                 </div>
@@ -362,7 +362,7 @@ to hire professional bookwriting.
                         <li>3D Mockup of Books</li>
                       </ul>
                       <h4>$499.00</h4>
-                      <a href="../order9187.html?pack=15" class="btn-main">Order Now</a>
+                      <a href="/order/" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                   </div>
                 </div>
@@ -380,7 +380,7 @@ to hire professional bookwriting.
                         <li>3D Mockup on Devices</li>
                       </ul>
                       <h4>$549.00</h4>
-                      <a href="../order1cf8.html?pack=16" class="btn-main">Order Now</a>
+                      <a href="/order/" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                   </div>
                 </div>
@@ -395,7 +395,7 @@ to hire professional bookwriting.
                         <li>3D Mockup on Devices</li>
                       </ul>
                       <h4>$549.00</h4>
-                      <a href="../orderf8c1.html?pack=17" class="btn-main">Order Now</a>
+                      <a href="/order/" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                   </div>
                 </div>
@@ -417,7 +417,7 @@ to hire professional bookwriting.
                         <li>Set of All Four Static Ads</li>
                       </ul>
                       <h4>$749.00</h4>
-                      <a href="../order13f9.html?pack=18" class="btn-main">Order Now</a>
+                      <a href="/order/" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+18889768388 " class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                   </div>
                 </div>
@@ -469,36 +469,14 @@ to hire professional bookwriting.
                           <label class="field-txt">Email <span>*</span></label>
                           <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
                         </div>
-                        <div class="col-md-6">
-                          <div class="slct">
-                            <label class="field-txt">Select Service <span>*</span></label>
-                            <select id="packages" name="Package" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                          </div>
-                        </div>
                         
                         
-                        <div class="col-md-12">
-                          <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                        </div>
+                        
+                        
                         
                         
                         
@@ -512,7 +490,7 @@ to hire professional bookwriting.
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="book-cover-design.html" />
+                            <input type="hidden" id="location" name="locationURL" value="book-cover-design/" />
                         </div>
                       </div>
                     </form>
@@ -545,7 +523,7 @@ to hire professional bookwriting.
           <span>Book Writing Founders</span>
           <h3>Providing Exceptional bookwriting Services</h3>
           <p class="quick-ser">Become an author to a best seller. Hire Book Writing Founders to make your dream come to life.</p>
-          <a href="ghost-writing.html" class="btn-theme">Learn more</a>
+          <a href="ghost-writing/" class="btn-theme">Learn more</a>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12">
@@ -553,7 +531,7 @@ to hire professional bookwriting.
           <span>ebook writing</span>
           <h3>Professional Ebook Writing Services</h3>
           <p class="quick-ser">Book Writing Founders provides exceptional Quality Ebook writing services that are guaranteed to get you published in no time.</p>
-          <a href="ebook-writing.html" class="btn-theme">Learn more</a>
+          <a href="ebook-writing/" class="btn-theme">Learn more</a>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12">
@@ -561,7 +539,7 @@ to hire professional bookwriting.
           <span>book marketing</span>
           <h3>Experience To Take Your Book To The Next Level</h3>
           <p class="quick-ser">Now that your book is complete, the real challenges of publishing must be met head on. We work closely with authors and publishers to create and execute highly effective pre- and post-publication marketing and distribution.</p>
-          <a href="book-marketing.html" class="btn-theme">Learn more</a>
+          <a href="book-marketing/" class="btn-theme">Learn more</a>
         </div>
       </div>
     </div>

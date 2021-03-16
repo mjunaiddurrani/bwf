@@ -45,7 +45,7 @@
         <div class="ghst-writng-content">
            <h1>The Book Writing Founder Publishing Program is the premier professional publishing program.</h1>
            <p>Whether you want to self-publish or go the old fashioned way, we at Book Writing Founders will take your book to the height you have dreamt of. </p>
-           <a href="..//order/" class="btn-theme ml-0">Let’s Get Started</a>
+           <a href="../order/" class="btn-theme ml-0">Let’s Get Started</a>
           <a href="tel:+18889768388 " class="btn-theme-outline whitebtn">+1-888-976-8388 </a>
           <ul>
             <li><img src="../assets/images/services/ghost-writing/partner5.png"></li>
@@ -136,7 +136,7 @@
         </li>
         <li>
           <span>Got a plot idea?</span>
-          <a href="..//order/" class="pur-bg">Let’s Get Started</a>
+          <a href="../order/" class="pur-bg">Let’s Get Started</a>
         </li>
       </ul>
       </div>
@@ -215,7 +215,7 @@
         <div class="thierd-sec-content">
           <h3>Your Book Is Ready? What’s Next? </h3>
           <p>Book Writing Founders will make your book your legacy. We provide the services from writing letters and proposals to finding the best publisher for your book and everything in between. We are the bridge to accomplishment in the publishing world, and we just happen to be conversant with some of the finest in the business. Our industry specialists possess just the right knowledge needed to help it get the best chance at publishing success.</p>
-          <a href="..//order/" class="btn-theme">Let’s Get Started</a>
+          <a href="../order/" class="btn-theme">Let’s Get Started</a>
         </div>
       </div>
     </div>
@@ -299,7 +299,7 @@
                 <p>Pre-press editorial and design services are part of your book publication contract.
 From line edits, page design, and cover artwork, this is where your book begins to take shape.</p>
                 
-                <a href="..//order/" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure class="left-mostconsultancy">
                 <img src="../assets/images/girl-a.png">
@@ -321,7 +321,7 @@ Our Publishing book promotion professional will research and develop a promotion
                 <h3>Distribution</h3>
                 <p>Our fulfillment team gets your traditional print and eBook listed at leading book retailers and then shipped to consumers who order a copy. We’ll introduce your work to bookstores and online retailers.</p>
                 
-                <a href="..//order/" class="btn-theme">Let's Get Started </a>
+                <a href="../order/" class="btn-theme">Let's Get Started </a>
               </div>
               <figure style="bottom: 55px;" class="right-mostconsultancy">
                 <img src="../assets/images/guarantee.png">
@@ -386,7 +386,7 @@ Our Publishing book promotion professional will research and develop a promotion
           <li>MARKETING CONSULTATION</li>
         </ul>
         <div class="">
-          <a href="..//order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
+          <a href="../order/" class="btn-theme" style="margin-right: 10px">Let’s Get Started </a>
           <a href="tel:+18889768388 " class="btn-theme-outline blackbtn">+1-888-976-8388 </a>
         </div>
       </div>
@@ -530,36 +530,14 @@ Our Publishing book promotion professional will research and develop a promotion
                           <label class="field-txt">Email <span>*</span></label>
                           <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
                         </div>
-                        <div class="col-md-6">
-                          <div class="slct">
-                            <label class="field-txt">Select Service <span>*</span></label>
-                            <select id="packages" name="Package" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested In</option>
-                              <option value="Book Writing Founders">Book Writing Founders</option>
-                              <option value="Editing">Editing</option>
-                              <option value="Book Publishing">Book Publishing</option>
-                              <option value="Ebook Writing">Ebook Writing</option>
-                              <option value="Article Writing & Publication">Article Writing & Publication</option>
-                              <option value="Book Video Trailer">Book Video Trailer</option>
-                              <option value="Copyrights Protection">Copyrights Protection</option>
-                              <option value="Author Website">Author Website</option>
-                              <option value="Book Marketing">Book Marketing</option>
-                              <option value="Book Cover Design">Book Cover Design</option>
-                              <option value="Custom Book Illustration">Custom Book Illustration</option>
-                              <option value="Professional Audio Book">Professional Audio Book</option>
-                            </select>
-                          </div>
-                        </div>
                         
                         
-                        <div class="col-md-12">
-                          <label class="field-txt">Please Attach Manuscript or Relevant Documents MS Word Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                        </div>
+                        
+                        
                         
                         
                         
@@ -573,7 +551,7 @@ Our Publishing book promotion professional will research and develop a promotion
                             <input type="hidden" name="ctry" value="">
                             <input type="hidden" name="pc" value="">
                             <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="book-publishing.html" />
+                            <input type="hidden" id="location" name="locationURL" value="book-publishing/" />
                         </div>
                       </div>
                     </form>

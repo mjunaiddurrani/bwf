@@ -197,6 +197,7 @@ margin:0px;
 
 
 
+
 @media screen and (-webkit-min-device-pixel-ratio:0) { select { -webkit-appearance: none !important; line-height:28px !important; } }
 
 body {    font-family: var(--primary-font-family);color: var(--default-color);font-size:var(--base-font-size);position: relative;}
@@ -341,6 +342,7 @@ font-size: 13px; color:var(--secondary-color); content: "\e93a"; font-family: 'i
     position: absolute;
     overflow: hidden;
     animation: marquee 20s linear infinite;
+
 }
 .header-main .top-bar-line .sldrwrp p {
     float: left;
@@ -4985,7 +4987,7 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 
 /*==============================SERVICES-PAGE-START==============================*/
 .main-Ghost-book-writing-sec{
-    margin-top: 70px;
+    margin-top: 170px;
     background: linear-gradient(135deg, #0079BF, #5067C5);
     height: 600px;
     padding: 100px 0 0 0;
@@ -7123,6 +7125,16 @@ body.order-page.iti-mobile .form-box-main form {
 }
 
 @media screen and (max-width:768px){
+
+    .header-main .top-bar-line .sldrwrp {
+        display: block;
+        width: 200%;
+        position: absolute;
+        overflow: hidden;
+        animation: marquee 20s linear infinite;
+        display: none  !important;
+    }
+    
     .home-banner-content h1, .introduction-sec .wrapper h3, .clientele-sec h2, .tools-sec h2, .mycta h2, .myprocess h2, .collaboration-sec .wrapper h2, .team-content h3, .info-content h3, .works-content h3, .strt-cta h3, .main-ghst-sec h3, .built-sec h2, .form-box-main h2, .Ghost-book-writing-content h1, .introduction-sec2 .wrapper h3, .ghst-writng-content h1, .thierd-sec-content h3, .fourth-sec-content h3, .git h3, .cntc-form h3, .trst-rvw h1, .our-team h1, .policypg h2, .banner-form h3 {
     font-size: 24px;
     line-height: 28px;
@@ -7658,7 +7670,7 @@ section.main-sft-sec {
 }
 
 .main-ghst-writng-first-sec{
-    margin: calc(100% - 82%) 0 auto;
+   margin: calc(100% - 69%) 0 auto;
 }
 .mobile-nav-btn {
     z-index: 999;

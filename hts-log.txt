@@ -50,9 +50,9 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 13:21:59	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets/images/culture.png (from https://bookwritingfounders.com/assets/css/style.css)
 
-13:22:00	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/our-services/book-video-trailer (from https://bookwritingfounders.com/services)
+13:22:00	Error: 	"Not Found" (404) at link https://bookwritingfounders.com//book-video-trailer (from https://bookwritingfounders.com/services)
 
-13:22:00	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/our-services/assets/images/popup.png (from https://bookwritingfounders.com/our-services/ghost-writing)
+13:22:00	Error: 	"Not Found" (404) at link https://bookwritingfounders.com//assets/images/popup.png (from https://bookwritingfounders.com//ghost-writing)
 
 13:22:02	Error: 	"Not Found" (404) at link https://bookwritingfounders.com/assets//images/services/tabs/CFE531C2.png (from https://bookwritingfounders.com/assets//images/services/tabs/journal-submission.svg)
 

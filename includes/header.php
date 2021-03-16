@@ -63,7 +63,7 @@
                 <li><a href="/home/">Home</a></li>
                 <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
                     <ul class="firstlevel unstyled">
-                        <li><a href="services.html">Our Services</a></li>
+                        <li><a href="/services/">Our Services</a></li>
                         <li><a class="inner-pad" href="/ghost-writing/">Book Writing Founders</a></li>
                         <li><a class="inner-pad" href="/editing/">Editing</a></li>
                         <li><a class="inner-pad" href="/book-publishing/">Book Publishing</a></li>
