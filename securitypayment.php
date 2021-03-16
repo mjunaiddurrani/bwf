@@ -252,7 +252,7 @@ ini_set('display_errors', 1);
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000">Complete Your Payment</h2>
+                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color: white;">Complete Your Payment</h2>
                 </div>
             </div>
         </div>
