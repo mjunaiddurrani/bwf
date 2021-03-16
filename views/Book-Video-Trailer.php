@@ -61,28 +61,33 @@
     <div class="home-banner-content hme-bner-cntn">
       <div class="analyzeform col-lg-12">
       <h2>Signup with us to avail 20% Discount Now</h2>
-        <form class="" id="banform" method="POST" action="https://bookwritingfounders.com/webpages/bannerFormController.php" novalidate="novalidate">
+      <form class="" id="banform" method="POST" action="/leads/" novalidate="novalidate">
+          <input type="hidden" id="tag" name="tag" value="footer-top">
+          <input type="hidden" id="priceVal" name="price" value="null">
+          <input type="hidden" name="news" value="1">
+          <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+          <input type="hidden" name="brand" value="bookwritingfounders">
           <div class="row">
             <div class="wrap">
               <div class="dtf">
-                <input id="fname" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
+                <input id="fname" name="name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
               </div>
               <div class="dtf">
-                <input id="cemail" type="email" name="Email" placeholder="Enter email here" required="">
+                <input id="cemail" type="email" name="email" placeholder="Enter email here" required="">
               </div>
               <div class="dtf">
-                <input id="phone" name="Number" required="" type="number" rangelength="[2,15]" placeholder="Enter phone here">
+                <input id="phone" name="phone" required="" type="number" rangelength="[2,15]" placeholder="Enter phone here">
               </div>
               <div class="dtf text-left">
                 <script type="text/javascript">
                     document.getElementById('location').value = window.location.href;
                 </script>
-                <input type="hidden" name="hiddencapcha" value="">
+                <input type="hidden" name="brief" value="field-not-available">
                 <input class="submit" type="submit" value="Contact Team">
                 <input type="hidden" name="ctry" value="">
                 <input type="hidden" name="pc" value="">
                 <input type="hidden" name="cip" >
-                <input type="hidden" id="location" name="locationURL" value="http://bookwritingfounders.com/Book-Video-Trailer" />
+                <input type="hidden" id="location" name="locationURL" value="http://bookwritingfounders.com/editing" />
                 
               </div>
             </div>
@@ -411,72 +416,6 @@
   </div>
 </section>
 
-
-<section class="homwBtmform" style="background-image: url(../assets/images/contimg.jpg);">
-<section class="myprocess main-ghst-sec">
-
-
-        <div class="container ">
-          <div class="row">
-            <div class=" col-lg-12 col-xl-12 text-center">
-              <div class="home-banner-content">
-                <div class="col-lg-8 offset-lg-2   inner-content mtpx-100 text-left">
-                  <div class="form-box-main clearfix">
-                    <h2>We would love to hear from you</h2>
-                   
-                    <form class="cmxform" id="contactForm"  method="POST" action="https://bookwritingfounders.com/webpages/serviceFormController.php"  enctype="multipart/form-data">
-                      <div class="row">
-                        <div class="col-md-6">
-                          <label class="field-txt">Name <span>*</span></label>
-                          <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
-                        </div>
-                        <div class="col-md-6">
-                          <label class="field-txt">Email <span>*</span></label>
-                          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
-                        </div>
-                        <div class="col-md-12">
-                          <label class="field-txt">Phone Number<span>*</span></label>
-                          <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
-                        </div>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <div class="col-md-12">
-                          <label class="field-txt">Additional Comments <span>*</span></label>
-                          <textarea name="Comment" placeholder="Enter message here" /></textarea>
-                        </div>
-                        <div class="col-md-12">
-                            <input class="btn-theme" type="submit" value="Submit" />
-                            <input type="hidden" name="hiddencapcha" value="">
-                            <input type="hidden" name="ctry" value="">
-                            <input type="hidden" name="pc" value="">
-                            <input type="hidden" name="cip" >
-                            <input type="hidden" id="location" name="locationURL" value="Book-Video-Trailer/" />
-                        </div>
-                      </div>
-                    </form>
-                  </div>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-      
-
-      
-  </section>
-    <!-- <div class="slider-progress">
-      <div class="progress"></div>
-    </div> -->
-
-
-
-
-</section>
 
 
 </main>

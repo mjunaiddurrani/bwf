@@ -21,7 +21,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <?php include_once('includes/header.php');?>
 
 
-<section class="top-home myhome">
+<section class="top-home myhome" style="background-color:#217091;">
 
 <div class="container-fluid center">
 <div class="row justify-content-end">
@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class=" height-dog-2">
             <div class="content" id="test">
                 <h1 class="title for-anim-1">
-                <span><i><?php if(isset($_REQUEST['thanksMsg'])){ echo $_REQUEST['thanksMsg'];} ?></i></span>
+                <span><i><?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?></i></span>
 
                 </h1>
           
@@ -47,27 +47,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 </div>
-  
-
-
-
-
-
-
-
-
 </section>
 <?php include_once('includes/footer.php');?>
-
-
-
-
-
-         
-   
-
-    </div>
-    </div>
+</div>
+</div>
 
 
 
