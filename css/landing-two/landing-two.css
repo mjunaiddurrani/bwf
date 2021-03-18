@@ -1,0 +1,986 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*.linkPage i{
+	display: none;
+}
+*/
+.socialImg img {
+	margin: 40px auto;
+	width: 60%;
+}
+div.logo {
+    margin-top: -14px;
+}
+
+.sticky{
+	background-color: #217091;
+}
+.btnMblLive{
+	background-color:#217091;
+	border:none;
+	outline:none;
+}
+.sticky .getStartedHeaderButton ,.sticky .btnMblLive{
+	background-color: #0a0140;
+}
+
+.btnPhone{
+	font-size: 18px;
+	font-weight: 800;
+	color: #fff;
+	transition: .3s ease-in-out;
+}
+.btnPhone:hover{
+	text-decoration: none;
+	color:#000;
+	transition: .3s ease-in-out;
+}
+.phoneIcon{
+	font-size: 30px;
+	color: #fff;
+}
+.getStartedHeaderButton{
+	font-size: 15px;
+	font-weight: 700;
+	padding: 15px 30px;
+	background-color: #217091;
+	border:none;
+	font-family: "Poppins";
+	border-radius:100px;
+}
+.getStartedHeaderButton:hover{
+	background-color: #262654;
+}
+.my-col-md-5{
+	width: 20%;
+}
+.cardCustom{
+	padding: 30px 30px;
+	text-align: center;
+
+}
+.cardRed{
+	background-color: #217091;
+	color: #fff;
+}
+.callNow{
+	font-size: 50px;
+	font-weight: 700;
+}
+.section1{
+	background:none;
+	background-image: url("../../img/landing-two/collage.jpg");
+	/* padding-top: 110px; */
+	/* padding-bottom: 0; */
+	background-size: cover;
+}
+.sectionUpperHeading{
+	color: #02a538;
+	font-weight: 600;
+	font-size: 30px;
+	margin-top: 60px;
+}
+.headingSection{
+	font-size: 65px;
+	letter-spacing: 2px;
+	font-weight: 900;
+	color: #1e293d;
+}
+.bottomMain{
+	font-size: 35px;
+	font-weight: 800;
+	color: #1e293d;
+	font-family: "Nunito",sans-serif;
+
+}
+.h4Span{
+	color: #217091;
+	font-weight: 800;
+
+}
+.trustedUl{
+	list-style: none;
+}
+.trustedLi{
+	font-size: 18px;
+	font-weight: 800;
+	text-transform: uppercase;
+	line-height: 40px;
+	font-family: "Nunito",sans-serif;
+
+}
+
+
+.section4 {
+    background-image: url('../img/section4.jpg');
+    color: #fff;
+    background-size: cover;
+    background-position: 100% 100%;
+	padding-top: 52px;
+	padding-bottom: 18px;
+}
+.activateCoponAndPrice{
+	display: flex;
+	margin-top: 20px;
+	justify-content: center;
+	padding-bottom: 40px;
+text-align:center;
+}
+.coponPrice{
+    font-size: 18px;
+    font-family: "Nunito",sans-serif;
+    padding: 15px;
+    width: 222px;
+
+    border-radius: 100px;
+    /* margin: 0 auto; */
+
+
+}
+.couponBtn{
+	margin-right: 8px;
+	background-color: #fff;
+	border: none;
+}
+.time{
+	display: flex;
+	justify-content: center;
+}
+.timeSection{
+	margin: 5px;
+	color: #fff;
+	text-align: center;
+	font-family: "Nunito",sans-serif;
+	background: #217091;
+	border-radius: 6px;
+	padding: 10px;
+
+}
+.btn-primary{
+	background-color: #0a0140!important;
+	color:#fff!important;
+}
+.timeSection h2{
+	font-size: 85px;
+	font-weight: 900;
+	max-height: 80px;
+}
+.blueTime{
+	background-color: #0a0140;
+}
+
+
+.color-black{
+	color: #090140!important;
+}
+/*		section2 style*/
+.section2{
+	background:none;
+	background-color: #217091;
+}
+
+
+
+
+.signUpField{
+	padding: 15px 15px;
+	font-size: 18px;
+	font-family: "Nunito",sans-serif;
+	color: #000;
+	background-color: #fff;
+	border:none;
+	border-radius: 100px;
+	width: 100%;
+}
+.bookImg{
+	margin: 0 auto;
+	width: 100%;
+}
+.signUpBtn{
+	width: 150px;
+	cursor: pointer;
+	font-size: 12px;
+}
+.headingLight {
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 30px;
+ 	padding-top: 30px;
+    text-transform: uppercase;
+    line-height: 26px;
+}
+.headingLighttwo {
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 36px;
+ padding:30px 0;
+    text-transform: uppercase;
+    line-height: 26px;
+}
+
+
+.circleTime{
+	text-align: center;
+	justify-content: center;
+	margin: 0 auto;
+	display: flex;
+	padding-top: 0px;
+	font-weight: 800;
+}
+.checkBoxes{
+	display: flex;
+	color: #fff;
+	font-family: "Poppins";
+	font-size: 10px;
+	text-transform: uppercase;
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.checkBoxes2{
+	display: flex;
+	color: #333;
+	font-family: "Poppins";
+	font-size: 10px;
+	text-transform: uppercase;
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.topHeading{
+	/* border: 2px solid #ffffff4a; */
+	padding: 40px;
+/* 	
+	margin-top: 85px; */
+
+}
+
+
+
+.headingLightemail {
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 36px;
+    text-transform: capitalize;
+    line-height: 40px;
+}
+
+.checkItem {
+    padding: 9px;
+}
+.modalDetailsOf .btn {
+    background-color:#dc3545;
+    padding: 15px 60px;
+    color: #fff;
+    margin: 12px 0;
+}
+
+.mainHeading {
+    font-size: 38px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-family: poppins;
+    line-height: 50px;
+    padding-top: 0px;
+}
+.headingReadMain {
+    font-size: 22px;
+    font-weight: 800;
+    font-family: "Poppins";
+    color: #c6ff00;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 28px;
+    width: 73%;
+    margin: 0 auto;
+}
+.rowOfWaitingFor h1 {
+    font-size: 50px;
+    font-weight: 800;
+    font-family: "Poppins";
+    color: #fff;
+    line-height: 55px;
+}
+.manageContentWithHr{
+	color: #fff;
+}
+.section5 {
+    background-image: url(../../img/landing-two/section3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bookItem{
+	transition: .7s ease-in-out;
+}
+.bookItem:hover {
+	transform: scaleY(1.1);
+	transition: .7s ease-in-out;
+}
+.owl-books {
+    margin: 0 auto;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 50px;
+
+}
+
+.linkPage{
+	font-size: 18px;
+	font-weight: 800px;
+	margin-top: 20px;
+}
+.linkPage a{
+	color:#fff;
+	transition: .3s ease-in-out
+}
+.linkPage i{
+	color: #217091;
+}
+.linkPage a:hover{
+	text-decoration: none;
+	color: #217091;
+	transition: .3s ease-in-out
+}	
+.section4{
+	background:none;
+	background-color: #1e293d;
+}
+.section5Two{
+	background:none;
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+.weHaveRec{
+	font-size: 25px;
+	font-weight: 600;
+	font-family: "Poppins";
+}
+.theWorldWaiting{
+	font-size: 40px;
+	font-family: "Poppins";
+}
+.section6{
+	background: url(../../img/landing-two/collage-old.jpg);
+	background-size: cover;
+	text-align: left;
+}
+.signUpFormDiv{
+	width: 100%;
+}
+.section6 h1{
+	font-size: 50px;
+	font-family: 'poppins';
+}
+.font-35{
+	font-size: 35px;
+
+}
+.font-poppins{
+	font-family: "Poppins";
+}
+.btn-contact{
+	padding: 20px 20px;
+	font-family: "Poppins";
+}
+.section5Slider{
+	/* background: url('../../img/section5.jpg'); */
+	color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.section5Slider h2{
+	color: #000;
+	font-size: 50px;
+	font-weight: 900;
+}
+
+/*.copyRights{
+	display: flex;
+}*/
+.termsAndCon{
+	float: right;
+}
+.iUtilize{
+	background: #0d0127;
+}
+.section8{
+	    background-color: #217091;
+}
+
+
+.weHaveHelp{
+	font-size: 32px!important;
+	font-weight: 600!important;
+}
+
+.rowOfWaitingFor h4{
+	color: #217091;
+}
+.hrGreen{
+	background: #217091;
+}
+
+
+
+
+
+
+.text-black{
+	color: #000;
+}
+footer .fa{
+	background-color: #fff;
+}
+.footerNavHeading{
+	color:#fff 
+}
+
+.social{
+	margin-top: 0;
+}
+
+.footerAnc{
+	color: #fff;
+	font-family: "Poppins";
+}
+.footerAnc:hover{
+	text-decoration: none;
+	color: #Fff;
+}
+
+footer{
+	background: url('../../img/landing-two/footer.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.copyRightsPara a{
+	color: #217091;
+}
+footer .termsAndCon a,footer .termsAndCon{
+	color: #217091;
+}
+
+.btnGreen{
+	background-color: #217091;
+}
+
+.goal-daba:hover {
+    border: 1px solid #217091;
+    transition: .3s ease-in-out;
+}
+.goal-daba:hover i{
+	color: #217091;
+}
+
+.text-theme{
+	color: #217091;
+
+}
+.theWorldWaiting{
+	color: #fff;
+}
+@media (max-width: 1000px){
+
+	.modalDetailsLG * {
+		font-family: "Nunito",sans-serif;
+		color: white !important;
+		text-shadow: 0 0 1px #333;
+	}
+}
+@media (max-width: 767px){
+
+
+
+
+	.imgFloted{
+		box-shadow: 5px 10px 8px #000;
+		width: 190px;
+		height: 250px;
+		z-index: 1
+	}
+	.bookAnimated{
+		position: absolute;
+		
+		display: block;
+	}
+	
+	
+	
+	.book1Ani .imgFloted{
+		animation:shakeX 39s infinite;
+	}
+	.book1Ani {
+		top : 19%;
+		left: .5%;
+		transform: scale(.7);
+	display: none;
+	}
+	
+	.book2Ani .imgFloted{
+		animation:shakeY 50s infinite;
+	}
+	
+	.book3Ani .imgFloted{
+		animation:shakeY 40s infinite;
+	}
+	.book2Ani{
+	
+		bottom: 38%!important;
+		left: .5%;
+		transform: scale(0.6);
+		display: none;
+	}
+	.book3Ani{
+	
+		bottom: 20%!important;
+		left: 1%;
+		transform: scale(.6);
+		display: none;
+	}
+
+	
+	.book4Ani .imgFloted{
+		animation:shakeX 39s infinite;
+	}
+	.book4Ani {
+		bottom: -8%;
+		right: -1.5%;
+		transform: scale(0.6);
+	}
+	
+	.book5Ani .imgFloted{
+		animation:shakeY 50s infinite;
+	}
+	
+	.book6Ani .imgFloted{
+		animation:shakeY 40s infinite;
+	}
+	.book5Ani {
+		bottom: -9% !important;
+		left: .5%;
+		transform: scale(.6);
+	}
+
+	
+	.book6Ani {
+		bottom: -5%;
+		left: 28.5%;
+		transform: scale(.8);
+	}
+
+
+
+	.socialImg img {
+		margin: 40px auto;
+		width: 115%;
+	}
+	
+
+.price_tag {
+display: none;
+}
+
+	.section6 {
+	
+		text-align: center;
+	}
+	.signUpBtn {
+		width: 100%;
+	}
+	.circleTime {
+	
+		padding-top: 0px;
+		display: none;
+	
+	}
+
+	.topHeading {
+		
+		padding: 10px;
+		/* margin-top: 85px;
+		margin-bottom: 50px; */
+	}
+
+	div.booksanim{
+		
+	}
+	.mainHeading{
+		font-size: 38px;
+	}
+	.checkBoxes {
+		display: block;
+		text-align: center;
+	}
+	.headingLighttwo {
+
+		font-size: 16px !important;
+		padding: 12px 0;
+
+	}
+
+	.headingLight {
+		font-family: "Poppins",sans-serif;
+		font-weight: 400;
+		text-align: center;
+		font-size: 27px;
+		padding-top: 18px;
+		text-transform: uppercase;
+		line-height: 27px;
+	}
+	.ghostwriting {
+		display: block;
+		color: #c6ff00;
+		font-weight: 800;
+		margin: 7px 0;
+		font-size: 36px;
+	}
+	.headingReadMain {
+		font-size: 14px;
+		font-weight: 800;
+		font-family: "Poppins";
+		color: #c6ff00;
+		text-align: center;
+		text-transform: uppercase;
+		line-height: 17px;
+		width: 100%;
+	}
+	.coponPrice {
+    font-size: 13px;
+    font-family: "Nunito",sans-serif;
+    padding: 15px;
+    width: 153px;
+    border-radius: 100px;
+    /* margin: 0 auto; */
+	}
+	.c100 {
+		font-size: 65px;
+	}
+	.my-col-md-5{
+		width: 100%;
+	}
+	.section1 {
+		/* padding-top: 12px; */
+		background:none !important; 
+		background-image: url("../../img/landing-two/collage.jpg") !important;
+	
+		background-size: 192% !important;
+		padding-bottom:100px;
+	}
+	.headingLightemail {
+		font-family: "Poppins",sans-serif;
+		font-weight: 400;
+		text-align: center;
+		font-size: 19px;
+		padding-top: 30px;
+		text-transform: capitalize;
+		line-height: 22px;
+	}
+
+	.weHaveHelp {
+		font-size: 24px !important;
+		font-weight: 600 !important;
+		line-height: 28px !important;
+	}
+	
+}
+
+
+
+@media  screen and (max-width: 1140px) and (min-width: 767px) {
+
+
+
+/*
+yAnha sy*/
+
+.imgFloted{
+	box-shadow: 5px 10px 8px #000;
+	width: 190px;
+	height: 250px;
+	z-index: 1
+}
+.bookAnimated{
+	position: absolute;
+	
+	display: block;
+}
+
+
+
+.book1Ani .imgFloted{
+	animation:shakeX 39s infinite;
+}
+.book1Ani {
+	top : 19%;
+	left: .5%;
+	transform: scale(.7);
+
+}
+
+.book2Ani .imgFloted{
+	animation:shakeY 50s infinite;
+}
+
+.book3Ani .imgFloted{
+	animation:shakeY 40s infinite;
+}
+.book2Ani{
+
+	bottom: 38%!important;
+	left: .5%;
+	transform: scale(0.6);
+
+}
+.book3Ani{
+
+	bottom: 20%!important;
+	left: 1%;
+	transform: scale(.6);
+
+}
+.mobile-
+
+.book4Ani .imgFloted{
+	animation:shakeX 39s infinite;
+}
+.book4Ani {
+	top : 19%;
+	right: .5%;
+	transform: scale(.8);
+
+}
+
+.book5Ani .imgFloted{
+	animation:shakeY 50s infinite;
+}
+
+.book6Ani .imgFloted{
+	animation:shakeY 40s infinite;
+}
+.book5Ani{
+
+	bottom: 38%!important;
+	right: .5%;
+	transform: scale(.6);
+
+}
+.book6Ani{
+
+	bottom: 20%!important;
+	right: .5%;
+	transform: scale(.8);
+
+}
+
+}
+
+/*
+yAnha sy*/
+@media  screen and (min-width: 1141px) {
+.imgFloted{
+	box-shadow: 5px 10px 8px #000;
+	width: 190px;
+	height: 250px;
+	z-index: 1
+}
+.bookAnimated{
+	position: absolute;
+	
+	display: block;
+}
+
+
+
+.book1Ani .imgFloted{
+	animation:shakeX 39s infinite;
+}
+.book1Ani {
+	top : 30%;
+	left: 4%;
+	transform: scale(1);
+
+}
+
+.book2Ani .imgFloted{
+	animation:shakeY 50s infinite;
+}
+
+.book3Ani .imgFloted{
+	animation:shakeY 40s infinite;
+}
+.book2Ani{
+
+	bottom: 21%!important;
+	left: -20px;
+	transform: scale(0.8);
+
+}
+.book3Ani{
+
+	bottom: 16%!important;
+	left: 150px;
+	transform: scale(.8);
+
+}
+
+
+.book4Ani .imgFloted{
+	animation:shakeX 39s infinite;
+}
+.book4Ani {
+	top: 23%;
+	right: 2%;
+	transform: scale(1);
+
+}
+
+.book5Ani .imgFloted{
+	animation:shakeY 50s infinite;
+}
+
+.book6Ani .imgFloted{
+	animation:shakeY 40s infinite;
+}
+.book5Ani{
+
+	bottom: 16% !important;
+	right: -19px;
+	transform: scale(.8);
+
+}
+.book6Ani{
+
+	bottom: 27% !important;
+	right: 150px;
+	transform: scale(1);
+
+}
+
+}
+/*
+.book3Ani{
+	position: absolute;
+	right: -40px;
+	top: 150px;
+}
+
+.book4Ani{
+	position: absolute;
+	right: 20px;
+	top: 200px;
+	transform: scale(.9);
+}*/
+
+.goal-daba{
+	border:1px solid red;
+}
+
+
+
+.modalTerms{
+	max-height: 600px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	padding:10px;
+}
+.modalTerms::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+.modalTerms::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+.modalTerms::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px #217091; 
+}
+
+.callNowText{
+	animation: 2s colorChange infinite;
+}
+@keyframes colorChange{
+	0%{
+			font-size: 12px;
+		color:white;
+	
+		
+	}
+	50%{
+		color: #c6ff00;
+			font-size: 14px;
+		
+	}
+	100%{
+		color: white;
+			font-size: 12px;
+	
+	}
+}
+
+.owl-Green .owl-nav {
+    position: absolute;
+    bottom: -71px;
+    left: 39%;
+}
+
+
+.price_tag {
+    top: -80px;
+    position: absolute;
+    left:3rem;
+    width: 105px;
+    animation: swinging 3.5s ease-in-out forwards infinite;
+    transform-origin: 35% 0;
+    cursor: pointer;
+    z-index: 1;
+}
+
+@-webkit-keyframes swinging {
+	0% {
+   -webkit-transform: rotate(10deg);
+   }
+	50% {
+   -webkit-transform: rotate(-5deg)
+   }
+	100% {
+   -webkit-transform: rotate(10deg);
+   }
+   }
+	@keyframes swinging {
+	0% {
+   transform: rotate(10deg);
+   }
+	50% {
+   transform: rotate(-5deg)
+   }
+	100% {
+   transform: rotate(10deg);
+   }
+   }
+
+
+.headingLightemail
+{
+	color:#fff;
+}

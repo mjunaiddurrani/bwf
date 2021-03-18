@@ -26,7 +26,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="row align-items-center">
       <div class="col-lg-8 col-md-8 col-sm-12">
         <div class="ghst-writng-content">
-        <h1 class="text-white mb-4 font-medium mt-5"><?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?><?php if(isset($_REQUEST['successMsg'])){ echo $_REQUEST['successMsg'];} ?></h1>
+        <h1 class="text-white mb-4 font-medium mt-5">
+        <?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?>
+        <?php if(isset($_REQUEST['successMsg'])){ echo $_REQUEST['successMsg'];} ?>
+        </h1>
         </div>
       </div>
        <div class="col-lg-6 col-md-6 col-sm-12 serForm">

@@ -1,0 +1,607 @@
+
+.h1Heading{
+    font-size:2.5rem;
+}
+
+h1,h2,h3,h4,h5,h6{
+	text-transform: capitalize;
+}
+
+/*section1 */
+.section1{	
+	background: url('../img/section1.jpg');
+	background-size: cover;
+	/* padding-top: 205px; */
+	min-height: 740px;
+	/* padding-bottom: 205px; */
+}
+.font-nunito{
+    font-family:"Nunito",sans-serif;
+}
+.colorWhite{
+    color:#fff;
+}
+
+
+.makeDreamHr {
+	width: 81px;
+	height: 1px;
+	background-color: green;
+	margin:0;
+	position: absolute;
+	top: 50%;
+	padding: 0;
+	border: none;
+}
+.makeYourDream {
+	display: flex;
+	
+}
+
+.makeYourDream h3{
+	font-style: italic;
+	color: #03a63c;
+	margin-left: 85px;
+}
+.theBestGhost h1{
+	font-size: 63.75px;
+}
+
+.theBestGhost h4{
+	font-size: 26px;
+	font-family: 'Nunito', sans-serif;
+}
+.consultAn button{
+	font-family: 'Nunito', sans-serif;
+	font-size: 15px;
+	padding:17px 50px;
+	background-color:#03a63c;
+	font-weight: 600;
+}
+
+/*section2*/
+.section2{
+	background: url('../img/section2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	padding: 70px 0;
+}
+.whatWeDO{
+	padding: 30px;
+
+}
+.whatWeDO *{
+	padding-top: 10px;
+}
+.whatWeDO h1{
+	font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+.whatWeDO p {
+    font-family: "Nunito",sans-serif;
+    font-size: 19px;
+    font-weight: 100;
+    padding-right: 17px;
+    color: #f5f5f5;
+}
+.whatWeDO p:first-child{
+	font-size:20px;
+	margin-top: 22px;
+	margin-bottom: 0;
+	font-weight: 600;	 
+    transform: scale(1,0.9);
+    letter-spacing: 1px;
+
+}
+.hrWhite{
+	background-color: #fff;
+	height: 1px;
+	padding: 0;
+	width: 29%;
+	float: left;
+	margin: 0;
+	border:none;
+}
+.myWhiteDiv{
+	background: #fff;
+	color: #000;
+	border-radius: 0 30px 0 30px;
+	padding: 20px;
+}
+.myWhiteDiv h3{
+	color: #03a63c;
+    font-size: 24px;
+    font-weight: 700;
+}
+.myWhiteDiv a{
+	color: #03a63c;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: "Nunito",sans-serif;
+}
+.myWhiteDiv p{
+	color: #5a5a5a;
+    font-size: 16px;
+    font-weight: 600;
+}
+.myWhiteDiv .readMore{
+	margin-top: 35px;
+}
+.reasonToChosse{
+	padding: 20px;
+}
+p{
+	font-family: "Nunito",sans-serif;
+}
+h1{
+	font-family: 'Playfair Display', serif;
+}
+.ChosseFromService{
+	padding-bottom: 86px;
+}
+.ChosseFromService h3{
+	font-family: "Nunito",sans-serif;
+    font-size: 18px;
+    color: #03a63c;
+    font-weight: bold;
+    letter-spacing: 2.3px;
+}
+.hrGreen{
+	background-color: #03a63c;
+	margin:5px;
+}
+.ChosseFromService h1 {
+    font-weight: 900;
+}
+.otherThen{
+	margin-top: 25px;
+	font-size: 19px;
+	font-family: "Nunito",sans-serif;
+	color: #5a5a5a;
+	padding-left: 10px;
+}
+.arrowsRow{
+	float: right;
+}
+
+.arrowsRow div {
+	margin: 10px;
+	margin-top: 0;
+}
+.goal-daba{
+	border-radius: 50%;
+	width: 50px;
+	text-align: center;
+	height: 50px;
+	margin:0;
+	padding: 0px;
+	padding-top: 10px;
+	border:1px solid #000;
+	margin-bottom:12px;
+	transition: .3s ease-in-out;
+}
+.goal-daba i{
+	color: #000;
+	transition: .3s ease-in-out;
+}
+.goal-daba:hover{
+	border: 1px solid #03a63c;
+	transition: .3s ease-in-out;
+}
+.goal-daba:hover i{
+	color: #03a63c;
+	transition: .3s ease-in-out;
+}
+.owl-theme .owl-nav [class*=owl-]:hover {
+	background-color: transparent;
+	color: #000;
+}
+
+/*slider*/
+
+.owlChooseFrom .owl-nav {
+    margin-top: 10px;
+    position: absolute;
+    top: -90px;
+    right: 16px;
+}
+.owl-Green .owl-nav {
+    position: absolute;
+    bottom: -50px;
+    left: 39%;
+
+}
+.myCard p{
+	min-height: 82px;
+}
+
+.myCard button{
+	font-size: 14px;
+	font-family: "Nunito",sans-serif;
+	font-weight: bold;
+	padding: 10.5px 25.235px;
+}
+
+.card-text h4{
+	font-size: 18px;
+    font-weight: 800;
+    font-family: "Playfair Display",serif;
+    margin-top: 15px;
+}
+.card-text p{
+	font-size: 16px;
+    font-weight: 700;
+    font-family: "Nunito",sans-serif;
+    margin-top: 10px;
+    color: #5a5a5a;
+}
+.section3{
+	padding-top: 80px;
+    padding-bottom: 80px;
+}
+/*section4*/
+.section4{
+	background-image: url('../img/section4.jpg');
+	color: #fff;
+	background-size: cover;
+	background-position: 100% 100%;
+	padding: 129px 0;
+}
+.unmatchedGhost .makeYourDream h3{
+	font-family: "Nunito",sans-serif;
+	color: #fff;
+	font-weight: 100;
+	margin:0;
+
+}
+.unmatchedGhost .makeYourDream hr{
+	background:#fff;
+}
+.unmatchedGhost h1{
+	font-size: 47px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+.unmatchedGhost p{
+	padding-top: 21px;
+    font-size: 17px;
+    font-family: "Nunito",sans-serif;
+    padding-right: 20px;
+}
+.unmatchedGhost .knowMore,.unmatchedGhost .knowMore:hover{
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 600;
+	position: relative;
+}
+.unmatchedGhost .knowMore i{
+	margin-left: 12px;
+	font-size: 20px;
+	position: absolute;
+	top: 15%;
+}
+.colForAfford{
+	padding: 22px;
+	padding-right: 10px;
+	
+}
+.colForAfford hr{
+	height: 3px;
+    width: 70px;
+    float: left;
+    margin-left: 0;
+    margin-bottom: 22px;
+}
+.colForAfford:nth-child(1){
+	border-right: 1px solid #495667;
+	border-bottom: 1px solid #495667;
+}
+.colForAfford:nth-child(2){
+	border-bottom: 1px solid #495667;
+}
+/*.colForAfford:nth-child(3){*/
+/*	border-right: 1px solid #495667;*/
+/*}*/
+
+.colForAfford h2{
+	font-family: "Nunito",sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+.rowOfWaitingFor {
+	padding-top: 100px;
+	padding-bottom:100px;
+}
+.rowOfWaitingFor h4{
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Nunito",sans-serif;
+	color: #03a63c;
+	text-transform: uppercase;
+	line-height: 1.5;
+	letter-spacing: 1.5px;
+}
+.w-30{
+	width: 30%;
+}
+.manageHr{
+	width: 100%;
+}
+.manageHr hr{
+	float: left;
+}
+
+.manageContentWithHr{
+	float: left;
+	width: 100%;
+	margin-bottom:70px;
+}
+.rowOfWaitingFor h1{
+	font-size: 70px;
+	font-weight: 800;
+	font-family: "Playfair",serif;
+	color: #1e293d;
+	line-height: 1
+}
+.iUtilize{
+	background-color: #03a63c;
+	color: #fff;
+	/*box-shadow: 10px 10px 0px 30px #9adbb1;*/
+	
+
+}
+.authorP{
+	font-weight: 400!important;
+}
+.CustomArrow{
+	float: left;
+    position: relative;
+    left: 40%;
+}
+.iUtilize p{
+	color: #fff;
+}
+.iUtilize p.quote{
+	
+	font-size: 16px;
+	font-style:italic;
+	font-weight: 400;
+	font-family: "Playfair Display",serif;
+
+}
+.CustomArrow .goal-daba{
+	margin: 12px;
+}
+.section5{
+	background-image:url('../img/section5.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+.section6{
+	background-color: #0d0127;
+	color: #fff;
+	text-align: center;
+	padding: 62px 0;
+}
+.section6 h1{
+	font-size: 60px;
+	font-weight: bold;
+
+}
+.section6 h2{
+	font-size: 30px;
+	font-family: "Nunito",sans-serif;
+
+}
+.section6 .btnContact{
+	background: #fff;
+    font-size: 19px;
+    font-weight: 800;
+    font-family: "Nunito",sans-serif;
+    margin-top: 22px;
+    padding: 17px 40px;
+    color:#000 !important;
+}
+.section6 h3{
+	font-size: 43px;
+	font-weight: bold;
+
+}
+.rowOfInputs input{
+	margin-top: 60px;
+    height: 55px;
+}
+.rowOfInputs input::placeholder{
+	font-style: italic;
+}
+.sayHelloForm h4{
+	font-weight: bold;
+	font-family: "Nunito",sans-serif;
+	font-size: 15px;
+	letter-spacing: 4px;
+
+}
+.sayHelloForm{
+	font-size: 55px;
+	font-weight: bold;
+
+}
+.section7{
+	background-color: #012840;
+	color: #fff;
+	padding: 67px 0;
+}
+.section8{
+	padding: 32px 0;
+}
+.section8Heading{
+    text-align:center;
+    color:#cccccc;
+    font-family:'Nunito',sans-serif;
+}
+.btnFormRequest{
+	padding: 19px 77px;
+	font-weight: bold;
+	font-size: 17px;
+	margin-top: 30px;
+	font-family: "Nunito",sans-serif;
+}
+.btnFormRequest i{
+	margin-left: 10px;
+	margin-top: 5px;
+	font-size: 12px;
+}
+.section7 .getInTouch{
+	border-right: 1px solid #fff;
+}
+.section7 .getInTouch h4{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: "Nunito",sans-serif;
+}
+.section7 .getInTouch h1{
+	font-weight: bold;
+	font-size: 55px;
+}
+.rowForGetTouch{
+	margin-top: 30px;
+}
+.inquiriesFor{
+	padding: 10px;
+}
+
+.inquiriesFor p{
+	font-size: 17px;
+	text-align: left;
+	font-weight: normal;
+}
+.inquiriesFor p span{
+	font-weight: bold;
+	
+}
+
+.bgGreen{
+	background-color: #03a63c!important;
+
+}
+.colorGreen{
+	color: #03a63c!important;
+}
+.socialImg{
+	margin: 0 auto;
+	text-align: center;
+}
+.socialImg img{
+	margin:40px auto;
+}
+.owl-prev:focus, .owl-next:focus{
+	outline: none;
+}
+.hr100{
+	width: 100%;
+}
+.hr-84 {
+	width: 84px;
+	position: relative;
+	height: 60px;
+
+}
+.hr-84 hr{
+	width: 100%;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	/* -ms-transform: translateY(-50%); */
+	transform: translateY(-50%);
+
+}
+.backWhite{
+	background: #fff!important;
+	
+}
+.clear{
+	clear: both;
+}
+
+a.no-dec:hover{
+	text-decoration: none!important;
+}
+
+
+
+.contectExtra h1{
+    text-align:center;
+    font-family:"Playfair Display",serif;
+}    
+.readMore{
+    font-family:"Nunito",sans-serif;
+    color: #28a745!important;
+}    
+
+
+ .headingFir{
+    font-size:50px!important;
+    font-family:"Playfair Display",serif;
+    text-align:center;
+}
+
+.illustrationImg {
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+.btn-group-lg > .btn, .btn-lg {
+    padding: 1.5rem 2rem !important;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+
+
+div.logo{
+
+	margin-top:-31px;
+}
+
+div.logo img {
+    width: 250px;
+}
+
+
+
+.item-cover-nav{
+	text-align: center;
+	font-family: "Nunito";
+	color: #000;
+	font-size: 18px;
+}
+
+.navswitchA:hover{
+	text-decoration: none;
+
+}
+
+.imgCovers{
+	animation: 1s zoomIn;
+}
+.tab.active{
+	color: green;
+	font-weight: 700;
+}
+.sectionTab{
+	padding: 40px 0;
+}
+
+.weHelpTabHeading{
+	font-size: 30px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+
+
+
