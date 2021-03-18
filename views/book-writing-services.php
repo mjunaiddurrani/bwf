@@ -549,7 +549,12 @@ yourself. Contact us now!
 		<div class="row " style="justify-content: center;">
 			<div class="signUpFormDiv" style="justify-content: center !important;">
 				<form class="signUpForm"  action="/leads/" method="POST">
-					<input type="hidden" name="route" value="/professional-book-ghostwriting-services">
+						<input type="hidden" id="tag" name="tag" value="footer-top">
+                        <input type="hidden" id="priceVal" name="price" value="null">
+                        <input type="hidden" name="news" value="1">
+                        <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                        <input type="hidden" name="brand" value="bookwritingfounders">
+				
 				    <!-- <input type="hidden" name="company" value="">
 				    <input type="hidden" name="budget" value=""> -->
 					<div class="row" style="justify-content: center;">
@@ -1205,6 +1210,11 @@ yourself. Contact us now!
 									</div>
 									<p class="colorGray mb-0"> Providing you the perfect solution for your business needs. Let's work together and unlock doors to success.</p>
 									<form action="/leads/" method="POST">
+									<input type="hidden" id="tag" name="tag" value="footer-top">
+									<input type="hidden" id="priceVal" name="price" value="null">
+									<input type="hidden" name="news" value="1">
+									<input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+									<input type="hidden" name="brand" value="bookwritingfounders">
 										<input type="hidden" id="priceVal" name="price">
 										<div class="row">
 											<div class="col-md-6">
