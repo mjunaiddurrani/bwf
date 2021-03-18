@@ -268,7 +268,7 @@ yourself. Contact us now!
                                 <li>
                                     <a href="tel:+18889768388 "><img src="assets/images/us-flag.png" alt="UK Flag" />+1-888-976-8388 </a>
                                 </li>
-                                <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
+                                <li><a href="javascript:;" class="liveChat" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
                                 <li><a href="/order/" class="btn-main">Let's Get Started</a></li>
                             </ul>
                         </div>
@@ -746,7 +746,7 @@ yourself. Contact us now!
 					</div>
 					<div class="text-left mb-5">
 					
-					<button  class="btn btn-success getStartedHeaderButton"  >Let's Get Started <i class="fa fa-arrow-right"></i></button>
+					<button  class="btn btn-success getStartedHeaderButton"  onclick="window.open('/order/','_self')">Let's Get Started <i class="fa fa-arrow-right"></i></button>
 					</div> 	
 				</div>
 			</div>
@@ -859,7 +859,7 @@ yourself. Contact us now!
 				<h3>
 					<a href="tel:+1-888-976-8388" style="font-family:'poppins'" class="colorWhite no-dec">+1-888-976-8388</a>
 				</h3>
-				<button  class="btn btn-success getStartedHeaderButton mt-5"  >You need an expert <i class="fa fa-arrow-right"></i></button>
+				<button  class="btn btn-success getStartedHeaderButton mt-5 liveChat"  >You need an expert <i class="fa fa-arrow-right"></i></button>
 			 </div>
 		</div>
 	</div>
@@ -1441,6 +1441,10 @@ yourself. Contact us now!
        $('.crossplus').toggleClass("rotate");
     });
 
+
+$('.liveChat').click(function(){
+	$zopim.livechat.window.toggle();
+});
 </script>
 
 <?php
