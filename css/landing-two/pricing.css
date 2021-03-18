@@ -485,8 +485,11 @@
 	font-weight: 300;
 }
 .rowOfWaitingFor .display-2 {
-	font-size: 4rem;
-	letter-spacing: -0.5rem;
+	font-size: 3.5rem;
+    letter-spacing: 1;
+    font-family: sans-serif;
+    font-weight: 600;
+
 }
 .rowOfWaitingFor .display-2 .currency {
 	font-size: 2.75rem;

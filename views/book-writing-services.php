@@ -112,7 +112,10 @@ yourself. Contact us now!
         position:absolute;
         bottom:0;
         width:100%;
-        left:18%;
+        left:0;
+		right:0;
+		margin-left:auto;
+		margin-right:auto;
     }
     .cardCustom  p{
 	color: #000;
@@ -418,7 +421,7 @@ yourself. Contact us now!
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>799</h3>
 						<div class="float-right">
-						<s><p>$1,000</p></s>
+						<s><p class="text-black">$1,450</p></s>
 						</div>
 					</div>
 					<div class="card-block entry-content">
@@ -447,7 +450,7 @@ yourself. Contact us now!
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>999</h3>
 					<div class="float-right">
-						<s><p>$1,600</p></s>
+						<s><p class="text-black">$2,000</p></s>
 						</div>
 					</div>
 					<div class="card-block">
@@ -476,7 +479,7 @@ yourself. Contact us now!
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>1,299</h3>
 					<div class="float-right">
-						<s><p>$2,000</p></s>
+						<s><p class="text-black">$2,600</p></s>
 						</div>
 					</div>
 					<div class="card-block">
@@ -506,7 +509,7 @@ yourself. Contact us now!
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>1,499</h3>
 					<div class="float-right">
-						<s><p>$2,600</p></s>
+						<s><p class="text-black">$3,000</p></s>
 						</div>
 					</div>
 					<div class="card-block">
@@ -736,8 +739,8 @@ yourself. Contact us now!
 							</p>
 						</div>
 					</div>
-					<div class="text-left">
-					<br>	
+					<div class="text-left mb-5">
+					
 					<button  class="btn btn-success getStartedHeaderButton"  data-toggle="modal" data-target="#modalForDiscount">Let's Get Started <i class="fa fa-arrow-right"></i></button>
 					</div> 	
 				</div>
@@ -851,7 +854,7 @@ yourself. Contact us now!
 				<h3>
 					<a href="tel:+1-888-976-8388" style="font-family:'poppins'" class="colorWhite no-dec">+1-888-976-8388</a>
 				</h3>
-				<button  class="btn btn-success getStartedHeaderButton"  data-toggle="modal" data-target="#modalForDiscount">You need an expert <i class="fa fa-arrow-right"></i></button>
+				<button  class="btn btn-success getStartedHeaderButton mt-5"  data-toggle="modal" data-target="#modalForDiscount">You need an expert <i class="fa fa-arrow-right"></i></button>
 			 </div>
 		</div>
 	</div>
@@ -1419,6 +1422,16 @@ yourself. Contact us now!
 			</div>
 		</div>
 </div>
+<script >
+    $('.mobile-nav-btn').click(function() {
+        $('.mobile-nav-btn, .mobile-nav, .app-container').toggleClass('active');
+    });
+	$(".clickbutton").click(function(){
+       $('.floatbutton').toggleClass("active");
+       $('.crossplus').toggleClass("rotate");
+    });
+
+</script>
 
 <?php
 

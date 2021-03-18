@@ -312,8 +312,8 @@ h1{
 	font-weight: bold;
 }
 .rowOfWaitingFor {
-	padding-top: 100px;
-	padding-bottom:100px;
+	padding-top: 70px;
+	padding-bottom:0px;
 }
 .rowOfWaitingFor h4{
 	font-size: 16px;
