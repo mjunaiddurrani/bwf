@@ -36,7 +36,7 @@ if (isset($_SERVER['HTTPS'])) {
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link rel="icon" href="img/landing-two/logo.png" type="image/icon">
-	<title>Professional Book Ghostwriting Services</title> <meta name="description" content="Professional Ghostwriters at your service! Our ghostwriting agency provides the best services in the market. Learn for
+	<title>Professional Book Writing Services</title> <meta name="description" content="Professional Bookwriting at your service! Our Bookwriting agency provides the best services in the market. Learn for
 yourself. Contact us now!
 ">
 	<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
@@ -420,7 +420,7 @@ yourself. Contact us now!
 				<div class="card text-center">
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>799</h3>
-						<div class="float-right">
+						<div class="text-center">
 						<s><p class="text-black">$1,450</p></s>
 						</div>
 					</div>
@@ -439,7 +439,7 @@ yourself. Contact us now!
 							<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
 							<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
-					<a href="#" class="btn btn-red mt-2 price" data-toggle="modal" data-target="#modalForDiscount" data-price="499">Get a quote</a>
+					<a href="/order/" class="btn btn-red mt-2 price"  data-price="499">Get a quote</a>
 					</div>
 				</div>
 				</div>
@@ -449,7 +449,7 @@ yourself. Contact us now!
 				<div class="card text-center">
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>999</h3>
-					<div class="float-right">
+					<div class="text-center">
 						<s><p class="text-black">$2,000</p></s>
 						</div>
 					</div>
@@ -468,7 +468,7 @@ yourself. Contact us now!
 						<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
 						<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
-					<a href="#" class="btn btn-red mt-2 price" data-toggle="modal" data-target="#modalForDiscount" data-price="799">Get a quote</a>
+					<a href="/order/" class="btn btn-red mt-2 price"  data-price="799">Get a quote</a>
 					</div>
 				</div>
 				</div>
@@ -478,7 +478,7 @@ yourself. Contact us now!
 				<div class="card text-center">
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>1,299</h3>
-					<div class="float-right">
+					<div class="text-center">
 						<s><p class="text-black">$2,600</p></s>
 						</div>
 					</div>
@@ -498,7 +498,7 @@ yourself. Contact us now!
 						<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
 						<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
-					<a href="#" class="btn btn-red mt-2 price" data-toggle="modal" data-target="#modalForDiscount" data-price="999">Get a quote</a>
+					<a href="/order/" class="btn btn-red mt-2 price"  data-price="999">Get a quote</a>
 					</div>
 				</div>
 				</div>
@@ -508,7 +508,7 @@ yourself. Contact us now!
 				<div class="card text-center">
 					<div class="">
 					<h3 class="display-2"><span class="currency">$</span>1,499</h3>
-					<div class="float-right">
+					<div class="text-center">
 						<s><p class="text-black">$3,000</p></s>
 						</div>
 					</div>
@@ -528,7 +528,7 @@ yourself. Contact us now!
 						<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
 						<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
-					<a href="#" class="btn btn-red mt-2 price" data-toggle="modal" data-target="#modalForDiscount" data-price="1,299">Get a quote</a>
+					<a href="/order/" class="btn btn-red mt-2 price"  data-price="1,299">Get a quote</a>
 					</div>
 				</div>
 				</div>
@@ -543,7 +543,7 @@ yourself. Contact us now!
 	<div class="myContainer">
 		<div class="col-md-12 ml-auto mr-auto">
 			<h2 class="headingLightemail">
-				Sign Up with Ghostwriting Founder right now to avail of our special discounts made just for you!
+				Sign Up with Bookwriting Founders right now to avail of our special discounts made just for you!
 			</h2>
 		</div>
 		<div class="row " style="justify-content: center;">
@@ -583,7 +583,7 @@ yourself. Contact us now!
 		<div class="myContainer">
 			<div class="row rowOfWaitingFor" style="padding-bottom: 50px; padding-top:50px;">
 				<div class="col-md-12 text-center ">
-					<h4 class="font-popins">GHOST WRITING FOUNDER</h4>
+					<h4 class="font-popins">Book Writing Founders</h4>
 					<div class="manageHr">
 						<hr class="hrGreen w-30 ml-auto mr-auto"  style="float: none;">
 					</div>
@@ -654,7 +654,7 @@ yourself. Contact us now!
 <section class="section4" id="section4">
 	<div class="myContainer">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-6 align-self-center">
 				<img src="img/landing-two/book.jpg" style="width:100%;">
 				<div class="owl-carousel owl-theme owl-books" id="owl-books2">
 				<div class="item">
@@ -741,7 +741,7 @@ yourself. Contact us now!
 					</div>
 					<div class="text-left mb-5">
 					
-					<button  class="btn btn-success getStartedHeaderButton"  data-toggle="modal" data-target="#modalForDiscount">Let's Get Started <i class="fa fa-arrow-right"></i></button>
+					<button  class="btn btn-success getStartedHeaderButton"  >Let's Get Started <i class="fa fa-arrow-right"></i></button>
 					</div> 	
 				</div>
 			</div>
@@ -854,7 +854,7 @@ yourself. Contact us now!
 				<h3>
 					<a href="tel:+1-888-976-8388" style="font-family:'poppins'" class="colorWhite no-dec">+1-888-976-8388</a>
 				</h3>
-				<button  class="btn btn-success getStartedHeaderButton mt-5"  data-toggle="modal" data-target="#modalForDiscount">You need an expert <i class="fa fa-arrow-right"></i></button>
+				<button  class="btn btn-success getStartedHeaderButton mt-5"  >You need an expert <i class="fa fa-arrow-right"></i></button>
 			 </div>
 		</div>
 	</div>
@@ -884,7 +884,7 @@ yourself. Contact us now!
 								</div>
 								<br>
 								<p class="quote">
-									“I am super glad that I hired their Ghostwriting Services! They maintained a high level of professionalism all the time and provided me what I was looking for. I liked them because they kept me updated about my story development and kept coming back for confirmation if I wanted a specific part to be included in the book.”
+									“I am super glad that I hired their Bookwriting Services! They maintained a high level of professionalism all the time and provided me what I was looking for. I liked them because they kept me updated about my story development and kept coming back for confirmation if I wanted a specific part to be included in the book.”
 								</p>
 									
 									<br>
@@ -900,7 +900,7 @@ yourself. Contact us now!
 								</div>
 								<br>
 								<p class="quote">
-									“Working with Ghost Writing Founder was a great experience. I am happy that I choose their services for my business book writing. They delivered what they promised me. I was reluctant initially, but after seeing their portfolio, I was satisfied that my book was in safe hands. ”
+									“Working with Book Writing Founders was a great experience. I am happy that I choose their services for my business book writing. They delivered what they promised me. I was reluctant initially, but after seeing their portfolio, I was satisfied that my book was in safe hands. ”
 								</p>
 									
 									<br>
@@ -973,7 +973,7 @@ yourself. Contact us now!
 				<img width="40%" src="assets/images/white-logo.gif">
 				<p class="mt-4">
 					
-				Ghostwriting Founder promises to be a top-tier customer service experience for you, ensuring that the content we provide is of the highest quality. We help aspiring storytellers tell their stories, using our publications as a means to express their ideas. Our team of skilled professionals include the best editing services you can ask for. 
+				Bookwriting Founders promises to be a top-tier customer service experience for you, ensuring that the content we provide is of the highest quality. We help aspiring storytellers tell their stories, using our publications as a means to express their ideas. Our team of skilled professionals include the best editing services you can ask for. 
 
 
 
@@ -985,7 +985,7 @@ yourself. Contact us now!
 					<p class="text-white">Contact us Now</p>
 
 					 <a href="tel:+1-888-976-8388" style="font-size: 12px;" class="footerAnc">+1-888-976-8388</a>
-			<br>		<a href="mailto:query@ghostwritingfounder.com" style="font-size: 12px;" class="footerAnc">query@ghostwritingfounder.com</a>
+			<br>		<a href="mailto:query@bookwritingfounders.com" style="font-size: 12px;" class="footerAnc">query@bookwritingfounders.com</a>
 <br><br>		<a href="#" style="font-size: 12px;cursor:text" class="footerAnc">4803 N Milwaukee Ave Suite B Unit #226 Chicago, IL 60630</a>
 <br><br>				
 </div>
@@ -1001,7 +1001,7 @@ yourself. Contact us now!
                         <input type="hidden" name="name" value="null-footer-subscribe">
                         <input type="hidden" name="phone" value="null-footer-subscribe">
                         <input type="hidden" name="brief" value="null-footer-subscribe">
-			      <h3 class="footerNavHeading">Stay in touch</h3>
+			      <h3 class="footerNavHeading mb-3">Stay in touch</h3>
 			      <div class=" rowOfTextNdBtn">
 			      	<div class="col-xs-8 p-0">
 			      		<input required type="email" placeholder="enter your email address" class="form-control" name="email">
@@ -1012,7 +1012,7 @@ yourself. Contact us now!
 			      </div>
 				</form>
 				<br>
-				<div class="social">
+				<div class="social d-none">
 					<a href="#" class="fa fa-facebook"></a>
 					<a href="#" class="fa fa-twitter"></a>
 					<a href="#" class="fa fa-instagram"></a>
@@ -1031,7 +1031,7 @@ yourself. Contact us now!
 			
 			<p style="text-align:left;" class="copyRightsPara">
 			   
-				© <?php echo date('Y');?>, <a href="/">Ghostwriting Founder</a> | All Rights Reserved
+				© <?php echo date('Y');?>, <a href="/">Bookwriting Founders</a> | All Rights Reserved
 			
 			    <span style="float:right;" class="termsAndCon">
 			      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForPrivacy">Privacy Policy</a> | <a href="javascript:void(0)" data-toggle="modal" data-target="#modalFOrTerms">Terms & Conditions</a>
@@ -1172,11 +1172,11 @@ yourself. Contact us now!
 ?>
 
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"ghostwritingfounder","url":"/","logo":"/img/logo.png","contactPoint":{"@type":"ContactPoint","telephone":"+1 800 513 1678","contactType":"customer service"},"sameAs":["https://www.facebook.com/ghostwritingfounder","https://twitter.com/ghostwritingfounder","https://www.instagram.com/ghostwritingfounder","https://www.youtube.com/channel/UC-xU--XxSovzJq07jwmZrsw","https://www.pinterest.com/ghostwritingfounder"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"bookwritingfounders","url":"/","logo":"/img/logo.png","contactPoint":{"@type":"ContactPoint","telephone":"+1 800 513 1678","contactType":"customer service"},"sameAs":["https://www.facebook.com/bookwritingfounders","https://twitter.com/bookwritingfounders","https://www.instagram.com/bookwritingfounders","https://www.youtube.com/channel/UC-xU--XxSovzJq07jwmZrsw","https://www.pinterest.com/bookwritingfounders"]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"SiteNavigationElement","hasPart":[{"@context":"https://schema.org","@type":"WebPage","url":"/editing"},{"@context":"https://schema.org","@type":"WebPage","url":"/publishing"},{"@context":"https://schema.org","@type":"WebPage","url":"/pricing"},{"@context":"https://schema.org","@type":"WebPage","url":"/blog"},{"@context":"https://schema.org","@type":"WebPage","url":"/contact-us"}]}</script>
    
    <!--bradcrumbs-->
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":0,"name":"Home","item":"/"},{"@type":"ListItem","position":1,"name":"ghostwritingfounder"}]}</script>   
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":0,"name":"Home","item":"/"},{"@type":"ListItem","position":1,"name":"bookwritingfounders"}]}</script>   
 
 <!--reviews-->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Review","reviewBody":"Great Experience. I have created several national brands in the past at great expense and effort. This was effortless, fast, fun and inexpensive. I highly recommend it. Will change how this is done in the future!","itemReviewed":{"@type":"Product","@id":"/editing"},"reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":"5","worstRating":"0"},"author":{"@type":"Person","name":"bruce.bond"},"publisher":{"@type":"Organization","name":"99designs","sameAs":"https://99designs.com"}}</script>
@@ -1239,7 +1239,7 @@ yourself. Contact us now!
 			</div>
 		</div>
 	</div>	 
-	<div  title="Opens a widget where you can chat to one of our agents" style="width: 100px; height: 100px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 0; left:20px; overflow: visible; opacity: 1; border: 0px none; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; left: 0px;"><a alt="Live Chat Ghost Writing Founder" href="https://wa.me/18889768388?text=" target="blank" title="Ghost Writing Founder" style=" padding:10px 20px; display:inline-block;border-radius: 25px;"><img width="70" src="img/landing-two/wp.png" /></a></div>
+	<div  title="Opens a widget where you can chat to one of our agents" style="width: 100px; height: 100px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 0; left:20px; overflow: visible; opacity: 1; border: 0px none; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; left: 0px;"><a alt="Live Chat Book Writing Founders" href="https://wa.me/18889768388?text=" target="blank" title="Book Writing Founders" style=" padding:10px 20px; display:inline-block;border-radius: 25px;"><img width="70" src="img/landing-two/wp.png" /></a></div>
 
 
 <div class="modal fade-in" id="modalFOrTerms" tabindex="-1" role="dialog" aria-labelledby="modalFOrTerms" aria-hidden="true">
@@ -1265,32 +1265,32 @@ yourself. Contact us now!
 									<ol>
 									<li> you don't accept any of these terms and conditions, please do not use this Website or the services we offer.
 									</li>
-									<li> If you're under the lawful age of consent for your respective district, you cannot access or use Ghostwriting Founder or the services we offer.
+									<li> If you're under the lawful age of consent for your respective district, you cannot access or use Bookwriting Founders or the services we offer.
 									</li>
 									<li>You acknowledge and agree to the statement that you must be of the lawful age to consent to avail of any of our services or products on this Website or otherwise.
 									</li>
-									<li> submitting an order and/or payment, you acknowledge that you have read and understood these terms and conditions. You acknowledge and accept that you are legally bound by these terms and conditions, which form the entire agreement between You and ghostwritingfounder.com.
+									<li> submitting an order and/or payment, you acknowledge that you have read and understood these terms and conditions. You acknowledge and accept that you are legally bound by these terms and conditions, which form the entire agreement between You and bookwritingfounders.com.
 									</li>
 									</ol>
 
 									<b>DEFINITION OF TERMS</b>
-									<p>"Website" means all online content on ghostwritingfounder.com web pages.
+									<p>"Website" means all online content on bookwritingfounders.com web pages.
 									  </p>
-									  <p>"Customer," "You," or "Yours" relates to you and/or any other individual submitting an order to ghostwritingfounder.com on your part.
+									  <p>"Customer," "You," or "Yours" relates to you and/or any other individual submitting an order to bookwritingfounders.com on your part.
 									  </p>
-									  <p>"Company," "We," or "Our" means & refers to ghostwritingfounder.com, a company/organization registered under the laws of the State.
+									  <p>"Company," "We," or "Our" means & refers to bookwritingfounders.com, a company/organization registered under the laws of the State.
 									  </p>
-									  <p> "Product or Services" means and represents all services and products provided by ghostwritingfounder.com to customers following their order.
+									  <p> "Product or Services" means and represents all services and products provided by bookwritingfounders.com to customers following their order.
 									  </p>
 									  <p>
-									  "Order" means an order via phone and/or e-mail made by a customer to purchase services or products provided by ghostwritingfounder.com. Down payments confirm orders via cheque, credit card, cash-receipt, wire transfer, including the use of any other payment method.
+									  "Order" means an order via phone and/or e-mail made by a customer to purchase services or products provided by bookwritingfounders.com. Down payments confirm orders via cheque, credit card, cash-receipt, wire transfer, including the use of any other payment method.
 									  </p>
 									 
 									 <b> OUR SERVICES </b>
-									<p> submitting the payment and/ or order, you are buying the product for Your use only. All Products are drafted by our in-house writers, who transferred all rights and ownership to the Company. All goods are non-refundable and come with no guarantees, expressed or hinted. Your solemn duty is to read these Terms & Conditions before submitting any Order and/ or payment to GhostWriting Founder.
+									<p> submitting the payment and/ or order, you are buying the product for Your use only. All Products are drafted by our in-house writers, who transferred all rights and ownership to the Company. All goods are non-refundable and come with no guarantees, expressed or hinted. Your solemn duty is to read these Terms & Conditions before submitting any Order and/ or payment to Bookwriting Founders.
 									</p>
 									<b>REFUND POLICY</b>
-									<p> is important that you carefully read & understand our refund policy to fully know the privileges and limitations governed by the Ghostwriting Founder Policy. We offer refunds in special cases and specified conditions only, detailed as under:
+									<p> is important that you carefully read & understand our refund policy to fully know the privileges and limitations governed by the Bookwriting Founders Policy. We offer refunds in special cases and specified conditions only, detailed as under:
 									</p>
 									<b>  CHANGE OF MIND: </b>
 									<p>
@@ -1307,7 +1307,7 @@ yourself. Contact us now!
 									</li>
 									</ol>
 									<b> LATE DELIVERY: </b>
-									<p> We believe in "On-Time Delivery," but if for any reason we fail to present the asked service on time, after at least three attempts to contact us, your refund will be prepared once it is established through documentary evidence that the late delivery was GhostWriting Founder's fault.
+									<p> We believe in "On-Time Delivery," but if for any reason we fail to present the asked service on time, after at least three attempts to contact us, your refund will be prepared once it is established through documentary evidence that the late delivery was Bookwriting Founders's fault.
 									</p>
 									<b>REFUND TIME FRAME:</b>
 									<p>A refund must be demanded within 120 days of dispatch. Refunds claimed that after the allotted time frame will not be deemed worthy.
@@ -1316,7 +1316,7 @@ yourself. Contact us now!
 									<b>CASES WHERE REFUND WILL NOT BE ISSUED:</b>
 									<ol>
 									<li>
-									In case of late delivery due to some minor mechanical errors, such as analytic, typing, word count, missing sources, etc., refunds will be processed with mutual understanding. GhostWriting Founder will only settle with partial refunds or discounts reserved for future purchases.
+									In case of late delivery due to some minor mechanical errors, such as analytic, typing, word count, missing sources, etc., refunds will be processed with mutual understanding. Bookwriting Founders will only settle with partial refunds or discounts reserved for future purchases.
 									</li>
 									<li>Company will not be responsible for any delay from the client's end.
 									</li>
@@ -1351,7 +1351,7 @@ yourself. Contact us now!
 									</div>
 									
 										<p>
-										  This notice discloses the privacy practices for ghostwritingfounder.com. Therefore, this privacy notice applies only to information collected from this site. It will inform you of the following:
+										  This notice discloses the privacy practices for bookwritingfounders.com. Therefore, this privacy notice applies only to information collected from this site. It will inform you of the following:
 										  </p>
 										<ol>
 										<li>What personally identifiable info we collect from you through the website, how we use it, and with whom it may be shared.
@@ -1401,7 +1401,7 @@ yourself. Contact us now!
 										</p>
 
 										<b> ABOUT OUR SERVICES AND PRODUCTS </b>
-										<p> make all effort to be as precise as possible in describing the services and products offered on ghostwritingfounder.com. We do not guarantee that the service descriptions or any other content on this website are accurate, reliable, complete, current, or free of error. Please email or call us immediately if you feel that the service you received from us differs from this website's descriptions. If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at info@ghostwritingfounder.com or contact us via telephone. Our customer support team will resolve your query as soon as possible.
+										<p> make all effort to be as precise as possible in describing the services and products offered on bookwritingfounders.com. We do not guarantee that the service descriptions or any other content on this website are accurate, reliable, complete, current, or free of error. Please email or call us immediately if you feel that the service you received from us differs from this website's descriptions. If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at info@bookwritingfounders.com or contact us via telephone. Our customer support team will resolve your query as soon as possible.
 										</p>
 
 										<b> AND CONFIDENTIALITY </b>
