@@ -572,7 +572,7 @@ yourself. Contact us now!
 						</div>
 						<input type="hidden" value="1" name="news">
 						<div class="col-md-2  p-1">
-							<input type="submit" value="Consult an expert" style="font-weight:bold; text-transform:uppercase;font-size:11px;" name="name" placeholder="Your name" style="font-size: 12px;" class="signUpField btn-primary signUpBtn" >
+							<input type="submit" style="font-weight:bold; text-transform:uppercase;font-size:11px;"  placeholder="Your name" style="font-size: 12px;" class="signUpField btn-primary signUpBtn" >
 						</div>	
 					</div>
 					
