@@ -1,0 +1,552 @@
+.section1{
+	background: url("../img/priceSection1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 570px;
+	/* padding-bottom: 93px; */
+}
+.makeYourDream {
+	float: none;
+	display: block;
+}
+.makeYourDream hr{
+	float: left;
+}
+
+.section2{
+	background: none;
+	background-color: #03a63c;
+	padding: 60px;
+
+}
+
+.price-p
+{
+    font-size: 19px;
+    font-weight: 200;
+    margin-top: 30px;
+}
+
+.WhatWeDoFor{
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Nunito",sans-serif;
+	width: 290px;
+	margin:0 auto;
+}
+.WhatWeDoFor span{
+	text-transform: uppercase;
+	letter-spacing:2.5px;
+}
+.WhatWeDoFor hr {
+	background-color: #fff;
+	width: 100%;
+}
+.FinEst{
+	text-align: center;
+}
+.FinEst h1{
+	font-size: 50px;
+    font-weight: 800;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+
+}
+.section3{
+	padding-top: 70px;
+}
+
+
+.price-cards {
+    margin-top: 45px;
+}
+
+
+.priningPlans *{
+	margin-top: 10px;
+}
+.priningPlans h1{
+	font-size: 45px;
+	font-weight: bold;
+	font-family: "Playfair Display",serif;
+	color: #1e293d;
+}
+.priningPlans h4{
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Nunito",sans-serif;
+	text-transform: uppercase;
+	color: #747474;
+	letter-spacing: 2.5px;
+}
+.priningPlans p{
+	font-size: 21px;
+	font-weight: 400;
+	font-family: "Nunito",sans-serif;
+	color: #7a7f83;
+}
+.hrGreenDiv {
+	width: 200px;
+	background: green;
+}
+.card-with-bg{
+	background:url("../img/price-card/1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	/*background-size: 100% 191px;*/
+	transition: .7s ease-in-out!important;
+	background-position: 100% -400px;
+	transition: background-size 0.5s ease-in;
+	-moz-transition: background-size 0.5s ease-in;
+	-ms-transition: background-size 0.5s ease-in;
+	-o-transition: background-size 0.5s ease-in;
+	-webkit-transition: background-size 0.5s ease-in;
+	background-size: 100% 100%;
+	border-radius: 5px;
+	margin-bottom: 12px;
+}
+.priceCard{
+	/*width: 368px;
+	height: 630px;*/
+	margin: 20px 0;
+	color: #fff;
+	padding: 17px 37px;
+	padding-bottom: 0;
+	transition: .7s ease-in-out;
+	margin-bottom: 0;
+	margin-top: -344px;
+
+}
+.priceCard p{
+	font-size: 14px;
+	font-weight: 500;
+	font-family: "Nunito",sans-serif;
+
+}
+.priceCard h3{
+	font-size: 22px;
+	font-family: "Nunito",sans-serif;
+	font-weight: 800;
+	color: #03a63c;
+	margin:0;
+}
+.priceCard h2{
+	font-size: 30px;
+	font-family: "Nunito",sans-serif;
+	font-weight: 800;
+
+}
+.hrGray{
+	background: #eee;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.closeTab{
+	font-size: 18px;
+	font-family: "Nunito",sans-serif;
+	font-weight: bold;
+	color: #fff;
+	transition: .2s ease-in-out;
+
+}
+.closeTab:hover{
+	color:#fff;
+	transition: .2s ease-in-out;
+	text-decoration: none;
+}
+.btnStartNow{
+	font-family: "Nunito",sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 8px;
+}
+.someCloseBtn{
+	padding:0 40px;
+	background-color: #03a63c;
+	padding-bottom: 12px;
+	transition: .7s ease-in-out;
+	border-radius:0 0 5px 5px;
+
+}
+.someCloseBtn a{
+	padding-bottom: 20px;
+	font-weight: 500;
+}
+.someCloseBtn button{
+	background: #1e293d;
+}
+
+/*layer of card*/
+.priceCardLayer:hover .priceCard{
+	display: block;
+}
+.priceCardLayer{
+	color: #fff;
+
+}
+
+.priceCardLayer img{
+	width: 100%;
+	height: 147px;
+}
+.greenArea{
+	background: #03a63c;
+	padding:18px 50px;
+
+}
+.greenArea h3 {
+    font-size: 40px;
+    font-weight: 800;
+    font-family: "Playfair Display",sans-serif;
+}
+.greenArea h2{
+	font-size: 30px;
+	font-weight: 800;
+	font-family: "Nunito",sans-serif;
+}
+
+.greenArea p{
+	font-size: 15px;
+	font-weight: 600;
+	font-family: "Nunito",sans-serif;
+	padding-bottom: 17px;
+}
+.greenArea h1{
+	font-size: 45px;
+	font-weight: 900;
+	font-family: "Nunito",sans-serif;
+	margin-top: 19px;
+    margin-bottom: 0;
+}
+.ViewAll{
+	color: #fff;
+	font-family: "Nunito",sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	transition: .3s ease-in-out;
+
+}
+.ViewAll:hover{
+	text-decoration: none;
+	color: #000;
+	transition: .3s ease-in-out;
+}
+.btn-gray{
+	margin-top: 20px;
+}
+.pura-card{
+	overflow: hidden;
+	height: 502px;
+	
+}
+
+.hideFirst{
+	margin-left: -460px;
+	transition: .3s ease-in-out;
+}
+.hideHr{
+	width: 0;
+}
+
+.card-with-bg.active .priceCard{
+	margin-top: 0;
+}
+.card-with-bg.active .hideFirst{
+	margin-left: 0;
+}
+.card-with-bg.active .hideHr{
+	width: 100%;
+}
+.card-with-bg.active .someCloseBtn{
+	background-color: transparent;
+}
+.card-with-bg.active{
+	/*background-image: url("../img/price-card/1.jpg");*/
+	background-size: 100% 100%;
+	transition: .7s ease-in-out;
+	background-position: 100% 100%;
+	background-size: 120% 120%;
+
+}
+.card-with-bg.active .someCloseBtn button{
+	background: #03a63c;
+	transition: .7s ease-in-out;
+	border:none;
+}
+
+
+
+
+@media (max-width: 454px){
+	.pura-card{
+		height: 526px;
+	}
+}
+@media (min-width: 609px){
+	.pura-card{
+		height: 460px;
+	}
+}
+@media (min-width: 820px){
+	.pura-card{
+		height: 402px;
+	}
+	.priceCard h2{
+		font-size: 23px;
+	}
+}
+@media (min-width: 992px){
+	.pura-card{
+		height: 502px;
+	}
+	.card-with-bg{
+		/*background-size: 100% 200px;*/
+	}
+
+	/*.priceCard h2{
+		font-size: 23px;
+	}*/
+}
+@media (min-width: 1051px){
+	.priceCard{
+		margin-top: -474px;
+	}
+}
+@media (min-width: 1115px){
+	.priceCard{
+		margin-top: -447px;
+	}
+}
+@media (min-width: 1140px){
+	.priceCard{
+		margin-top: -426px;
+	}
+}
+@media (min-width: 1147px){
+	.priceCard{
+		margin-top: -405px;
+	}
+}
+@media (min-width: 1231px){
+	.priceCard{
+		margin-top: -383px;
+	}
+}
+@media (min-width: 1357px){
+	.priceCard{
+		margin-top: -336px;
+	}
+}
+@media (min-width: 1437px){
+	.priceCard{
+		margin-top: -309px;
+	}
+	.card-with-bg.active .priceCard{
+	margin-top: 47px;
+	}
+}
+@media (min-width: 1602px){
+	.pura-card{
+		height: 526px;
+	}
+}
+@media (min-width: 1718px){
+	.pura-card{
+		height: 491px;
+	}
+	.card-with-bg.active .priceCard{
+	margin-top: 30px;
+	}
+}
+
+@media screen and (max-width: 1242px) and (min-width: 1117px) {
+	.priceCard{
+		padding: 17px 15px;
+	}
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+
+.section1{
+    min-height:770px !important;
+    background-position:right;
+}
+
+.theBestGhost h1 
+{
+        font-size: 61.75px;
+}
+}
+
+
+@media (max-width:767px)
+{
+    .section1
+    {
+        background-position:right;
+        min-height:450px;
+    }
+    
+    .theBestGhost h1 {
+    font-size: 38px;
+    }
+    
+    .section2
+    {
+        padding:10px;
+    }
+    
+    
+    .WhatWeDoFor 
+    {
+        font-size:13px;
+    }
+    
+    .FinEst h1 {
+    
+        font-size:34px;
+    }
+    
+    .price-p {
+    font-size: 19.3px;
+    }
+    
+    .section3
+    {
+        padding:20px;
+    }
+
+
+}
+
+
+
+.checklist {
+	list-style: none;
+	padding-left: 15px;
+	/*list-style-image: url('sqpurple.gif');*/
+}
+
+
+
+
+
+/*new price cards*/
+
+
+.rowOfWaitingFor .rowCards {
+	min-height: 100vh;
+}
+.rowOfWaitingFor .card {
+	border: 0;
+	border-radius: 0px;
+	-webkit-box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .08);
+	box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .08);
+	transition: all 0.3s ease-in-out;
+	padding: 2.25rem 2rem;
+	position: relative;
+	will-change: transform;
+	margin-top: 10px;
+}
+.rowOfWaitingFor .card:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0%;
+	height: 5px;
+	background-color: #03a63c;
+	transition: 0.5s;
+}
+.rowOfWaitingFor .card:hover {
+	transform: scale(1.05);
+	-webkit-box-shadow: 0 20px 35px 0 rgba(0, 0, 0, .08);
+	box-shadow: 0 20px 35px 0 rgba(0, 0, 0, .08);
+}
+.rowOfWaitingFor .card:hover:after {
+	width: 100%;
+}
+.rowOfWaitingFor .card .card-header {
+	background-color: white;
+	padding-left: 2rem;
+	border-bottom: 0px;
+}
+.rowOfWaitingFor .card .card-title {
+	margin-bottom: 1rem;
+}
+.rowOfWaitingFor .card .card-block {
+	padding-top: 0;
+}
+.rowOfWaitingFor .card .list-group-item {
+	border: 0px;
+	padding: 0.25rem;
+	color: #808080;
+	font-weight: 300;
+}
+.rowOfWaitingFor .display-2 {
+	font-size: 3.5rem;
+    letter-spacing: 1;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.rowOfWaitingFor .display-2 .currency {
+	font-size: 2.75rem;
+	position: relative;
+	font-weight: 400;
+	top: 0;
+	letter-spacing: 0px;
+}
+.rowOfWaitingFor .display-2 .period {
+	font-size: 1rem;
+	color: #b3b3b3;
+	letter-spacing: 0px;
+}
+.rowOfWaitingFor .btn {
+	text-transform: uppercase;
+	font-size: 0.75rem;
+	font-weight: 500;
+	color: #fff;
+	border-radius: 0;
+	padding: 0.75rem 1.25rem;
+	letter-spacing: 1px;
+}
+.rowOfWaitingFor .btn-gradient {
+	background-color: green;
+	color: #fff;
+	transition: background 0.3s ease-in-out;
+}
+.rowOfWaitingFor .btn-gradient:hover {
+	color: #fff;
+	background-color: #03a63c;
+	transition: .7s ease-in-out;
+}
+.rowOfWaitingFor .ulPlans{
+   font-family: "Nunito";
+   text-align: left;
+} 
+
+.rowOfWaitingFor .ulPlans{
+   list-style: none;
+
+}
+.rowOfWaitingFor .ulPlans li {
+    font-size: 12.8px;
+    font-family: "Nunito";
+    font-weight: 500;
+    padding: 8px 0;
+}
+
+.rowOfWaitingFor .ulPlans li:before {
+ content: "\f058"; 
+ font-family: FontAwesome;
+ display: inline-block;
+ color: green;
+ margin-left: -1.3em; 
+ width: 1.3em; 
+}
+
+.fa-check-circle{
+	color: #1e293d;
+}
