@@ -419,7 +419,7 @@ yourself. Contact us now!
 			<div class="col-12 col-lg-3 col-md-6">
 				<div class="card text-center">
 					<div class="">
-					<h3 class="display-2"><span class="currency">$</span>799</h3>
+					<h3 class="display-2">$799</h3>
 						<div class="text-center">
 						<s><p class="text-black">$1,450</p></s>
 						</div>
@@ -448,7 +448,7 @@ yourself. Contact us now!
 				<div class="col-12 col-lg-3 col-md-6">
 				<div class="card text-center">
 					<div class="">
-					<h3 class="display-2"><span class="currency">$</span>999</h3>
+					<h3 class="display-2">$999</h3>
 					<div class="text-center">
 						<s><p class="text-black">$2,000</p></s>
 						</div>
@@ -477,7 +477,7 @@ yourself. Contact us now!
 				<div class="col-12 col-lg-3 col-md-6">
 				<div class="card text-center">
 					<div class="">
-					<h3 class="display-2"><span class="currency">$</span>1,299</h3>
+					<h3 class="display-2">$1,299</h3>
 					<div class="text-center">
 						<s><p class="text-black">$2,600</p></s>
 						</div>
@@ -507,7 +507,7 @@ yourself. Contact us now!
 				<div class="col-12 col-lg-3 col-md-6">
 				<div class="card text-center">
 					<div class="">
-					<h3 class="display-2"><span class="currency">$</span>1,499</h3>
+					<h3 class="display-2">$1,499</h3>
 					<div class="text-center">
 						<s><p class="text-black">$3,000</p></s>
 						</div>
