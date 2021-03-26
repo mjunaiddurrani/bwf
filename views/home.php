@@ -481,33 +481,6 @@
 
                     <div class="col-md-3">
                         <div class="box">
-                            <img src="assets/images/img-7.jpg">
-                            <h2>Copyrights Protection</h2>
-                            <p>Turn Trademark Engine into your Copyright Engine and protect your book,</p>
-                        </div>
-                        <div class="homepage-programs--entry">
-
-                            <div class="program-info">
-                                <div class="program-icon">
-                                    <img src="assets/images/services/copyright-protection.svg" alt="Author Program">
-                                </div>
-                                <div class="program-title">
-                                    <a href="javascript:;" onclick="setButtonURL();">
-           Chat with us to            
-           <span>AVAIL 20% Discount</span>
-           </a>
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-md-3">
-                        <div class="box">
                             <img src="assets/images/img-8.jpg">
                             <h2>Author Website</h2>
                             <p>In today’s book marketplace, your online presence as an author.</p>
