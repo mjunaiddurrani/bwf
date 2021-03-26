@@ -110,7 +110,7 @@ yourself. Contact us now!
     }
     .posBottom{
         position:absolute;
-        bottom:0;
+        bottom:18%;
         width:100%;
         left:0;
 		right:0;
@@ -127,6 +127,7 @@ yourself. Contact us now!
 	background:#fff;
 	color:#000;
 	border:2px solid #3c97b5 ;
+	margin-right: 15px;
 }
 	</style>
 </head>
@@ -406,7 +407,7 @@ yourself. Contact us now!
                 <div class="home-banner-content">
                     <h1>Having a hard time writing your book!<br> We are here to assist you.</h1>
                     <p class="subtitle">If you have an idea for a book you want to write but you are not a master of words, you have come to the right place!</p>
-                      <a href="tel:+18889768388" class="btn-theme border-red-btn mb-2">+1-888-976-8388</a>
+                      <a href="tel:+18889768388" class="btn-theme border-red-btn mb-2">Call Now</a>
                       <a href="javascript:void(0);" class="btn-theme mb-2 liveChat">Chat Now</a>
 
                 </div>
