@@ -234,13 +234,25 @@
       <h2>Check Out a few Trailers </h2>
       <p>Set up a call with one our talented producers who can walk you through the process and answer any questions you might have.</p>
       <div class="row portfolio-slider">
-        <div class="col-md-2"><a data-fancybox="video-file" data-type="iframe" data-src="../assets/videos/01.mp4" href="javascript:;" tabindex="-1"><img src="../assets/videos/videothumb-01.jpg"></a></div>
-        <div class="col-md-2"><a data-fancybox="video-file" data-type="iframe" data-src="../assets/videos/02.mp4" href="javascript:;" tabindex="-1"><img src="../assets/videos/videothumb-02.jpg"></a></div>
-        <div class="col-md-2"><a data-fancybox="video-file" data-type="iframe" data-src="../assets/videos/03.mp4" href="javascript:;" tabindex="-1"><img src="../assets/videos/videothumb-03.jpg"></a></div>
-        <div class="col-md-2"><a data-fancybox="video-file" data-type="iframe" data-src="../assets/videos/04.mp4" href="javascript:;" tabindex="-1"><img src="../assets/videos/videothumb-04.jpg"></a></div>
-        <div class="col-md-2"><a data-fancybox="video-file" data-type="iframe" data-src="../assets/videos/05.mp4" href="javascript:;" tabindex="-1"><img src="../assets/videos/videothumb-05.jpg"></a></div>
-        <div class="col-md-2"><a data-fancybox="video-file" data-type="iframe" data-src="../assets/videos/06.mp4" href="javascript:;" tabindex="-1"><img src="../assets/videos/videothumb-06.jpg"></a></div>
-        
+      <div class="col-md-2">
+          <a data-fancybox="video-file" data-type="iframe" data-src="assets/videos/01.mp4" href="javascript:;" tabindex="-1"><img src="assets/videos/videothumb-01.jpg" /></a>
+      </div>
+      <div class="col-md-2">
+          <a data-fancybox="video-file" data-type="iframe" data-src="assets/videos/02.mp4" href="javascript:;" tabindex="-1"><img src="assets/videos/videothumb-02.jpg" /></a>
+      </div>
+      <div class="col-md-2">
+          <a data-fancybox="video-file" data-type="iframe" data-src="assets/videos/03.mp4" href="javascript:;" tabindex="-1"><img src="assets/videos/videothumb-03.jpg" /></a>
+      </div>
+      <div class="col-md-2">
+          <a data-fancybox="video-file" data-type="iframe" data-src="assets/videos/04.mp4" href="javascript:;" tabindex="-1"><img src="assets/videos/videothumb-04.jpg" /></a>
+      </div>
+      <div class="col-md-2">
+          <a data-fancybox="video-file" data-type="iframe" data-src="assets/videos/05.mp4" href="javascript:;" tabindex="-1"><img src="assets/videos/videothumb-05.jpg" /></a>
+      </div>
+      <div class="col-md-2">
+          <a data-fancybox="video-file" data-type="iframe" data-src="assets/videos/06.mp4" href="javascript:;" tabindex="-1"><img src="assets/videos/videothumb-06.jpg" /></a>
+      </div>
+
 
       </div>
     </div>
