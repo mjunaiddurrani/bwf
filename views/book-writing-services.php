@@ -444,7 +444,7 @@ yourself. Contact us now!
 							<li class=""> A dedicated team of expert writers and designers.  </li>
 							<li class=""> Access to the online portal.  </li>
 							<li class=""> Free Editing, Proofreading and formatting  </li>
-							<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
+							<li class=""> Free Cover design. Front and Back 2D and 3D.  </li>
 							<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
 					<a href="/order/" class="btn btn-red mt-2 price"  data-price="499">Get a quote</a>
@@ -473,7 +473,7 @@ yourself. Contact us now!
 						<li class=""> A dedicated team of expert writers and designers.  </li>
 						<li class=""> Access to the online portal.  </li>
 						<li class=""> Free Editing, Proofreading and formatting  </li>
-						<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
+						<li class=""> Free Cover design. Front and Back 2D and 3D.  </li>
 						<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
 					<a href="/order/" class="btn btn-red mt-2 price"  data-price="799">Get a quote</a>
@@ -503,7 +503,7 @@ yourself. Contact us now!
 						<li class=""> A dedicated team of expert writers and designers.  </li>
 						<li class=""> Access to the online portal.  </li>
 						<li class=""> Free Editing, Proofreading and formatting  </li>
-						<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
+						<li class=""> Free Cover design. Front and Back 2D and 3D.  </li>
 						<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
 					<a href="/order/" class="btn btn-red mt-2 price"  data-price="999">Get a quote</a>
@@ -533,7 +533,7 @@ yourself. Contact us now!
 						<li class=""> A dedicated team of expert writers and designers.  </li>
 						<li class=""> Access to the online portal.  </li>
 						<li class=""> Free Editing, Proofreading and formatting  </li>
-						<li class=""> Free Cover design. Font and Back 2D and 3D.  </li>
+						<li class=""> Free Cover design. Front and Back 2D and 3D.  </li>
 						<li class=""> 100% Rights + Royalties  + Ownership.  </li>
 					</ul>
 					<a href="/order/" class="btn btn-red mt-2 price"  data-price="1,299">Get a quote</a>
